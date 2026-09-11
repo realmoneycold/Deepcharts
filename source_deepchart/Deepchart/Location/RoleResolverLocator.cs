@@ -1,0 +1,9 @@
+using System.Runtime.InteropServices;
+
+namespace Deepchart.Location;
+
+[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 224)]
+internal struct RoleResolverLocator
+{
+	internal static readonly RoleResolverLocator _IdentifiableClient/* Not supported: data(00 00 00 30 30 00 00 00 00 00 00 02 02 00 00 00 FF FF FF FF FF FF FF FF 00 00 03 70 70 03 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 45 45 01 00 00 00 00 00 00 00 00 00 00 00 00 01 45 45 01 00 00 FF FF FF FF FF FF FF FF 00 00 01 45 45 01 00 00 00 00 02 2B 2B 02 00 00 00 00 00 30 30 00 00 00 00 00 03 70 70 03 00 00 00 00 00 38 38 00 00 00 FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 03 70 70 03 00 00 FF FF FF FF FF FF FF FF 00 00 03 70 70 03 00 00 00 00 00 2E 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 03 9E 9E 03 00 00 00 00 00 0A 0A 00 00 00 FF FF FF FF FF FF FF FF) */;
+}

@@ -1,0 +1,59 @@
+# ==============================
+# Deepchart Trading Platform
+# ==============================
+
+# ---- Build artifacts & local SDK (huge, not source) ----
+.dotnet/
+.dotnet-home/
+.nuget-local/
+.tools/
+
+# ---- Build output (all projects) ----
+source_deepchart/bin/
+source_deepchart/obj/
+source_asm1/bin/
+source_asm1/obj/
+source_asm8/bin/
+source_asm8/obj/
+source_asm11/bin/
+source_asm11/obj/
+source_asm13/bin/
+source_asm13/obj/
+
+# ---- Binaries / installers (keep only if intentional, but usually not source) ----
+*.exe
+*.dll
+*.msi
+*.bin
+*.iso
+Trading/
+Mon1ycold Trading Setup.exe
+extracted_container.bin
+
+# ---- Extraction intermediate folders ----
+decompiled_source/
+container_contents/
+msi_extracted/
+extracted/
+
+# ---- Resx designer generated ----
+*.Designer.cs
+
+# ---- Visual Studio / Rider ----
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Temp / logs ----
+*.log
+*.tmp
+*.swp

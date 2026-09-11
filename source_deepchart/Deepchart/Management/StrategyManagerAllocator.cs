@@ -1,0 +1,9 @@
+using System.Runtime.InteropServices;
+
+namespace Deepchart.Management;
+
+[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 206)]
+internal struct StrategyManagerAllocator
+{
+	internal static readonly StrategyManagerAllocator _MixedField/* Not supported: data(01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 01 01 00 00 00 03 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 02 02 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 03 03 00 00 00 06 03 07 08 00 00 00 04 04 00 00 00 09 0A 00 00 00 05 05 00 00 00 0B 0C 0D 00 00 00 40 40 00 00 00 0E 0F 10 00 00 00 00 00 00 00 00 11 00 00 00 06 06 00 00 00 0A 00 00 00 05 05 00 00 00 12 00 00 00 00 00 00 00 00 0D 00 00 00 40 40 00 00 00 13 14 00 00 00 07 07 00 00 00 0D 00 00 00 40 40 00 00 00 15 00 00 00 08 08 00 00 00 16 00 00 00 09 09 00 00 00 17 00 00 00 0A 0A 00 00 00 18) */;
+}

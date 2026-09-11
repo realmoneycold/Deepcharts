@@ -1,0 +1,1901 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="Range trade settings" xml:space="preserve"><value>Configuración rango trade</value></data>
+  <data name="Sim account" xml:space="preserve"><value>Cuenta simulada</value></data>
+  <data name="Delta bid color" xml:space="preserve"><value>Color de oferta delta</value></data>
+  <data name="Summary" xml:space="preserve"><value>Resumen</value></data>
+  <data name="Show stopiceberg" xml:space="preserve"><value>Mostrar stopiceberg</value></data>
+  <data name="Number of days" xml:space="preserve"><value>Número de días</value></data>
+  <data name="Pivot point" xml:space="preserve"><value>Punto de pivote</value></data>
+  <data name="Open qty" xml:space="preserve"><value>Abrir cantidad</value></data>
+  <data name="Profit Target" xml:space="preserve"><value>Objetivo de ganancias</value></data>
+  <data name="Level based on" xml:space="preserve"><value>Nivel basado en</value></data>
+  <data name="All symbols" xml:space="preserve"><value>Todos los símbolos</value></data>
+  <data name="Startup" xml:space="preserve"><value>Comenzar</value></data>
+  <data name="Std dev" xml:space="preserve"><value>Dev. std.</value></data>
+  <data name="Parallel lines" xml:space="preserve"><value>Lineas paralelas</value></data>
+  <data name="Sim accounts" xml:space="preserve"><value>cuentas sim</value></data>
+  <data name="Single print min value" xml:space="preserve"><value>Valor mínimo single print</value></data>
+  <data name="Alert minimum volume" xml:space="preserve"><value>Volumen mínimo de alerta</value></data>
+  <data name="Pecentual" xml:space="preserve"><value>Porcentual</value></data>
+  <data name="OPEN AT" xml:space="preserve"><value>Abrir AT</value></data>
+  <data name="Third supp color" xml:space="preserve"><value>Tercer color de apoyo</value></data>
+  <data name="Chart dom settings" xml:space="preserve"><value>Configurar grafico del dom</value></data>
+  <data name="Open back color" xml:space="preserve"><value>Fondo de apertura</value></data>
+  <data name="High imbalance color" xml:space="preserve"><value>Color máximo imbalance</value></data>
+  <data name="Webinar" xml:space="preserve"><value>Seminario web</value></data>
+  <data name="Detached window" xml:space="preserve"><value>Ventana separada</value></data>
+  <data name="Tot. qty" xml:space="preserve"><value>Cant. tot</value></data>
+  <data name="Starting mode" xml:space="preserve"><value>Modo de inicio</value></data>
+  <data name="Mirroring" xml:space="preserve"><value>Duplicación</value></data>
+  <data name="Peak min poc perc" xml:space="preserve"><value>% mín. a POC</value></data>
+  <data name="Auto tick grouping" xml:space="preserve"><value>Agrupación automática de ticks</value></data>
+  <data name="Trade marker" xml:space="preserve"><value>Marcador trade</value></data>
+  <data name="Trend down color line" xml:space="preserve"><value>Línea de color de tendencia descendente</value></data>
+  <data name="Symbol rollover" xml:space="preserve"><value>Cambio de símbolo</value></data>
+  <data name="Screenshot save dialog" xml:space="preserve"><value>Guardado automático de pantalla</value></data>
+  <data name="Setting volswing" xml:space="preserve"><value>Ajustes de VolSwing</value></data>
+  <data name="Wait time(m) after partial DD" xml:space="preserve"><value>Tiempo de espera (m) después de DD parcial</value></data>
+  <data name="Length settings" xml:space="preserve"><value>Ajustes de longitud</value></data>
+  <data name="PL column color" xml:space="preserve"><value>PL color de columna</value></data>
+  <data name="Server status" xml:space="preserve"><value>Estado del servidor</value></data>
+  <data name="Vol up color" xml:space="preserve"><value>Aumenta el color</value></data>
+  <data name="Filled color" xml:space="preserve"><value>Color ejecutado</value></data>
+  <data name="Minimum number of zero" xml:space="preserve"><value>Número mínimo de cero</value></data>
+  <data name="Current width" xml:space="preserve"><value>Ancho actual</value></data>
+  <data name="Enable triggered zone" xml:space="preserve"><value>Habilitar zona activada</value></data>
+  <data name="2 hours" xml:space="preserve"><value>2 horas</value></data>
+  <data name="Current style" xml:space="preserve"><value>Estilo actual</value></data>
+  <data name="Manual ticks" xml:space="preserve"><value>Manual ticks</value></data>
+  <data name="5 minutes" xml:space="preserve"><value>5  minutos</value></data>
+  <data name="Text offset" xml:space="preserve"><value>Desplazamiento de texto</value></data>
+  <data name="Order submitted alert" xml:space="preserve"><value>Alerta de pedido enviado</value></data>
+  <data name="Avg value" xml:space="preserve"><value>Tipo valor</value></data>
+  <data name="Filled price" xml:space="preserve"><value>Precio completo</value></data>
+  <data name="Buy internal color" xml:space="preserve"><value>Color de compra interno</value></data>
+  <data name="Saving configuration" xml:space="preserve"><value>Guardar configuración</value></data>
+  <data name="Short trades" xml:space="preserve"><value>Escasear</value></data>
+  <data name="Histogram value" xml:space="preserve"><value>Valor de histograma</value></data>
+  <data name="Alert sounds" xml:space="preserve"><value>Notificaciones de sonido</value></data>
+  <data name="Draw down" xml:space="preserve"><value>Draw down</value></data>
+  <data name="Extend till close cross" xml:space="preserve"><value>Extender hasta cerrar cross</value></data>
+  <data name="Enable stop order" xml:space="preserve"><value>Habilitar orden stop</value></data>
+  <data name="Indicator template" xml:space="preserve"><value>Plantilla de indicador</value></data>
+  <data name="Text format" xml:space="preserve"><value>Texto formato</value></data>
+  <data name="Balance" xml:space="preserve"><value>Balance</value></data>
+  <data name="Valley max. vol" xml:space="preserve"><value>Valle máx. volumen</value></data>
+  <data name="Min. reversal tick" xml:space="preserve"><value>MÍn. reversal tick</value></data>
+  <data name="Buy filter 2" xml:space="preserve"><value>Comprar filtro 2</value></data>
+  <data name="Buy filter 1" xml:space="preserve"><value>Comprar filtro 1</value></data>
+  <data name="Last filled qty" xml:space="preserve"><value>Cantidad de la última ejecución</value></data>
+  <data name="Swing down color line" xml:space="preserve"><value>Color linea swing bajista</value></data>
+  <data name="Clear historical account report" xml:space="preserve"><value>Borrar informe de cuenta histórica</value></data>
+  <data name="Third color" xml:space="preserve"><value>Tercer color</value></data>
+  <data name="Third label" xml:space="preserve"><value>Tercer texto</value></data>
+  <data name="Short formatted" xml:space="preserve"><value>Formato corto</value></data>
+  <data name="Day expire" xml:space="preserve"><value>Día de caducidad</value></data>
+  <data name="Susp. P." xml:space="preserve"><value>Susp. PAG.</value></data>
+  <data name="Third range" xml:space="preserve"><value>Tercer Rango</value></data>
+  <data name="Filter bubble" xml:space="preserve"><value>Filtro de burbuja</value></data>
+  <data name="Duplicate window" xml:space="preserve"><value>Diuplicar Ventana</value></data>
+  <data name="Show hist fills" xml:space="preserve"><value>Mostrar ejecuciones históricas</value></data>
+  <data name="Sec to close" xml:space="preserve"><value>Segundo para cerrar</value></data>
+  <data name="Enable profile" xml:space="preserve"><value>Habilitar profile</value></data>
+  <data name="Show summary" xml:space="preserve"><value>Mostrar resumen</value></data>
+  <data name="Show delta" xml:space="preserve"><value>Mostrar delta</value></data>
+  <data name="Sum size" xml:space="preserve"><value>Valor suma</value></data>
+  <data name="Enable" xml:space="preserve"><value>Habilitar</value></data>
+  <data name="Please enable trading before" xml:space="preserve"><value>Habilite el comercio antes</value></data>
+  <data name="Show chart" xml:space="preserve"><value>Mostrar gráfico</value></data>
+  <data name="Show lines" xml:space="preserve"><value>Mostrar líneas</value></data>
+  <data name="Pixel per tick" xml:space="preserve"><value>Píxel por marca</value></data>
+  <data name="Buy exit arrow color" xml:space="preserve"><value>Color de la flecha de salida</value></data>
+  <data name="Windows" xml:space="preserve"><value>Ventanas</value></data>
+  <data name="Text settings" xml:space="preserve"><value>Configuración de texto</value></data>
+  <data name="Volume bid color" xml:space="preserve"><value>Color de oferta por volumen</value></data>
+  <data name="Ask highlight" xml:space="preserve"><value>Resaltar ASK</value></data>
+  <data name="Show price" xml:space="preserve"><value>Mostrar precio</value></data>
+  <data name="Reverse order" xml:space="preserve"><value>Inverso orden</value></data>
+  <data name="Order window" xml:space="preserve"><value>Ventana de orden</value></data>
+  <data name="Extend far right" xml:space="preserve"><value>Extender al extremo derecho</value></data>
+  <data name="Min. volume" xml:space="preserve"><value>Mín. volumen</value></data>
+  <data name="Vwap settings" xml:space="preserve"><value>Configuración de VWAP</value></data>
+  <data name="Buy market color" xml:space="preserve"><value>Buy market color</value></data>
+  <data name="Value background" xml:space="preserve"><value>Valor de fondo</value></data>
+  <data name="Are you sure to cancel an OCO order?" xml:space="preserve"><value>¿Estás seguro de cancelar un pedido OCO?</value></data>
+  <data name="Price text color" xml:space="preserve"><value>Color del texto del precio</value></data>
+  <data name="User defined" xml:space="preserve"><value>Definido por el usuario</value></data>
+  <data name="Use ini time as base for minute tf." xml:space="preserve"><value>Utilice el tiempo ini como base para el minuto tf.</value></data>
+  <data name="Symbol name" xml:space="preserve"><value>Nombre del símbolo</value></data>
+  <data name="Symbol list" xml:space="preserve"><value>Lista de símbolos</value></data>
+  <data name="45 seconds" xml:space="preserve"><value>45 segundos</value></data>
+  <data name="Book speed settings" xml:space="preserve"><value>Configuración de la velocidad del libro</value></data>
+  <data name="Trade Drawdown" xml:space="preserve"><value>Reducción comercial</value></data>
+  <data name="Include all cateogries" xml:space="preserve"><value>Incluir todas las categorías</value></data>
+  <data name="Close workspace" xml:space="preserve"><value>Cerrar espacio de trabajo</value></data>
+  <data name="Time analysis" xml:space="preserve"><value>Análisis de tiempo</value></data>
+  <data name="Filter bad ticks" xml:space="preserve"><value>Filtrar ticks incorrectos</value></data>
+  <data name="Poc color" xml:space="preserve"><value>Poc color</value></data>
+  <data name="No data available" xml:space="preserve"><value>Datos no disponibles</value></data>
+  <data name="Past color" xml:space="preserve"><value>Color pasado</value></data>
+  <data name="Connect broker" xml:space="preserve"><value>Conectar Broker</value></data>
+  <data name="Template" xml:space="preserve"><value>Template</value></data>
+  <data name="Scanner width" xml:space="preserve"><value>Ancho del escáner</value></data>
+  <data name="Remove connection" xml:space="preserve"><value>Eliminar conexión</value></data>
+  <data name="Show 61.8%" xml:space="preserve"><value>Mostrar 61.8%</value></data>
+  <data name="Automatic detection" xml:space="preserve"><value>Detección automática</value></data>
+  <data name="Show 38.2%" xml:space="preserve"><value>Mostrar 38.2%</value></data>
+  <data name="Exit quantity" xml:space="preserve"><value>Cantidad de salida</value></data>
+  <data name="End custom dt" xml:space="preserve"><value>Finr dt personalizado</value></data>
+  <data name="Show settings" xml:space="preserve"><value>Mostrar ajsutes</value></data>
+  <data name="Minute length" xml:space="preserve"><value>Número minuto</value></data>
+  <data name="Flat on exceeded" xml:space="preserve"><value>Cerrar todas las operaciones abiertas</value></data>
+  <data name="Auto scroll" xml:space="preserve"><value>Auto scroll</value></data>
+  <data name="Tick range" xml:space="preserve"><value>Tick range</value></data>
+  <data name="Tick value" xml:space="preserve"><value>Tick valor</value></data>
+  <data name="Closing connection" xml:space="preserve"><value>Cerrar conexión</value></data>
+  <data name="Filter settings" xml:space="preserve"><value>Configuración de filtros</value></data>
+  <data name="High enabled" xml:space="preserve"><value>Máx habilitado</value></data>
+  <data name="Settings trading" xml:space="preserve"><value>Configurar trading</value></data>
+  <data name="Marker color" xml:space="preserve"><value>Color del marcador</value></data>
+  <data name="Single print" xml:space="preserve"><value>Single print</value></data>
+  <data name="Alerts" xml:space="preserve"><value>Alertas</value></data>
+  <data name="Always" xml:space="preserve"><value>Siempre</value></data>
+  <data name="Length high low" xml:space="preserve"><value>Largo máx/mín</value></data>
+  <data name="Marker alert" xml:space="preserve"><value>Alerta de marcador</value></data>
+  <data name="Feed status" xml:space="preserve"><value>Estado de los datos</value></data>
+  <data name="August" xml:space="preserve"><value>Agosto</value></data>
+  <data name="Marker width" xml:space="preserve"><value>Ancho del marcador</value></data>
+  <data name="Marker style" xml:space="preserve"><value>Estilo de marcador</value></data>
+  <data name="Suspension enable" xml:space="preserve"><value>Habilitar suspensión</value></data>
+  <data name="Marker value" xml:space="preserve"><value>Valor del marcador</value></data>
+  <data name="Bid font color" xml:space="preserve"><value>Color texto BID</value></data>
+  <data name="Buy trig color" xml:space="preserve"><value>Compras color cruzado</value></data>
+  <data name="VolBook is already running" xml:space="preserve"><value>VolBook esta conectada</value></data>
+  <data name="Fading" xml:space="preserve"><value>Desvanecimiento</value></data>
+  <data name="Zone resistance" xml:space="preserve"><value>Área de resistencia</value></data>
+  <data name="Buy background" xml:space="preserve"><value>Fondo compra</value></data>
+  <data name="Max ord num" xml:space="preserve"><value>Número maximo orden</value></data>
+  <data name="Filled" xml:space="preserve"><value>Completada</value></data>
+  <data name="Filter" xml:space="preserve"><value>Filtro</value></data>
+  <data name="Dn fill color" xml:space="preserve"><value>Color de la parte inferior del cuerpo</value></data>
+  <data name="Enable first letter" xml:space="preserve"><value>Habilitar primera letra</value></data>
+  <data name="Feed source" xml:space="preserve"><value>Fuente de datos</value></data>
+  <data name="Friday" xml:space="preserve"><value>Viernes</value></data>
+  <data name="Number of swing" xml:space="preserve"><value>Número de swing</value></data>
+  <data name="Drawing tool from other chart" xml:space="preserve"><value>Herramienta de dibujo de otro gráfico</value></data>
+  <data name="High back color" xml:space="preserve"><value>Fondo Máx</value></data>
+  <data name="Tile horizontally" xml:space="preserve"><value>Mosaico horizontal</value></data>
+  <data name="Second negative color" xml:space="preserve"><value>Segundo color negativo</value></data>
+  <data name="Settings column order" xml:space="preserve"><value>Configuracion de la columnas</value></data>
+  <data name="Zoom range" xml:space="preserve"><value>Rango de acercamiento</value></data>
+  <data name="Font size" xml:space="preserve"><value>Tamaño de la fuenta</value></data>
+  <data name="Swing up color line" xml:space="preserve"><value>Color linea swing alcista</value></data>
+  <data name="Confluence settings" xml:space="preserve"><value>Configuraciones de confluencia</value></data>
+  <data name="Oversold color" xml:space="preserve"><value>Color sobrevendido</value></data>
+  <data name="Text show" xml:space="preserve"><value>Mostrar texto</value></data>
+  <data name="Text size" xml:space="preserve"><value>Tamaño del texto</value></data>
+  <data name="Ts mode" xml:space="preserve"><value>TS módo</value></data>
+  <data name="Length bar" xml:space="preserve"><value>Barra de longitud</value></data>
+  <data name="Tuesday" xml:space="preserve"><value>Martes</value></data>
+  <data name="Std dev val" xml:space="preserve"><value>Valor desarrollo estandar</value></data>
+  <data name="Canceled color" xml:space="preserve"><value>Color cancelado</value></data>
+  <data name="Vol marker enabled" xml:space="preserve"><value>Habilitar marcador de volumen</value></data>
+  <data name="Calculate on shadow" xml:space="preserve"><value>Calcular en sombra</value></data>
+  <data name="Bar positive color" xml:space="preserve"><value>Barra de color positivo</value></data>
+  <data name="Min % imbalance" xml:space="preserve"><value>Mín % imbalance</value></data>
+  <data name="Absorption-pressure" xml:space="preserve"><value>Absorción-presión</value></data>
+  <data name="Candle opacity" xml:space="preserve"><value>Opacidad de la vela</value></data>
+  <data name="Label and line" xml:space="preserve"><value>Etiqueta y línea</value></data>
+  <data name="Cumulative delta" xml:space="preserve"><value>Delta acumulado</value></data>
+  <data name="Add connection" xml:space="preserve"><value>Añadir conexión</value></data>
+  <data name="Delete" xml:space="preserve"><value>Borrar</value></data>
+  <data name="Marker positive color" xml:space="preserve"><value>Color de marcador positivo</value></data>
+  <data name="Symbols" xml:space="preserve"><value>Simbolos</value></data>
+  <data name="Symbol:" xml:space="preserve"><value>Símbolo:</value></data>
+  <data name="Trading" xml:space="preserve"><value>Trading</value></data>
+  <data name="Position only windows inside selected monitors" xml:space="preserve"><value>Coloque solo las ventanas dentro de los monitores seleccionados</value></data>
+  <data name="Bid-Ask" xml:space="preserve"><value>oferta y demanda</value></data>
+  <data name="Bid/ask" xml:space="preserve"><value>Bid/Ask</value></data>
+  <data name="Font color" xml:space="preserve"><value>Color de la fuenta</value></data>
+  <data name="Enable order cancelled" xml:space="preserve"><value>Habilitar pedido revocado</value></data>
+  <data name="Show filled bar" xml:space="preserve"><value>Mostrar barra completa</value></data>
+  <data name="Show filled vbp" xml:space="preserve"><value>Mostrar vbp lleno</value></data>
+  <data name="Tpo period" xml:space="preserve"><value>Tpo período</value></data>
+  <data name="Enable alert sound" xml:space="preserve"><value>Habilitar sonido de alerta</value></data>
+  <data name="Absolute reversal" xml:space="preserve"><value>Reversal abosoluto</value></data>
+  <data name="Space label" xml:space="preserve"><value>Espacio de texto</value></data>
+  <data name="Max. partial drawdown" xml:space="preserve"><value>Máx parcial drawdown</value></data>
+  <data name="Previous" xml:space="preserve"><value>Anterior</value></data>
+  <data name="Period mode" xml:space="preserve"><value>Modo de período</value></data>
+  <data name="Minute" xml:space="preserve"><value>Minute</value></data>
+  <data name="Tot. vol and delta" xml:space="preserve"><value>Vol y Delta Total</value></data>
+  <data name="Mode 2" xml:space="preserve"><value>Modo 2</value></data>
+  <data name="Modify" xml:space="preserve"><value>Modificar</value></data>
+  <data name="Monday" xml:space="preserve"><value>Lunes</value></data>
+  <data name="Months" xml:space="preserve"><value>Meses</value></data>
+  <data name="Retracement settings" xml:space="preserve"><value>Ajustes de configuración</value></data>
+  <data name="Marker settings" xml:space="preserve"><value>Configuración de marcadores</value></data>
+  <data name="Manage" xml:space="preserve"><value>Administrar</value></data>
+  <data name="Manual" xml:space="preserve"><value>Manual</value></data>
+  <data name="Minimum delta % difference" xml:space="preserve"><value>Diferencia mínima delta %</value></data>
+  <data name="Market" xml:space="preserve"><value>Mercado</value></data>
+  <data name="Marker" xml:space="preserve"><value>Marcador</value></data>
+  <data name="Margin" xml:space="preserve"><value>Margen</value></data>
+  <data name="Zig zag abs. rev" xml:space="preserve"><value>Zig zag abs. rev</value></data>
+  <data name="Medium" xml:space="preserve"><value>Medio</value></data>
+  <data name="Metric" xml:space="preserve"><value>Métrica</value></data>
+  <data name="Delta height" xml:space="preserve"><value>Altura delta</value></data>
+  <data name="Chart area:" xml:space="preserve"><value>Área del gráfico:</value></data>
+  <data name="Projection bar" xml:space="preserve"><value>Proyeción de barra</value></data>
+  <data name="Maximum seconds to close" xml:space="preserve"><value>Máximo de segundos para cerrar</value></data>
+  <data name="Message popup" xml:space="preserve"><value>Mensaje emergente</value></data>
+  <data name="Correlation viewer" xml:space="preserve"><value>Correlación viewer</value></data>
+  <data name="Adv. dom" xml:space="preserve"><value>Adv. dom</value></data>
+  <data name="Neg. delta trade" xml:space="preserve"><value>Neg. delta trade</value></data>
+  <data name="No workspace opened" xml:space="preserve"><value>No se abrió ningún espacio de trabajo</value></data>
+  <data name="Range defining" xml:space="preserve"><value>Definición de rango</value></data>
+  <data name="Balance:" xml:space="preserve"><value>Balance:</value></data>
+  <data name="Year expire" xml:space="preserve"><value>Año de caducidad</value></data>
+  <data name="Important levels settings" xml:space="preserve"><value>Configuración de niveles importantes</value></data>
+  <data name="Control bar always on top" xml:space="preserve"><value>Barra de control siempre arriba</value></data>
+  <data name="Ask absorption" xml:space="preserve"><value>Ask absorción</value></data>
+  <data name="Broker" xml:space="preserve"><value>Broker</value></data>
+  <data name="Broken" xml:space="preserve"><value>Roto</value></data>
+  <data name="Scanner" xml:space="preserve"><value>Escáner</value></data>
+  <data name="Minutes before" xml:space="preserve"><value>Minutos antes</value></data>
+  <data name="Show portfolio" xml:space="preserve"><value>Mostrar cartera</value></data>
+  <data name="Zero line color" xml:space="preserve"><value>Color de línea cero</value></data>
+  <data name="Application" xml:space="preserve"><value>Aplicación</value></data>
+  <data name="Thursday" xml:space="preserve"><value>Jueves</value></data>
+  <data name="Flatten position" xml:space="preserve"><value>Cerrar posiciones</value></data>
+  <data name="Please select an Oco Order Type" xml:space="preserve"><value>Seleccione un tipo de orden de Oco</value></data>
+  <data name="Price fan" xml:space="preserve"><value>Precio fan</value></data>
+  <data name="Scale format" xml:space="preserve"><value>Formato de escala</value></data>
+  <data name="Column" xml:space="preserve"><value>Columna</value></data>
+  <data name="Common" xml:space="preserve"><value>Común</value></data>
+  <data name="Override auto color" xml:space="preserve"><value>Anulación de color automática</value></data>
+  <data name="Cancel" xml:space="preserve"><value>Cancelar</value></data>
+  <data name="Candle" xml:space="preserve"><value>Barra</value></data>
+  <data name="Zero line style" xml:space="preserve"><value>Estilo de línea cero</value></data>
+  <data name="Zone settings" xml:space="preserve"><value>Ajustes de zona</value></data>
+  <data name="Client" xml:space="preserve"><value>Cliente</value></data>
+  <data name="Zero line width" xml:space="preserve"><value>Ancho de línea cero</value></data>
+  <data name="Fixed ask color" xml:space="preserve"><value>Color de oferta fijo</value></data>
+  <data name="Circle" xml:space="preserve"><value>Círculo</value></data>
+  <data name="Selected time zone" xml:space="preserve"><value>Zona horaria seleccionada</value></data>
+  <data name="15 minutes" xml:space="preserve"><value>15  minutos</value></data>
+  <data name="Custom" xml:space="preserve"><value>Personalizado</value></data>
+  <data name="Daily PL" xml:space="preserve"><value>Pérdida diaria</value></data>
+  <data name="Daily DD" xml:space="preserve"><value>DD diario</value></data>
+  <data name="%d period" xml:space="preserve"><value>%d periodo</value></data>
+  <data name="Shadow opacity" xml:space="preserve"><value>Opacidad de la sombra</value></data>
+  <data name="Sell stop color" xml:space="preserve"><value>Color de stop de venta</value></data>
+  <data name="Buy bid" xml:space="preserve"><value>Buy bid</value></data>
+  <data name="Buy lmt" xml:space="preserve"><value>Buy Lmt</value></data>
+  <data name="Buy mkt" xml:space="preserve"><value>Buy Mkt</value></data>
+  <data name="Buy stp" xml:space="preserve"><value>Buy Stp</value></data>
+  <data name="Extend line" xml:space="preserve"><value>Extender línea</value></data>
+  <data name="Extend mode" xml:space="preserve"><value>Modo extendido</value></data>
+  <data name="Projection settings" xml:space="preserve"><value>Ajustes de proyección</value></data>
+  <data name="Bubbles" xml:space="preserve"><value>Burbujas</value></data>
+  <data name="Equity curve with drawdown" xml:space="preserve"><value>Curva de patrimonio con reducción</value></data>
+  <data name="Primary color" xml:space="preserve"><value>Color primario</value></data>
+  <data name="Workspace" xml:space="preserve"><value>Espacio de trabajo</value></data>
+  <data name="Shift syntethic" xml:space="preserve"><value>Shift sintético</value></data>
+  <data name="H line color" xml:space="preserve"><value>Color de linea H</value></data>
+  <data name="Oco strategy" xml:space="preserve"><value>Estrategia OCO</value></data>
+  <data name="Text ruler" xml:space="preserve"><value>Regla de texto</value></data>
+  <data name="Type to filter" xml:space="preserve"><value>Escriba para filtrar</value></data>
+  <data name="Sell market" xml:space="preserve"><value>Sell market</value></data>
+  <data name="Import" xml:space="preserve"><value>Importar</value></data>
+  <data name="Collecing information" xml:space="preserve"><value>Reuniendo información</value></data>
+  <data name="TF minute" xml:space="preserve"><value>TF Minuto </value></data>
+  <data name="Filter min" xml:space="preserve"><value>Filtro mín</value></data>
+  <data name="Filter max" xml:space="preserve"><value>Filtro máx</value></data>
+  <data name="Filter poc" xml:space="preserve"><value>Filtro poc</value></data>
+  <data name="Filter volume" xml:space="preserve"><value>Filtro de volumen</value></data>
+  <data name="Ask text" xml:space="preserve"><value>Texto ASK</value></data>
+  <data name="Midpoint" xml:space="preserve"><value>Punto medio</value></data>
+  <data name="H line style" xml:space="preserve"><value>Estilo de línea H</value></data>
+  <data name="Ask font" xml:space="preserve"><value>Fuente oferta</value></data>
+  <data name="Sell stp lmt" xml:space="preserve"><value>Sell stp lmt</value></data>
+  <data name="Text align" xml:space="preserve"><value>Alineación del texto</value></data>
+  <data name="H line width" xml:space="preserve"><value>Ancho de línea H</value></data>
+  <data name="Stop order" xml:space="preserve"><value>Stop orden</value></data>
+  <data name="Reset scale" xml:space="preserve"><value>Reestablecer escala</value></data>
+  <data name="Text color" xml:space="preserve"><value>Color de texto</value></data>
+  <data name="Calicetto mode" xml:space="preserve"><value>Modo calicetto</value></data>
+  <data name="Tick stop" xml:space="preserve"><value>Tick stop</value></data>
+  <data name="Drawing tools" xml:space="preserve"><value>Herramientas de dibujo</value></data>
+  <data name="Bid volume" xml:space="preserve"><value>Bid volumen</value></data>
+  <data name="Rejected color" xml:space="preserve"><value>Color rechazado</value></data>
+  <data name="Impossible to remove the selected element" xml:space="preserve"><value>Imposible eliminar el elemento seleccionado</value></data>
+  <data name="Order cancelled alert" xml:space="preserve"><value>Alerta de pedido cancelado</value></data>
+  <data name="Third vbp" xml:space="preserve"><value>Tercer vbp</value></data>
+  <data name="Second text" xml:space="preserve"><value>Segundo texto</value></data>
+  <data name="Custom first name" xml:space="preserve"><value>Nombre personalizado</value></data>
+  <data name="Second line" xml:space="preserve"><value>Segunda línea</value></data>
+  <data name="Month of year" xml:space="preserve"><value>Mes del año</value></data>
+  <data name="Adjust window to fit content" xml:space="preserve"><value>Ajustar la ventana para que se ajuste al contenido</value></data>
+  <data name="Normal" xml:space="preserve"><value>Normal</value></data>
+  <data name="Type average" xml:space="preserve"><value>Tipo promedio</value></data>
+  <data name="Buy stop limit color" xml:space="preserve"><value>Buy stop limit color</value></data>
+  <data name="Step value" xml:space="preserve"><value>Valor step</value></data>
+  <data name="Tpo type" xml:space="preserve"><value>Tpo tipo</value></data>
+  <data name="Step range" xml:space="preserve"><value>Step rango</value></data>
+  <data name="Show liq. tracker" xml:space="preserve"><value>Habilitar líquido rastreador</value></data>
+  <data name="Please select an indicator" xml:space="preserve"><value>Seleccione un indicador</value></data>
+  <data name="Num. extended bars" xml:space="preserve"><value>Número barras extendidas</value></data>
+  <data name="Start date" xml:space="preserve"><value>Fecha de inicio</value></data>
+  <data name="Start time" xml:space="preserve"><value>Hora de inicio</value></data>
+  <data name="Database folder" xml:space="preserve"><value>Carpeta de base de datos</value></data>
+  <data name="Clear historical report" xml:space="preserve"><value>Restablecer historial de operaciones</value></data>
+  <data name="60 minutes" xml:space="preserve"><value>60  minutos</value></data>
+  <data name="Bar negative color" xml:space="preserve"><value>Barra de color negativo</value></data>
+  <data name="Left bars" xml:space="preserve"><value>Barras izquierdas</value></data>
+  <data name="Close all feed and trading connections before" xml:space="preserve"><value>Desconecte todas las conexiones primero</value></data>
+  <data name="Portfolio" xml:space="preserve"><value>portafolio</value></data>
+  <data name="Please add a name" xml:space="preserve"><value>Por favor agregue un nombre</value></data>
+  <data name="Use fixed space" xml:space="preserve"><value>Bloquear eje Y</value></data>
+  <data name="Offers" xml:space="preserve"><value>Ofertas</value></data>
+  <data name="Min. vol. diff. for imbalance" xml:space="preserve"><value>Diferencia mín. vol.  por desequilibrio</value></data>
+  <data name="High color" xml:space="preserve"><value>Color alto</value></data>
+  <data name="Order settings" xml:space="preserve"><value>Configuracion de pedidos</value></data>
+  <data name="Are you sure to close the window?" xml:space="preserve"><value>¿Estás seguro de que cierras la ventana?</value></data>
+  <data name="Min. horizontal delta" xml:space="preserve"><value>Mín. delta horizontal</value></data>
+  <data name="Orders" xml:space="preserve"><value>Pedidos</value></data>
+  <data name="Tile vertically" xml:space="preserve"><value>Mosaico verticalmente</value></data>
+  <data name="Trade Runup" xml:space="preserve"><value>Auge comercial</value></data>
+  <data name="Unable to save change due to duplicate. Changes are discard" xml:space="preserve"><value>No se puede guardar el cambio debido a duplicado. Los cambios se descartan</value></data>
+  <data name="Save as" xml:space="preserve"><value>Guardar cómo</value></data>
+  <data name="Flat pos." xml:space="preserve"><value>Cancelar todo</value></data>
+  <data name="Is enabled" xml:space="preserve"><value>Está habilitado</value></data>
+  <data name="Up shadow color" xml:space="preserve"><value>Color de sombra al revés</value></data>
+  <data name="Bid background" xml:space="preserve"><value>Fondo de demanda</value></data>
+  <data name="Tick replay&amp;#10;speed: x1" xml:space="preserve"><value>Tick replay&amp;#10;speed: x1</value></data>
+  <data name="Enable MM" xml:space="preserve"><value>Habilitar MM</value></data>
+  <data name="Long equity" xml:space="preserve"><value>Equidad larga</value></data>
+  <data name="Latest" xml:space="preserve"><value>El último</value></data>
+  <data name="Log in" xml:space="preserve"><value>Acceso</value></data>
+  <data name="Short equity" xml:space="preserve"><value>Equidad corta</value></data>
+  <data name="Session range color" xml:space="preserve"><value>Color de rango de sesión</value></data>
+  <data name="Canceled" xml:space="preserve"><value>Cancelado</value></data>
+  <data name="Length" xml:space="preserve"><value>Largo</value></data>
+  <data name="Levels" xml:space="preserve"><value>Niveles</value></data>
+  <data name="Price retracement" xml:space="preserve"><value>Retroceso de precios</value></data>
+  <data name="Plot price" xml:space="preserve"><value>Precio Plot</value></data>
+  <data name="Open enabled" xml:space="preserve"><value>Apertura habilitada</value></data>
+  <data name="Set offset" xml:space="preserve"><value>Establecer compensación</value></data>
+  <data name="Down ticks" xml:space="preserve"><value>garrapatas abajo</value></data>
+  <data name="Up bar" xml:space="preserve"><value>Barra positiva</value></data>
+  <data name="Plot only inside bar" xml:space="preserve"><value>Plot solo barra interior</value></data>
+  <data name="Update" xml:space="preserve"><value>Actualizar</value></data>
+  <data name="Extend settings" xml:space="preserve"><value>Ampliar configuración</value></data>
+  <data name="Alert Sound is corrupted" xml:space="preserve"><value>Sonido corrupto</value></data>
+  <data name="Add resolution" xml:space="preserve"><value>Agregar resolución</value></data>
+  <data name="Usa start time" xml:space="preserve"><value>Usar hora de inicio</value></data>
+  <data name="Second res color" xml:space="preserve"><value>Color de segunda resolución</value></data>
+  <data name="Down color" xml:space="preserve"><value>Color negativo</value></data>
+  <data name="Chart color for marker" xml:space="preserve"><value>Color del gráfico para el marcador</value></data>
+  <data name="Second line style" xml:space="preserve"><value>Color tercera línea</value></data>
+  <data name="Show stop run" xml:space="preserve"><value>Mostrar stop run</value></data>
+  <data name="Length type" xml:space="preserve"><value>Tipo de longitud</value></data>
+  <data name="Length mode" xml:space="preserve"><value>Modo de longitud</value></data>
+  <data name="Second line width" xml:space="preserve"><value>Ancho de la segunda línea</value></data>
+  <data name="Minimum imbalance %" xml:space="preserve"><value>Mínimo imbalance %</value></data>
+  <data name="Broker:" xml:space="preserve"><value>Broker:</value></data>
+  <data name="Last level" xml:space="preserve"><value>Último nivel</value></data>
+  <data name="Second value" xml:space="preserve"><value>Segundo valor</value></data>
+  <data name="Avg length" xml:space="preserve"><value>Longitud promedio</value></data>
+  <data name="Fourth envelope" xml:space="preserve"><value>Cuarta banda</value></data>
+  <data name="Std dev for filter" xml:space="preserve"><value>Desv estándar para filtro</value></data>
+  <data name="Second range" xml:space="preserve"><value>Segundo rango</value></data>
+  <data name="Use separate axis" xml:space="preserve"><value>Usar ejes separados</value></data>
+  <data name="Modify exchange" xml:space="preserve"><value>Modificar mercado</value></data>
+  <data name="Avgprice" xml:space="preserve"><value>Precio medio</value></data>
+  <data name="Ask filter 1" xml:space="preserve"><value>Filtro 1 de oferta</value></data>
+  <data name="Ask filter 2" xml:space="preserve"><value>Filtro 2 de oferta</value></data>
+  <data name="Line style:" xml:space="preserve"><value>Estilo de línea:</value></data>
+  <data name="Num lev depth" xml:space="preserve"><value>Num liv profundidad</value></data>
+  <data name="Second line color" xml:space="preserve"><value>Color segunda línea</value></data>
+  <data name="Synthetic color" xml:space="preserve"><value>Color sintético</value></data>
+  <data name="Second label" xml:space="preserve"><value>Segundo texto</value></data>
+  <data name="Auct. End" xml:space="preserve"><value>subasta Fin</value></data>
+  <data name="Label align" xml:space="preserve"><value>Alinear texto</value></data>
+  <data name="Single max loss" xml:space="preserve"><value>Pérdida máxima única</value></data>
+  <data name="Length value" xml:space="preserve"><value>Valor de longitud</value></data>
+  <data name="Rebuild TS" xml:space="preserve"><value>Reconstruir TS</value></data>
+  <data name="Dash dot" xml:space="preserve"><value>Raya punto</value></data>
+  <data name="Ask stack color" xml:space="preserve"><value>Ask stack color</value></data>
+  <data name="End session" xml:space="preserve"><value>Fin sesión</value></data>
+  <data name="Portfolio manager" xml:space="preserve"><value>Administrador de portafolio</value></data>
+  <data name="Adjust column size" xml:space="preserve"><value>Ajustar el tamaño de la columna</value></data>
+  <data name="Over bourght color" xml:space="preserve"><value>Color sobrecomprado</value></data>
+  <data name="Color based on delta" xml:space="preserve"><value>Color basado en delta</value></data>
+  <data name="Space based on bar" xml:space="preserve"><value>Espacio basado en barra</value></data>
+  <data name="Increment quantity" xml:space="preserve"><value>Incremento cuantitativo</value></data>
+  <data name="Open marker" xml:space="preserve"><value>Apertura marcador</value></data>
+  <data name="Align to the right " xml:space="preserve"><value>Alinear a la derecha</value></data>
+  <data name="Min delta abs" xml:space="preserve"><value>Delta absoluto mín.</value></data>
+  <data name="Property" xml:space="preserve"><value>Propiedad</value></data>
+  <data name="Prop dom" xml:space="preserve"><value>Ajustes Dom</value></data>
+  <data name="Background mode" xml:space="preserve"><value>Modo de fondo</value></data>
+  <data name="Available style" xml:space="preserve"><value>Estilo disponible</value></data>
+  <data name="General" xml:space="preserve"><value>General</value></data>
+  <data name="Modify symbol" xml:space="preserve"><value>Modificar simbolo</value></data>
+  <data name="Trend enable" xml:space="preserve"><value>Activar tendencia</value></data>
+  <data name="Bid trades" xml:space="preserve"><value>Bid trade</value></data>
+  <data name="Enable average" xml:space="preserve"><value>Habilitar promedio</value></data>
+  <data name="Window width" xml:space="preserve"><value>Ancho de la ventana</value></data>
+  <data name="Signal properties" xml:space="preserve"><value>Propiedades de la señal</value></data>
+  <data name="File name" xml:space="preserve"><value>Nombre del archivo</value></data>
+  <data name="Btn qty" xml:space="preserve"><value>Btn Ctd.</value></data>
+  <data name="Tradable symbol" xml:space="preserve"><value>Símbolo negociable</value></data>
+  <data name="Strategy report - text size" xml:space="preserve"><value>Informe de operación - tamaño del texto</value></data>
+  <data name="Extension" xml:space="preserve"><value>Extensión</value></data>
+  <data name="Hidden" xml:space="preserve"><value>Oculto</value></data>
+  <data name="Delta fading" xml:space="preserve"><value>Desvanecimiento delta</value></data>
+  <data name="Hollow" xml:space="preserve"><value>Hueco</value></data>
+  <data name="Same area" xml:space="preserve"><value>Misma area</value></data>
+  <data name="Height" xml:space="preserve"><value>Altura</value></data>
+  <data name="Header" xml:space="preserve"><value>Encabezamiento</value></data>
+  <data name="Cancel - Flat All" xml:space="preserve"><value>Cancelar - Plano Todo</value></data>
+  <data name="Trend detector" xml:space="preserve"><value>Detector de tendencias</value></data>
+  <data name="15 seconds" xml:space="preserve"><value>15 segundos</value></data>
+  <data name="Avg type" xml:space="preserve"><value>Tipo medio</value></data>
+  <data name="Buy stp lmt" xml:space="preserve"><value>Buy stp lmt</value></data>
+  <data name="Imbalance settings" xml:space="preserve"><value>Ajustes de desequilibrio</value></data>
+  <data name="Selected feed" xml:space="preserve"><value>Seleccionar datos</value></data>
+  <data name="Tick tgt" xml:space="preserve"><value>Tick tgt</value></data>
+  <data name="Volume backcolor" xml:space="preserve"><value>Volumen de fondo</value></data>
+  <data name="Always visible" xml:space="preserve"><value>Siempre visible</value></data>
+  <data name="Show milliseconds" xml:space="preserve"><value>Mostrar milisegundos</value></data>
+  <data name="Plot type" xml:space="preserve"><value>Tipo de visualización</value></data>
+  <data name="Imbalance Plot Settings" xml:space="preserve"><value>Configuración del gráfico de desequilibrio</value></data>
+  <data name="Replay manage" xml:space="preserve"><value>Gestionar replay</value></data>
+  <data name="Between bid/ask text color" xml:space="preserve"><value>Color de texto para Fondo entre oferta/demanda</value></data>
+  <data name="Qty: 0" xml:space="preserve"><value>Qty: 0</value></data>
+  <data name="QtyOrd" xml:space="preserve"><value>CantidadOrden</value></data>
+  <data name="Fixed vol color" xml:space="preserve"><value>Color de volumen fijo</value></data>
+  <data name="Std dev perc" xml:space="preserve"><value>% dev. std.</value></data>
+  <data name="Std dev line" xml:space="preserve"><value>Línea dev. std.</value></data>
+  <data name="Stop qty not correspond" xml:space="preserve"><value>Stop no correspondido</value></data>
+  <data name="1 minute" xml:space="preserve"><value>1 minuto</value></data>
+  <data name="Line width:" xml:space="preserve"><value>Grosor de línea:</value></data>
+  <data name="Bubble grouping" xml:space="preserve"><value>Burbujas agrupar</value></data>
+  <data name="Max bars to view" xml:space="preserve"><value>Barras máximas para ver</value></data>
+  <data name="Calculation" xml:space="preserve"><value>Cálculo</value></data>
+  <data name="Time zone list" xml:space="preserve"><value>Lista de zonas horarias</value></data>
+  <data name="Resettable" xml:space="preserve"><value>Reiniciar</value></data>
+  <data name="Ord type" xml:space="preserve"><value>Tipo de pedido</value></data>
+  <data name="Smoothing length" xml:space="preserve"><value>Longitud smoothing</value></data>
+  <data name="Close letter" xml:space="preserve"><value>Cerrar carta</value></data>
+  <data name="You still have pending orders. Are you sure?" xml:space="preserve"><value>Todavía tienes pedidos pendientes. ¿Está seguro?</value></data>
+  <data name="Valley" xml:space="preserve"><value>Valle</value></data>
+  <data name="Ask background" xml:space="preserve"><value>Fondo de oferta</value></data>
+  <data name="Auto configuration" xml:space="preserve"><value>Configuración automática</value></data>
+  <data name="Downloading update" xml:space="preserve"><value>Descargando actualización</value></data>
+  <data name="Volume" xml:space="preserve"><value>Volumen</value></data>
+  <data name="Check real time delay" xml:space="preserve"><value>Comprobar retardo</value></data>
+  <data name="Color close letter" xml:space="preserve"><value>Carta de cierre de color</value></data>
+  <data name="Vertical" xml:space="preserve"><value>Vertical</value></data>
+  <data name="Absorption settings" xml:space="preserve"><value>Ajustes de absorción</value></data>
+  <data name="Min. gap %" xml:space="preserve"><value>Mín gap %</value></data>
+  <data name="Symbol performance" xml:space="preserve"><value>Símbolo de anualidad</value></data>
+  <data name="Calculation settings" xml:space="preserve"><value>Configuración de cálculo</value></data>
+  <data name="Cancell all" xml:space="preserve"><value>Cancelar todo</value></data>
+  <data name="Auto text format" xml:space="preserve"><value>Formato de texto automático</value></data>
+  <data name="Bid text color" xml:space="preserve"><value>Bid texto color</value></data>
+  <data name="Build chart" xml:space="preserve"><value>Gráfico de compilación</value></data>
+  <data name="Min. delta value/%" xml:space="preserve"><value>MÍn. delta value/%</value></data>
+  <data name="Min num of confluence" xml:space="preserve"><value>Número mínimo de confluencia</value></data>
+  <data name="Secondary color:" xml:space="preserve"><value>Color secundario:</value></data>
+  <data name="Weekly" xml:space="preserve"><value>Semana</value></data>
+  <data name="Event name" xml:space="preserve"><value>Nombre del evento</value></data>
+  <data name="Window" xml:space="preserve"><value>Ventana</value></data>
+  <data name="Sell exit arrow color" xml:space="preserve"><value>Color de flecha de venta</value></data>
+  <data name="Color text based on delta" xml:space="preserve"><value>Color de texto basado en delta</value></data>
+  <data name="Trades" xml:space="preserve"><value>Trades</value></data>
+  <data name="Order ID" xml:space="preserve"><value>Orden ID</value></data>
+  <data name="Please select at least one symbol" xml:space="preserve"><value>Seleccione al menos un símbolo</value></data>
+  <data name="Marker alignment" xml:space="preserve"><value>Alineación de marcadores</value></data>
+  <data name="Skip first bar" xml:space="preserve"><value>Saltar primer barra</value></data>
+  <data name="Pending qty" xml:space="preserve"><value>Cantidad pdte.</value></data>
+  <data name="Min. number imbalance" xml:space="preserve"><value>Mín. desequilibrio numérico</value></data>
+  <data name="Fill. qty" xml:space="preserve"><value>Precio Cant</value></data>
+  <data name="Peak/valley sensitivty" xml:space="preserve"><value>Sensibilidad pico/valle</value></data>
+  <data name="MT tool" xml:space="preserve"><value>MT opciones</value></data>
+  <data name="Min tick" xml:space="preserve"><value>Tick mín</value></data>
+  <data name="Filter dev num bar" xml:space="preserve"><value>Nº de barras de filtro desv.</value></data>
+  <data name="Cancel Sell" xml:space="preserve"><value>Cancelar Vender</value></data>
+  <data name="Account name:" xml:space="preserve"><value>Nombre de la cuenta</value></data>
+  <data name="Param mode" xml:space="preserve"><value>Modo de parámetro</value></data>
+  <data name="Param type" xml:space="preserve"><value>Tipo de parámetro</value></data>
+  <data name="Marker negative color" xml:space="preserve"><value>Color de marcador negativo</value></data>
+  <data name="Backcolor" xml:space="preserve"><value>Color de fondo</value></data>
+  <data name="Std dev for coloring" xml:space="preserve"><value>Std dev para colorear</value></data>
+  <data name="Show TS" xml:space="preserve"><value>Mostrar TS</value></data>
+  <data name="Unfinished settings" xml:space="preserve"><value>Configuraciones incompletas</value></data>
+  <data name="Trr scanner" xml:space="preserve"><value>Escáner trr</value></data>
+  <data name="First supp color" xml:space="preserve"><value>Primer color auxiliar</value></data>
+  <data name="Coloring settings" xml:space="preserve"><value>Ajustes de colores</value></data>
+  <data name="Run-up" xml:space="preserve"><value>Run-up</value></data>
+  <data name="Zone support" xml:space="preserve"><value>Área de rango de ticks</value></data>
+  <data name="Border color" xml:space="preserve"><value>Color del borde</value></data>
+  <data name="Perc value" xml:space="preserve"><value>Valor porcentual</value></data>
+  <data name="Resistence line" xml:space="preserve"><value>Línea de resistencia</value></data>
+  <data name="Value show bg" xml:space="preserve"><value>Mostrar valor bg</value></data>
+  <data name="Minimum tick breakout" xml:space="preserve"><value>Desglose mínimo de garrapatas</value></data>
+  <data name="Remove" xml:space="preserve"><value>Eliminar</value></data>
+  <data name="Acc name" xml:space="preserve"><value>Nombre de cta</value></data>
+  <data name="Color 23.6%" xml:space="preserve"><value>Color 23.6%</value></data>
+  <data name="Order filled alert" xml:space="preserve"><value>Alerta de orden completada</value></data>
+  <data name="Enable only on high or low" xml:space="preserve"><value>Habilitar solo en alto o bajo</value></data>
+  <data name="Advanced dom" xml:space="preserve"><value>Advanced dom</value></data>
+  <data name="Color 76.4%" xml:space="preserve"><value>Color 76.4%</value></data>
+  <data name="Border width" xml:space="preserve"><value>Ancho del borde</value></data>
+  <data name="Number minutes" xml:space="preserve"><value>Número de minutos</value></data>
+  <data name="% max width based volume" xml:space="preserve"><value>% Longitud máxima en función de su volumen</value></data>
+  <data name="Status" xml:space="preserve"><value>Estado</value></data>
+  <data name="Strong" xml:space="preserve"><value>Fuerte</value></data>
+  <data name="Order rejected alert" xml:space="preserve"><value>Alerta de pedido rechazado</value></data>
+  <data name="Bid/ask volume" xml:space="preserve"><value>Bid/ask volumen</value></data>
+  <data name="Square" xml:space="preserve"><value>Cuadrado</value></data>
+  <data name="Spread" xml:space="preserve"><value>Desparramar</value></data>
+  <data name="Parameters" xml:space="preserve"><value>Parámetros</value></data>
+  <data name="Maximum number of bars after reversal" xml:space="preserve"><value>Número máximo de barras después de la reversión</value></data>
+  <data name="Line and bar" xml:space="preserve"><value>Línea y barra</value></data>
+  <data name="Exchanges" xml:space="preserve"><value>Mercados</value></data>
+  <data name="Symbol" xml:space="preserve"><value>Símbolo</value></data>
+  <data name="Auto std. dev" xml:space="preserve"><value>Auto std. dev</value></data>
+  <data name="Server" xml:space="preserve"><value>Servidor</value></data>
+  <data name="Second" xml:space="preserve"><value>Segundo</value></data>
+  <data name="Select" xml:space="preserve"><value>Seleccionar</value></data>
+  <data name="Source" xml:space="preserve"><value>Fuente</value></data>
+  <data name="Enable market order" xml:space="preserve"><value>Habilitar orden a mercado</value></data>
+  <data name="Smooth" xml:space="preserve"><value>Suave</value></data>
+  <data name="Asq enable" xml:space="preserve"><value>Habilitar Asq</value></data>
+  <data name="Correlation chart" xml:space="preserve"><value>Gráfico de correlación</value></data>
+  <data name="Simple" xml:space="preserve"><value>Simple</value></data>
+  <data name="Zone max bar passed" xml:space="preserve"><value>Número máximo de barras después de la zona</value></data>
+  <data name="Annotation condition" xml:space="preserve"><value>Condición de anotación</value></data>
+  <data name="Ask offer back color" xml:space="preserve"><value>Ask oferta fondo</value></data>
+  <data name="Price indicators" xml:space="preserve"><value>Configuración de gráficos</value></data>
+  <data name="Show background" xml:space="preserve"><value>Mostrar fondo</value></data>
+  <data name="% avg. trr color" xml:space="preserve"><value>Color % avg. trr</value></data>
+  <data name="Period" xml:space="preserve"><value>Período</value></data>
+  <data name="Previous width" xml:space="preserve"><value>Ancho anterior</value></data>
+  <data name="Minimum volume diff." xml:space="preserve"><value>Mínimo volumen diff.</value></data>
+  <data name="Account:" xml:space="preserve"><value>Cuenta:</value></data>
+  <data name="Visible profile" xml:space="preserve"><value>Perfil visible</value></data>
+  <data name="Display sign" xml:space="preserve"><value>Mostrar Pantalla</value></data>
+  <data name="Display mode" xml:space="preserve"><value>Modo de visualización</value></data>
+  <data name="All days" xml:space="preserve"><value>Todos los días</value></data>
+  <data name="Price column color" xml:space="preserve"><value>Color de la columna de precio</value></data>
+  <data name="All rows" xml:space="preserve"><value>Todas las filas</value></data>
+  <data name="Buy filled color" xml:space="preserve"><value>Color de complta completa</value></data>
+  <data name="Please select an Oco Order to remove" xml:space="preserve"><value>Seleccione un pedido de Oco para eliminar</value></data>
+  <data name="Positive" xml:space="preserve"><value>Positivo</value></data>
+  <data name="Position" xml:space="preserve"><value>Posición</value></data>
+  <data name="Cancel symbol" xml:space="preserve"><value>Símbolo de cancelación</value></data>
+  <data name="Enable message" xml:space="preserve"><value>Habilitar mensaje</value></data>
+  <data name="Start date/time" xml:space="preserve"><value>Fecha/hora de inicio</value></data>
+  <data name="Zig zag rev" xml:space="preserve"><value>Zig zag rev</value></data>
+  <data name="Editable copied annotation" xml:space="preserve"><value>Anotaciones copiadas editables</value></data>
+  <data name="Arrow text color" xml:space="preserve"><value>Color del texto de la flecha</value></data>
+  <data name="Vert. line starting point" xml:space="preserve"><value>Vert. punto de inicio de la linea</value></data>
+  <data name="Start time - exchange time" xml:space="preserve"><value>Inicio de sesion - hora de exchange</value></data>
+  <data name="Subscribe list" xml:space="preserve"><value>Lista de suscripción</value></data>
+  <data name="Peak min. vol" xml:space="preserve"><value>Pico mín. volumen</value></data>
+  <data name="Please disconnect all feeds before to continue" xml:space="preserve"><value>Desconecta todos los datos antes de continuar.</value></data>
+  <data name="Correlation symbols" xml:space="preserve"><value>Símbolos de correlación</value></data>
+  <data name="Please enter a name for the alert" xml:space="preserve"><value>Introduce un nombre para la alerta.</value></data>
+  <data name="Price line" xml:space="preserve"><value>Línea de precio</value></data>
+  <data name="Price bars" xml:space="preserve"><value>Barras de precios</value></data>
+  <data name="Settings TS" xml:space="preserve"><value>Ajustes TS</value></data>
+  <data name="Ask column color" xml:space="preserve"><value>Color columna ASK</value></data>
+  <data name="Statistics" xml:space="preserve"><value>Estadísticas</value></data>
+  <data name="Include zero on imbalance" xml:space="preserve"><value>Incluir cero en desequilibrio</value></data>
+  <data name="Long trades" xml:space="preserve"><value>Corre largo</value></data>
+  <data name="Loading settings" xml:space="preserve"><value>Cargando configuraciones</value></data>
+  <data name="Drawdown" xml:space="preserve"><value>Reducción</value></data>
+  <data name="November" xml:space="preserve"><value>Noviembre</value></data>
+  <data name="Roll type" xml:space="preserve"><value>Roll típo</value></data>
+  <data name="Asq settings" xml:space="preserve"><value>Ajustes Asq</value></data>
+  <data name="CurrentToLast" xml:space="preserve"><value>Actual al último</value></data>
+  <data name="Trade down color" xml:space="preserve"><value>Color trade negativo</value></data>
+  <data name="Unknown" xml:space="preserve"><value>Desconocido</value></data>
+  <data name="Third color:" xml:space="preserve"><value>Tercer color:</value></data>
+  <data name="Profile" xml:space="preserve"><value>Perfil</value></data>
+  <data name="Fixed count" xml:space="preserve"><value>Número de líneas</value></data>
+  <data name="Color calculation" xml:space="preserve"><value>Cálculo de color</value></data>
+  <data name="Add configuration" xml:space="preserve"><value>Agregar configuración</value></data>
+  <data name="Exhchange time" xml:space="preserve"><value>Horario de mercado</value></data>
+  <data name="Price down color" xml:space="preserve"><value>Precio Down color</value></data>
+  <data name="Exclude high/low" xml:space="preserve"><value>Excluir alto/bajo</value></data>
+  <data name="Exclude high low" xml:space="preserve"><value>Excluir alto bajo</value></data>
+  <data name="Breakout tick margin" xml:space="preserve"><value>Margen tick breakout</value></data>
+  <data name="First value" xml:space="preserve"><value>Primer valor</value></data>
+  <data name="First range" xml:space="preserve"><value>Primer rango</value></data>
+  <data name="Extension settings" xml:space="preserve"><value>Ajustes de extenciones</value></data>
+  <data name="Vbp type" xml:space="preserve"><value>Tipo Vbp</value></data>
+  <data name="First label" xml:space="preserve"><value>Primer texto</value></data>
+  <data name="Delta NT" xml:space="preserve"><value>Delta NT</value></data>
+  <data name="Download data" xml:space="preserve"><value>Descargar datos</value></data>
+  <data name="Low enabled" xml:space="preserve"><value>Mín habilitado</value></data>
+  <data name="Monthly enabled" xml:space="preserve"><value>Mensual habilitado</value></data>
+  <data name="Imbalance Fresh Zone" xml:space="preserve"><value>Zona fresca de desequilibrio</value></data>
+  <data name="Scale auto center" xml:space="preserve"><value>Centra escala auto.</value></data>
+  <data name="Data settings" xml:space="preserve"><value>Configuración de datos</value></data>
+  <data name="Fourth supp color" xml:space="preserve"><value>Cuarto color auxiliar</value></data>
+  <data name="High\\low line" xml:space="preserve"><value>Línea máxima/mínima</value></data>
+  <data name="None configuration available" xml:space="preserve"><value>Ninguna configuración disponible</value></data>
+  <data name="Lookback period" xml:space="preserve"><value>Período Lookback</value></data>
+  <data name="10 minutes" xml:space="preserve"><value>10  minutos</value></data>
+  <data name="Dom alignment" xml:space="preserve"><value>DOM alineación</value></data>
+  <data name="Auto color" xml:space="preserve"><value>Color auto</value></data>
+  <data name="Min. volume increase" xml:space="preserve"><value>Mín. aumento de volumen</value></data>
+  <data name="Portfolio settings" xml:space="preserve"><value>Configuración de la cartera</value></data>
+  <data name="Ini range" xml:space="preserve"><value>Rango inicial</value></data>
+  <data name="Import file" xml:space="preserve"><value>Importar archivo</value></data>
+  <data name="Dominant" xml:space="preserve"><value>Dominante</value></data>
+  <data name="Text based on delta" xml:space="preserve"><value>Texto basado en delta</value></data>
+  <data name="New beta version is available, do you want to update?" xml:space="preserve"><value>Nueva versión beta está disponible, ¿quieres actualizar?</value></data>
+  <data name="Calculation mode" xml:space="preserve"><value>Modo de cálculo</value></data>
+  <data name="Include all brokers" xml:space="preserve"><value>Incluir todos los brokers</value></data>
+  <data name="Fading color" xml:space="preserve"><value>Desgaste de color</value></data>
+  <data name="Open color" xml:space="preserve"><value>Apertura color</value></data>
+  <data name="Cancel Buy" xml:space="preserve"><value>Cancelar Comprar</value></data>
+  <data name="Cancel all" xml:space="preserve"><value>Cancelar todo</value></data>
+  <data name="Trade analysis" xml:space="preserve"><value>Análisis comercial</value></data>
+  <data name="Dom style" xml:space="preserve"><value>Dom estilo</value></data>
+  <data name="Extend to left" xml:space="preserve"><value>Extender a la izquierda</value></data>
+  <data name="Delta imbalance" xml:space="preserve"><value>Delta imbalance</value></data>
+  <data name="High session color" xml:space="preserve"><value>Color máximo de sesión</value></data>
+  <data name="Zoom out" xml:space="preserve"><value>Disminuir el zoom</value></data>
+  <data name="Do you want to cancel the historical report for the trading account?" xml:space="preserve"><value>¿Desea eliminar el historial comercial de la cuenta?</value></data>
+  <data name="Tick reversal/highest lowest" xml:space="preserve"><value>Tick reversal/más alto más bajo</value></data>
+  <data name="Short name" xml:space="preserve"><value>Nombre corto</value></data>
+  <data name="Minimum volume" xml:space="preserve"><value>Volumen mínimo</value></data>
+  <data name="Crosshair window" xml:space="preserve"><value>Ventana Crosshair</value></data>
+  <data name="Enable order rejected" xml:space="preserve"><value>Habilitar pedido rechazado</value></data>
+  <data name="Triggered zone" xml:space="preserve"><value>Zona activada</value></data>
+  <data name="End filter" xml:space="preserve"><value>Filtro final</value></data>
+  <data name="Vol. &gt;= filter" xml:space="preserve"><value>Vol. &gt;= filtro</value></data>
+  <data name="Confirm" xml:space="preserve"><value>Confirmar</value></data>
+  <data name="Connect" xml:space="preserve"><value>Conectar</value></data>
+  <data name="Exchange name" xml:space="preserve"><value>Nombre del mercado</value></data>
+  <data name="Position windows" xml:space="preserve"><value>Ventanas de posición</value></data>
+  <data name="Num bar stop tgt" xml:space="preserve"><value>Núm barra parada tgt</value></data>
+  <data name="Average settings" xml:space="preserve"><value>Configuraciones media</value></data>
+  <data name="Max unfinished threshold" xml:space="preserve"><value>Umbral máx unfinished</value></data>
+  <data name="Monthly analysis" xml:space="preserve"><value>Análisis mensual</value></data>
+  <data name="Show retracement" xml:space="preserve"><value>Mostrar retroceso</value></data>
+  <data name="Alert sound is empty" xml:space="preserve"><value>Sonido no configurado</value></data>
+  <data name="Acc balance" xml:space="preserve"><value>Balance de cta</value></data>
+  <data name="Micro levels settings" xml:space="preserve"><value>Ajustes de nivel micro</value></data>
+  <data name="Multiple color" xml:space="preserve"><value>Color multiple</value></data>
+  <data name="Country" xml:space="preserve"><value>País</value></data>
+  <data name="Hist. loading" xml:space="preserve"><value>Cargando historial</value></data>
+  <data name="September" xml:space="preserve"><value>Septiembre</value></data>
+  <data name="Export chart" xml:space="preserve"><value>Exportar gráfico</value></data>
+  <data name="Plot settings" xml:space="preserve"><value>Configuración de trazado</value></data>
+  <data name="Last enabled" xml:space="preserve"><value>Habilitado por última vez</value></data>
+  <data name="Weekly enabled" xml:space="preserve"><value>Semanal habilitado</value></data>
+  <data name="Untitled connection already exist" xml:space="preserve"><value>La conexión sin título ya existe</value></data>
+  <data name="Medium color" xml:space="preserve"><value>Color medio</value></data>
+  <data name="Platform could need a restart in order to save changes" xml:space="preserve"><value>La plataforma podría necesitar un reinicio para guardar los cambios</value></data>
+  <data name="Impossible to add two strategy with the same name" xml:space="preserve"><value>Imposible agregar dos estrategias con el mismo nombre</value></data>
+  <data name="Tot qty" xml:space="preserve"><value>Cantidad Total</value></data>
+  <data name="Tot Vol" xml:space="preserve"><value>Tot Vol.</value></data>
+  <data name="Zig zag swing" xml:space="preserve"><value>Zig zag swing</value></data>
+  <data name="Horizontal line" xml:space="preserve"><value>Linea horizontal</value></data>
+  <data name="Touched" xml:space="preserve"><value>Tocado</value></data>
+  <data name="Horizontal grid" xml:space="preserve"><value>Rejilla horizontal</value></data>
+  <data name="Alert settings" xml:space="preserve"><value>Configuración de alertas</value></data>
+  <data name="Ann param" xml:space="preserve"><value>Ann parámetro</value></data>
+  <data name="Overview" xml:space="preserve"><value>Global</value></data>
+  <data name="Tick target" xml:space="preserve"><value>Tick target</value></data>
+  <data name="Duplicate chart" xml:space="preserve"><value>Duplicar grafico</value></data>
+  <data name="Name label" xml:space="preserve"><value>Etiqueta de nombre</value></data>
+  <data name="Candles" xml:space="preserve"><value>Velas</value></data>
+  <data name="Dom settings" xml:space="preserve"><value>Dom ajustes</value></data>
+  <data name="Auto sort column" xml:space="preserve"><value>Clasificación automática de columnas.</value></data>
+  <data name="Lagging span period" xml:space="preserve"><value>Período de retraso</value></data>
+  <data name="Enable close letter" xml:space="preserve"><value>Habilitar carta de cierre</value></data>
+  <data name="Bid absorption" xml:space="preserve"><value>Bid absorción</value></data>
+  <data name="Select Exchange" xml:space="preserve"><value>Seleccione Intercambio</value></data>
+  <data name="Minimum tick range" xml:space="preserve"><value>Mínimo tick range</value></data>
+  <data name="Pending" xml:space="preserve"><value>Pendiente</value></data>
+  <data name="Sell enter arrow color" xml:space="preserve"><value>Color de flecha de venta</value></data>
+  <data name="Ask avg color" xml:space="preserve"><value>Color medio oferta</value></data>
+  <data name="Threshold" xml:space="preserve"><value>Límite</value></data>
+  <data name="Trading quantity" xml:space="preserve"><value>Trading cuantitativo</value></data>
+  <data name="Imbalance minutes" xml:space="preserve"><value>Imbalance minuto</value></data>
+  <data name="Bid stack back color" xml:space="preserve"><value>Color de demanda ingresada</value></data>
+  <data name="Second supp color" xml:space="preserve"><value>Segundo color auxiliar</value></data>
+  <data name="Enable order filled" xml:space="preserve"><value>Abilita ordine eseguito</value></data>
+  <data name="Exit date" xml:space="preserve"><value>Fecha de lanzamiento</value></data>
+  <data name="Exit name" xml:space="preserve"><value>Nombre de salida</value></data>
+  <data name="Tick reversal" xml:space="preserve"><value>Tick reversal</value></data>
+  <data name="New version is available, do you want to update?" xml:space="preserve"><value>Nueva versión disponible, ¿quieres actualizar?</value></data>
+  <data name="Selected contract" xml:space="preserve"><value>Contrato seleccionado</value></data>
+  <data name="Mid color" xml:space="preserve"><value>color medio</value></data>
+  <data name="Second length" xml:space="preserve"><value>Segunda longitud</value></data>
+  <data name="Include swing before mid trend" xml:space="preserve"><value>Incluir swing antes de la tendencia media</value></data>
+  <data name="1 hour" xml:space="preserve"><value>1 hora</value></data>
+  <data name="Disconnecting user" xml:space="preserve"><value>Cierre de sesión de usuario</value></data>
+  <data name="Detached" xml:space="preserve"><value>Separado</value></data>
+  <data name="Vbp settings" xml:space="preserve"><value>Configuración de vpb</value></data>
+  <data name="Trigger only touch" xml:space="preserve"><value>Informar solo con el tacto</value></data>
+  <data name="Min delta" xml:space="preserve"><value>Delta mín.</value></data>
+  <data name="Are you sure to remove the following symbols?" xml:space="preserve"><value>¿Estás seguro de eliminar las siguientes simbolos?</value></data>
+  <data name="Fixed bid color" xml:space="preserve"><value>Color de demnada fijo</value></data>
+  <data name="Number of profile" xml:space="preserve"><value>Número de perfil</value></data>
+  <data name="Wait time(m) after single loss" xml:space="preserve"><value>Tiempo de espera (m) después de una sola pérdida</value></data>
+  <data name="Getting info from server" xml:space="preserve"><value>Obtener información del servidor</value></data>
+  <data name="You must disable fixed space before" xml:space="preserve"><value>Debe desactivar el espacio fijo antes</value></data>
+  <data name="Vol. &lt;= filter" xml:space="preserve"><value>Vol. &lt;= filtro</value></data>
+  <data name="Min trade" xml:space="preserve"><value>Mín trade</value></data>
+  <data name="Minimum bar passed" xml:space="preserve"><value>Barra minima superada</value></data>
+  <data name="Intensity" xml:space="preserve"><value>Intensidad</value></data>
+  <data name="Max daily loss" xml:space="preserve"><value>Máx pérdida diaria</value></data>
+  <data name="You must disable fixed margin before" xml:space="preserve"><value>Debe deshabilitar el margen fijo antes</value></data>
+  <data name="First envelope" xml:space="preserve"><value>Primer banda</value></data>
+  <data name="Exited up" xml:space="preserve"><value>Publicado el</value></data>
+  <data name="Custom num of points" xml:space="preserve"><value>Número personalizado de puntos</value></data>
+  <data name="Ini custom dt" xml:space="preserve"><value>Inicio DT personalizado</value></data>
+  <data name="Limit color" xml:space="preserve"><value>Color límite</value></data>
+  <data name="Select symbols" xml:space="preserve"><value>Seleccionar símbolo</value></data>
+  <data name="This is an old version of VolBook. Please download and install the new version" xml:space="preserve"><value>Nueva versión disponible, descárgala e instálala desde tu área personal</value></data>
+  <data name="Enable filter 1" xml:space="preserve"><value>Habilitar filtro 1</value></data>
+  <data name="Enable filter 2" xml:space="preserve"><value>Habilitar filtro 2</value></data>
+  <data name="Language" xml:space="preserve"><value>Lenguaje</value></data>
+  <data name="Short name:" xml:space="preserve"><value>Nombre corto:</value></data>
+  <data name="Cancel order" xml:space="preserve"><value>Cancelar orden</value></data>
+  <data name="Show absorption" xml:space="preserve"><value>Mostrar absorción</value></data>
+  <data name="Entry price" xml:space="preserve"><value>Precio de entrada</value></data>
+  <data name="You have to select at least one monitor" xml:space="preserve"><value>Tienes que seleccionar al menos un monitor</value></data>
+  <data name="Wednesday" xml:space="preserve"><value>Miercoles</value></data>
+  <data name="Second envelope" xml:space="preserve"><value>Segunda banda</value></data>
+  <data name="Param 2" xml:space="preserve"><value>Parámetro 2</value></data>
+  <data name="Param 1" xml:space="preserve"><value>Parámetro 1</value></data>
+  <data name="Background" xml:space="preserve"><value>Fondo</value></data>
+  <data name="10 seconds" xml:space="preserve"><value>10 segundos</value></data>
+  <data name="Lower color" xml:space="preserve"><value>Color inferior</value></data>
+  <data name="Param value" xml:space="preserve"><value>Valor del parámetro</value></data>
+  <data name="Bubble size" xml:space="preserve"><value>Burbujas de tamaño</value></data>
+  <data name="Bubble mode" xml:space="preserve"><value>Modo burbuja</value></data>
+  <data name="Cell text size" xml:space="preserve"><value>Tamaño texto celda</value></data>
+  <data name="T&amp;s settings" xml:space="preserve"><value>Configurar T&amp;S</value></data>
+  <data name="Filter capping mode" xml:space="preserve"><value>Modo de filtro de limitación</value></data>
+  <data name="Resolution settings" xml:space="preserve"><value>Configuración de resolución</value></data>
+  <data name="Subgraph style:" xml:space="preserve"><value>Estilo de subgrafo:</value></data>
+  <data name="Resolutions" xml:space="preserve"><value>Resoluciones</value></data>
+  <data name="Slowdown" xml:space="preserve"><value>Desacelerar</value></data>
+  <data name="Ask trades" xml:space="preserve"><value>Ask trade</value></data>
+  <data name="Convert symbol to Amp" xml:space="preserve"><value>Convertir símbolo a Amp</value></data>
+  <data name="Enable book chart" xml:space="preserve"><value>Habilitar heatmap</value></data>
+  <data name="Classic" xml:space="preserve"><value>Clásico</value></data>
+  <data name="Std dev value" xml:space="preserve"><value>Valor dev estándar</value></data>
+  <data name="Target qty not correspond" xml:space="preserve"><value>Target no correspondido</value></data>
+  <data name="Low back color" xml:space="preserve"><value>Fondo Mín</value></data>
+  <data name="Trend up color" xml:space="preserve"><value>Color de tendencia alcista</value></data>
+  <data name="Multiple" xml:space="preserve"><value>Multiple</value></data>
+  <data name="Are you sure to switch to the expert mode?" xml:space="preserve"><value>¿Estás seguro de cambiar al modo experto?</value></data>
+  <data name="Highlight window on filled" xml:space="preserve"><value>Resaltar ventana completada</value></data>
+  <data name="Add sim account" xml:space="preserve"><value>Añadir cuenta simulada</value></data>
+  <data name="Duplicate dom" xml:space="preserve"><value>Duplicar dom</value></data>
+  <data name="Level settings" xml:space="preserve"><value>Ajustes de nivel</value></data>
+  <data name="Plotting report" xml:space="preserve"><value>Vista de informe</value></data>
+  <data name="Show message" xml:space="preserve"><value>Habilitar popup</value></data>
+  <data name="Begin date" xml:space="preserve"><value>Fecha de inicio</value></data>
+  <data name="Stop ask color" xml:space="preserve"><value>Color stop oferta</value></data>
+  <data name="Parallel gpu count" xml:space="preserve"><value>Recuento de gpu en paralelo</value></data>
+  <data name="Date/time" xml:space="preserve"><value>Datos/tiempo</value></data>
+  <data name="Macro levels settings" xml:space="preserve"><value>Configuración de nivel de macro</value></data>
+  <data name="Tool configuration" xml:space="preserve"><value>Configurar herramientas</value></data>
+  <data name="Messaggio" xml:space="preserve"><value>Mensaje</value></data>
+  <data name="Default" xml:space="preserve"><value>Predefinido</value></data>
+  <data name="Over sold level" xml:space="preserve"><value>Nivel de sobreventa</value></data>
+  <data name="Secondary color" xml:space="preserve"><value>Color secundario</value></data>
+  <data name="Over sold color" xml:space="preserve"><value>Color sobrevendido</value></data>
+  <data name="Ini time" xml:space="preserve"><value>Hora de inicio</value></data>
+  <data name="January" xml:space="preserve"><value>Enero</value></data>
+  <data name="Drawing objects" xml:space="preserve"><value>Dibujar objetos</value></data>
+  <data name="Saving workspace" xml:space="preserve"><value>Guardar plan de trabajo</value></data>
+  <data name="Color settings" xml:space="preserve"><value>Ajustes de color</value></data>
+  <data name="Subscribe instrument" xml:space="preserve"><value>Suscribir instrumento</value></data>
+  <data name="Cell text color" xml:space="preserve"><value>Color del texto de la celda</value></data>
+  <data name="Outside color" xml:space="preserve"><value>Color externo</value></data>
+  <data name="Book imbalance" xml:space="preserve"><value>Desequilibrio book</value></data>
+  <data name="Filter bid color" xml:space="preserve"><value>Color demanda filtrado</value></data>
+  <data name="Price up color" xml:space="preserve"><value>Precio Up color</value></data>
+  <data name="Chart settings" xml:space="preserve"><value>Configurar gráfico</value></data>
+  <data name="Aggressive" xml:space="preserve"><value>Agresivo</value></data>
+  <data name="End date" xml:space="preserve"><value>Fecha final</value></data>
+  <data name="End time" xml:space="preserve"><value>Hora final</value></data>
+  <data name="Volume line color" xml:space="preserve"><value>Color de línea de volumen</value></data>
+  <data name="Ticks per bar" xml:space="preserve"><value>Tick por barra</value></data>
+  <data name="Building chart" xml:space="preserve"><value>Gráfico de carga</value></data>
+  <data name="Skip last" xml:space="preserve"><value>Saltar último</value></data>
+  <data name="First line style" xml:space="preserve"><value>Estilo de primera línea</value></data>
+  <data name="Fifth envelope" xml:space="preserve"><value>Quinta banda</value></data>
+  <data name="First line width" xml:space="preserve"><value>Ancho de la primera línea</value></data>
+  <data name="Bid/ask column" xml:space="preserve"><value>Bid/Ask columna</value></data>
+  <data name="Smooth value" xml:space="preserve"><value>Valor smooth</value></data>
+  <data name="Enable zig zag swing" xml:space="preserve"><value>Habilitar swing en zigzag</value></data>
+  <data name="Bars settings" xml:space="preserve"><value>Ajustes de barras</value></data>
+  <data name="Stat mode" xml:space="preserve"><value>Modo de estadísticas</value></data>
+  <data name="First line color" xml:space="preserve"><value>Color de la primera línea</value></data>
+  <data name="Vbp opacity" xml:space="preserve"><value>Vbp opacidad</value></data>
+  <data name="Max extension" xml:space="preserve"><value>Extensión máxima</value></data>
+  <data name="Pl column" xml:space="preserve"><value>PL columna</value></data>
+  <data name="Checking directory" xml:space="preserve"><value>Control de ruta</value></data>
+  <data name="Enable summary" xml:space="preserve"><value>Habilitar resumen</value></data>
+  <data name="Volume font color" xml:space="preserve"><value>Color del texto del volumen</value></data>
+  <data name="Align label to right" xml:space="preserve"><value>Alinear etiqueta a la derecha</value></data>
+  <data name="Auction enable" xml:space="preserve"><value>Habilitar subasta</value></data>
+  <data name="File seems not to be a template or it is corrupted" xml:space="preserve"><value>El archivo parece no ser una plantilla o está dañado</value></data>
+  <data name="Do you want to save the current workspace?" xml:space="preserve"><value>¿Quieres guardar el plan de trabajo?</value></data>
+  <data name="Label general" xml:space="preserve"><value>Texto general</value></data>
+  <data name="Dicember" xml:space="preserve"><value>Diciembre</value></data>
+  <data name="First letter" xml:space="preserve"><value>Primera letra</value></data>
+  <data name="First length" xml:space="preserve"><value>Primera longitud</value></data>
+  <data name="Europe start time" xml:space="preserve"><value>Hora de inicio de Europa</value></data>
+  <data name="Move axis range" xml:space="preserve"><value>Mover eje</value></data>
+  <data name="Use chart color for marker1" xml:space="preserve"><value>Usar el color del gráfico para el marcador1</value></data>
+  <data name="Zone interrupt mode" xml:space="preserve"><value>Modo de interrupción de zona</value></data>
+  <data name="Indicator settings" xml:space="preserve"><value>Configuración del indicador</value></data>
+  <data name="Are you sure to roll the instrument? Volumes are still NOT rolled on next contract." xml:space="preserve"><value>¿Estás seguro de que estás cambiando el instrumento? Los volúmenes siguen siendo MÁS BAJOS en el próximo vencimiento.</value></data>
+  <data name="Select location" xml:space="preserve"><value>Seleccionar ubicación</value></data>
+  <data name="Trend down color" xml:space="preserve"><value>Color de tendencia bajista</value></data>
+  <data name="Data type" xml:space="preserve"><value>Tipo de datos</value></data>
+  <data name="Data feed" xml:space="preserve"><value>Flujo de datos</value></data>
+  <data name="Long formatted" xml:space="preserve"><value>Formato largo</value></data>
+  <data name="Smart dom" xml:space="preserve"><value>Smart DOM</value></data>
+  <data name="Pos. text color" xml:space="preserve"><value>Color de texto positivo</value></data>
+  <data name="Ask volume" xml:space="preserve"><value>Ask volumen</value></data>
+  <data name="Enable order submitted" xml:space="preserve"><value>Habilitar orden transmitida</value></data>
+  <data name="Snap annotation" xml:space="preserve"><value>Anotación rápida</value></data>
+  <data name="Bid marker color" xml:space="preserve"><value>Color del marcador de la demanda</value></data>
+  <data name="Splitted" xml:space="preserve"><value>Dividido</value></data>
+  <data name="Enable alert message" xml:space="preserve"><value>Habilitar mensaje de alerta</value></data>
+  <data name="Fixed seconds" xml:space="preserve"><value>Número de segundos</value></data>
+  <data name="Max ratio diff" xml:space="preserve"><value>Dif. Relación máxima</value></data>
+  <data name="Diamond" xml:space="preserve"><value>Diamante</value></data>
+  <data name="Sell stop" xml:space="preserve"><value>Sell stop</value></data>
+  <data name="Sell zone" xml:space="preserve"><value>Zona de venta</value></data>
+  <data name="Symbol manage" xml:space="preserve"><value>Gestión de símbolos</value></data>
+  <data name="H line enabled" xml:space="preserve"><value>Línea H habilitada</value></data>
+  <data name="Num of days" xml:space="preserve"><value>Número de días</value></data>
+  <data name="Ask stack back color" xml:space="preserve"><value>Color de oferta ingresada</value></data>
+  <data name="Book level always visible" xml:space="preserve"><value>Book nivel siempre visible</value></data>
+  <data name="Crossed" xml:space="preserve"><value>Cruzado</value></data>
+  <data name="Usa session" xml:space="preserve"><value>Usa sesión</value></data>
+  <data name="Developing vwap" xml:space="preserve"><value>VWAP dinamico</value></data>
+  <data name="Bid font" xml:space="preserve"><value>Fuente demanda</value></data>
+  <data name="Bid text" xml:space="preserve"><value>Texto BID</value></data>
+  <data name="Contract name" xml:space="preserve"><value>Nombre del contrato</value></data>
+  <data name="% avg. trade color" xml:space="preserve"><value>% avg. trade color</value></data>
+  <data name="Condition settings" xml:space="preserve"><value>Configuración de condiciones</value></data>
+  <data name="Envelope enabled" xml:space="preserve"><value>Sobre habilitado</value></data>
+  <data name="Default quantity" xml:space="preserve"><value>Cantidad por defecto</value></data>
+  <data name="Replay tick data" xml:space="preserve"><value>Replay tick dato</value></data>
+  <data name="Liquidity stacked" xml:space="preserve"><value>Liquidez apilada</value></data>
+  <data name="Stop qty correspond" xml:space="preserve"><value>Stop conseguido</value></data>
+  <data name="Book imbalance settings" xml:space="preserve"><value>Ajustes desequilibrio DOM</value></data>
+  <data name="Configurations" xml:space="preserve"><value>Configuraciones</value></data>
+  <data name="Fresh color" xml:space="preserve"><value>color fresco</value></data>
+  <data name="Line color" xml:space="preserve"><value>Color de linea</value></data>
+  <data name="Sell color" xml:space="preserve"><value>Sell color</value></data>
+  <data name="Zig zag tick rev./highest lowest" xml:space="preserve"><value>Zig zag rev tick/máx-mín</value></data>
+  <data name="Set tick grouping" xml:space="preserve"><value>Establecer agrupación de marcas</value></data>
+  <data name="Subgraphs" xml:space="preserve"><value>Serie</value></data>
+  <data name="Sell limit" xml:space="preserve"><value>Sell limit</value></data>
+  <data name="Sell order" xml:space="preserve"><value>Vender orden</value></data>
+  <data name="Clear recent filled" xml:space="preserve"><value>Borrar llenado reciente</value></data>
+  <data name="Line style" xml:space="preserve"><value>Estilo de línea</value></data>
+  <data name="Auct. P." xml:space="preserve"><value>subasta PAG.</value></data>
+  <data name="Line width" xml:space="preserve"><value>Grosor de la línea</value></data>
+  <data name="Country filter" xml:space="preserve"><value>Filtro de país</value></data>
+  <data name="Color mode" xml:space="preserve"><value>Modo de color</value></data>
+  <data name="Color down" xml:space="preserve"><value>Color bajista</value></data>
+  <data name="Body opacity" xml:space="preserve"><value>Opacidad del cuerpo</value></data>
+  <data name="First line" xml:space="preserve"><value>Primera linea</value></data>
+  <data name="Download" xml:space="preserve"><value>Descargar</value></data>
+  <data name="Daily Net" xml:space="preserve"><value>Neto diario</value></data>
+  <data name="Min diagonal comparison" xml:space="preserve"><value>Mín comparacion diagonal</value></data>
+  <data name="Down bar" xml:space="preserve"><value>Barra negativa</value></data>
+  <data name="Record type" xml:space="preserve"><value>Tipo de registro</value></data>
+  <data name="Pointer" xml:space="preserve"><value>Puntero</value></data>
+  <data name="Highlight" xml:space="preserve"><value>Resaltar</value></data>
+  <data name="Enables" xml:space="preserve"><value>Habilitar</value></data>
+  <data name="颜色" xml:space="preserve"><value>颜色</value></data>
+  <data name="Positive color" xml:space="preserve"><value>Color positivo</value></data>
+  <data name="No" xml:space="preserve"><value>No</value></data>
+  <data name="Ok" xml:space="preserve"><value>Ok</value></data>
+  <data name="Up" xml:space="preserve"><value>Arriba</value></data>
+  <data name="Calculation based on seconds" xml:space="preserve"><value>Cálculo basado en segundos</value></data>
+  <data name="Vertical dom" xml:space="preserve"><value>dominación vertical</value></data>
+  <data name="Localization" xml:space="preserve"><value>Localización</value></data>
+  <data name="Bid pull back color" xml:space="preserve"><value>Color de demanda eliminada</value></data>
+  <data name="Resettable profile" xml:space="preserve"><value>Perfil reiniciable</value></data>
+  <data name="Loss text color" xml:space="preserve"><value>Texto pérdida</value></data>
+  <data name="Price projection" xml:space="preserve"><value>Proyección de precios</value></data>
+  <data name="Min tick distr" xml:space="preserve"><value>Distribución mínima de ticks</value></data>
+  <data name="Minimum quantity" xml:space="preserve"><value>Cantidad mínima</value></data>
+  <data name="Minimum size" xml:space="preserve"><value>Tamaño minimo</value></data>
+  <data name="Hours to load" xml:space="preserve"><value>Horas para cargar</value></data>
+  <data name="Show important levels" xml:space="preserve"><value>Mostrar niveles importantes</value></data>
+  <data name="Acceleration" xml:space="preserve"><value>Aceleración</value></data>
+  <data name="Multiple profile" xml:space="preserve"><value>Perfil múltiple</value></data>
+  <data name="Method color" xml:space="preserve"><value>Color del método</value></data>
+  <data name="3 minutes" xml:space="preserve"><value>3  minutos</value></data>
+  <data name="Show elements" xml:space="preserve"><value>Mostrar elementos</value></data>
+  <data name="Pull/stack column" xml:space="preserve"><value>Tirar/apilar columna</value></data>
+  <data name="Hourly analysis" xml:space="preserve"><value>Análisis horario</value></data>
+  <data name="Please select symbols before" xml:space="preserve"><value>Seleccione los símbolos antes</value></data>
+  <data name="Point of control" xml:space="preserve"><value>Punto de control</value></data>
+  <data name="Partial drawdown" xml:space="preserve"><value>Drawdown parcial</value></data>
+  <data name="Max. num. of trades" xml:space="preserve"><value>Máx. núm. trades</value></data>
+  <data name="% var" xml:space="preserve"><value>% var</value></data>
+  <data name="Extended" xml:space="preserve"><value>Extendido</value></data>
+  <data name="Custom period" xml:space="preserve"><value>Período personalizado</value></data>
+  <data name="Percentual period" xml:space="preserve"><value>Período porcentual</value></data>
+  <data name="October" xml:space="preserve"><value>Octubre</value></data>
+  <data name="Bid back color" xml:space="preserve"><value>Fondo de demanda</value></data>
+  <data name="License key" xml:space="preserve"><value>Clave de licencia</value></data>
+  <data name="Volume/delta" xml:space="preserve"><value>Volumen/delta</value></data>
+  <data name="Market depth (high performance)" xml:space="preserve"><value>Profundidad de mercado (alto rendimiento)</value></data>
+  <data name="Show candle" xml:space="preserve"><value>Habilitar velas</value></data>
+  <data name="Minimum tot volume" xml:space="preserve"><value>Volumen total mínimo</value></data>
+  <data name="Display order" xml:space="preserve"><value>Orden de visualización</value></data>
+  <data name="End range" xml:space="preserve"><value>Rango final</value></data>
+  <data name="% avg. institutional color" xml:space="preserve"><value>% avg. institucional color</value></data>
+  <data name="Display param" xml:space="preserve"><value>Mostrar parámetro</value></data>
+  <data name="Db folder" xml:space="preserve"><value>Carpeta de base de datos</value></data>
+  <data name="Show vertical line on close" xml:space="preserve"><value>Mostrar línea vertical al cerrar</value></data>
+  <data name="Rebuild chart" xml:space="preserve"><value>Reconstruir gráfico</value></data>
+  <data name="Fourth color:" xml:space="preserve"><value>Cuarto color:</value></data>
+  <data name="Bid column color" xml:space="preserve"><value>Color columna Bid</value></data>
+  <data name="Trr symbols" xml:space="preserve"><value>Simbolos trr</value></data>
+  <data name="Buy limit color" xml:space="preserve"><value>Buy limit color</value></data>
+  <data name="Select start date" xml:space="preserve"><value>Seleccionar fecha de inicio</value></data>
+  <data name="Stop settings" xml:space="preserve"><value>Detener la configuración</value></data>
+  <data name="Daily meetings" xml:space="preserve"><value>Reuniones diarias</value></data>
+  <data name="Minimum number bar" xml:space="preserve"><value>Mínimo numero barra</value></data>
+  <data name="Show marker background" xml:space="preserve"><value>Mostrar fondo de marcador</value></data>
+  <data name="Split type" xml:space="preserve"><value>Dividido</value></data>
+  <data name="Buy enter arrow color" xml:space="preserve"><value>Color de la flecha de compra</value></data>
+  <data name="Sell internal color" xml:space="preserve"><value>Color de venta interna</value></data>
+  <data name="Liquidity contrast" xml:space="preserve"><value>Contraste de liquidez</value></data>
+  <data name="Dominant volume" xml:space="preserve"><value>Volumen dominante</value></data>
+  <data name="Trade up color" xml:space="preserve"><value>Color trade positivo</value></data>
+  <data name="Window settings" xml:space="preserve"><value>Configuración de la ventana</value></data>
+  <data name="Conservative" xml:space="preserve"><value>Conservador</value></data>
+  <data name="Show CVD" xml:space="preserve"><value>Habilitar CVD</value></data>
+  <data name="Show log" xml:space="preserve"><value>Mostrar registro</value></data>
+  <data name="Show all" xml:space="preserve"><value>Mostrar todo</value></data>
+  <data name="Show t s" xml:space="preserve"><value>Mostrar TS</value></data>
+  <data name="Show sum" xml:space="preserve"><value>Mostrar suma</value></data>
+  <data name="Show 75%" xml:space="preserve"><value>Mostrar 75%</value></data>
+  <data name="Show 50%" xml:space="preserve"><value>Mostrar 50%</value></data>
+  <data name="Simulate feed" xml:space="preserve"><value>Datos simulados</value></data>
+  <data name="Add" xml:space="preserve"><value>Añadir</value></data>
+  <data name="All" xml:space="preserve"><value>Todo</value></data>
+  <data name="Avg" xml:space="preserve"><value>Media</value></data>
+  <data name="Day" xml:space="preserve"><value>Día</value></data>
+  <data name="Dot" xml:space="preserve"><value>Punto</value></data>
+  <data name="May" xml:space="preserve"><value>Mayo</value></data>
+  <data name="Bar" xml:space="preserve"><value>Barra</value></data>
+  <data name="Buy" xml:space="preserve"><value>Comprar</value></data>
+  <data name="New" xml:space="preserve"><value>Nuevo</value></data>
+  <data name="Oco" xml:space="preserve"><value>Oco</value></data>
+  <data name="Log" xml:space="preserve"><value>Log</value></data>
+  <data name="Low" xml:space="preserve"><value>Mínimo</value></data>
+  <data name="Qty" xml:space="preserve"><value>Cantidad</value></data>
+  <data name="Set" xml:space="preserve"><value>Colocar (set)</value></data>
+  <data name="Poc" xml:space="preserve"><value>Poc</value></data>
+  <data name="Yes" xml:space="preserve"><value>Si</value></data>
+  <data name="Enable adv TS" xml:space="preserve"><value>Habilitar adv TS</value></data>
+  <data name="Volume summary" xml:space="preserve"><value>Resumen de volumen</value></data>
+  <data name="Entry" xml:space="preserve"><value>Entrada</value></data>
+  <data name="Error" xml:space="preserve"><value>Error</value></data>
+  <data name="Nome label" xml:space="preserve"><value>Etiqueta de nombre</value></data>
+  <data name="Ann 1" xml:space="preserve"><value>Ann 1</value></data>
+  <data name="Ann 2" xml:space="preserve"><value>Ann 2</value></data>
+  <data name="Alert" xml:space="preserve"><value>Alerta</value></data>
+  <data name="Apply" xml:space="preserve"><value>Aplicar</value></data>
+  <data name="April" xml:space="preserve"><value>Abril</value></data>
+  <data name="Fixed" xml:space="preserve"><value>Reparado</value></data>
+  <data name="Daily" xml:space="preserve"><value>Diario</value></data>
+  <data name="Delta" xml:space="preserve"><value>Delta</value></data>
+  <data name="Month" xml:space="preserve"><value>Mes</value></data>
+  <data name="March" xml:space="preserve"><value>Marzo</value></data>
+  <data name="Target qty correspond" xml:space="preserve"><value>Target conseguido</value></data>
+  <data name="Btn 5" xml:space="preserve"><value>Btn 5</value></data>
+  <data name="Btn 4" xml:space="preserve"><value>Btn 4</value></data>
+  <data name="Btn 6" xml:space="preserve"><value>Btn 6</value></data>
+  <data name="Btn 1" xml:space="preserve"><value>Btn 1</value></data>
+  <data name="Btn 3" xml:space="preserve"><value>Btn 3</value></data>
+  <data name="Btn 2" xml:space="preserve"><value>Btn 2</value></data>
+  <data name="Color" xml:space="preserve"><value>Color</value></data>
+  <data name="Std. dev val" xml:space="preserve"><value>Valor desarrollo estandar</value></data>
+  <data name="Close" xml:space="preserve"><value>Cerrar</value></data>
+  <data name="Chart" xml:space="preserve"><value>Grafico</value></data>
+  <data name="Italy" xml:space="preserve"><value>Italia</value></data>
+  <data name="Name:" xml:space="preserve"><value>Nombre:</value></data>
+  <data name="Maximum % difference" xml:space="preserve"><value>% de diferencia máxima</value></data>
+  <data name="Order" xml:space="preserve"><value>Pedido</value></data>
+  <data name="Limit" xml:space="preserve"><value>Limite</value></data>
+  <data name="Label" xml:space="preserve"><value>Etiqueta</value></data>
+  <data name="Load:" xml:space="preserve"><value>Carga:</value></data>
+  <data name="Level" xml:space="preserve"><value>Nivel</value></data>
+  <data name="Value" xml:space="preserve"><value>Valor</value></data>
+  <data name="Voice" xml:space="preserve"><value>Voz</value></data>
+  <data name="Weeks" xml:space="preserve"><value>Semanas</value></data>
+  <data name="Width" xml:space="preserve"><value>Ancho</value></data>
+  <data name="Trade" xml:space="preserve"><value>Trade</value></data>
+  <data name="Title" xml:space="preserve"><value>Título</value></data>
+  <data name="Ticks" xml:space="preserve"><value>Ticks</value></data>
+  <data name="Third" xml:space="preserve"><value>Tercero</value></data>
+  <data name="Theme" xml:space="preserve"><value>Temática</value></data>
+  <data name="Total" xml:space="preserve"><value>Total</value></data>
+  <data name="Ruler" xml:space="preserve"><value>Regla</value></data>
+  <data name="Runup" xml:space="preserve"><value>Período previo</value></data>
+  <data name="Reset" xml:space="preserve"><value>Reset</value></data>
+  <data name="Renko" xml:space="preserve"><value>Renko</value></data>
+  <data name="Ratio" xml:space="preserve"><value>Ratio</value></data>
+  <data name="Range" xml:space="preserve"><value>Distancia</value></data>
+  <data name="Right" xml:space="preserve"><value>Derecho</value></data>
+  <data name="Susp." xml:space="preserve"><value>Suspenso.</value></data>
+  <data name="Start" xml:space="preserve"><value>Iniciar</value></data>
+  <data name="Style" xml:space="preserve"><value>Estilo</value></data>
+  <data name="Speed" xml:space="preserve"><value>Velocidad</value></data>
+  <data name="Solid" xml:space="preserve"><value>Solido</value></data>
+  <data name="Save:" xml:space="preserve"><value>Guardar:</value></data>
+  <data name="PL: 0" xml:space="preserve"><value>PL: 0</value></data>
+  <data name="Slope" xml:space="preserve"><value>Pendiente</value></data>
+  <data name="Short" xml:space="preserve"><value>Corto</value></data>
+  <data name="Price" xml:space="preserve"><value>Precio</value></data>
+  <data name="Peak and valley" xml:space="preserve"><value>Pico y valle</value></data>
+  <data name="Pause" xml:space="preserve"><value>Pausa</value></data>
+  <data name="Param" xml:space="preserve"><value>Parámetro</value></data>
+  <data name="Show above bars" xml:space="preserve"><value>Mostrar encima barras </value></data>
+  <data name="Third res color" xml:space="preserve"><value>Color de tercera resolución</value></data>
+  <data name="PL loss font color" xml:space="preserve"><value>PL loss texto color</value></data>
+  <data name="Selected broker" xml:space="preserve"><value>Seleccionar broker</value></data>
+  <data name="Entry date" xml:space="preserve"><value>Fecha de entrada</value></data>
+  <data name="Entry name" xml:space="preserve"><value>Nombre de la entrada</value></data>
+  <data name="Tool config" xml:space="preserve"><value>Configurar herramientas</value></data>
+  <data name="Vol cluster" xml:space="preserve"><value>Vol cluster</value></data>
+  <data name="Exit price" xml:space="preserve"><value>Precio de salida</value></data>
+  <data name="Volumetrica trading events" xml:space="preserve"><value>Eventos comerciales volumétricos</value></data>
+  <data name="Zig zag % reverse" xml:space="preserve"><value>Zig zag % reversión</value></data>
+  <data name="Need rollover" xml:space="preserve"><value>Necesita transferencia</value></data>
+  <data name="Entry DT" xml:space="preserve"><value>Entrada DT</value></data>
+  <data name="Max Contracts" xml:space="preserve"><value>Contratos máximos</value></data>
+  <data name="All Ticks" xml:space="preserve"><value>Todas las garrapatas</value></data>
+  <data name="Current offset" xml:space="preserve"><value>Compensación final</value></data>
+  <data name="Back opacity" xml:space="preserve"><value>Opacidad trasera</value></data>
+  <data name="Custom time session (exchange time zone)" xml:space="preserve"><value>Sesión horaria personalizada (zona horaria de mercado)</value></data>
+  <data name="Alert trading" xml:space="preserve"><value>Notificaciones comerciales</value></data>
+  <data name="Please enter a name" xml:space="preserve"><value>Por favor ingresa un nombre</value></data>
+  <data name="Pos. delta volume" xml:space="preserve"><value>Pos. delta volumen</value></data>
+  <data name="Selection" xml:space="preserve"><value>Selección</value></data>
+  <data name="Show orders" xml:space="preserve"><value>Mostrar pedidos</value></data>
+  <data name="Alert iceberg" xml:space="preserve"><value>Alerta de iceberg</value></data>
+  <data name="Please not use | char" xml:space="preserve"><value>No uses este caracter</value></data>
+  <data name="Resistance color" xml:space="preserve"><value>Color de resistencia</value></data>
+  <data name="PointFigure" xml:space="preserve"><value>PuntoFigura</value></data>
+  <data name="Submitted" xml:space="preserve"><value>Transmisión</value></data>
+  <data name="Volume color" xml:space="preserve"><value>Color de volumen</value></data>
+  <data name="Expert mode" xml:space="preserve"><value>Modo experto</value></data>
+  <data name="Last bar" xml:space="preserve"><value>Última barra</value></data>
+  <data name="Please fill all fields" xml:space="preserve"><value>Por favor llena todos los espacios</value></data>
+  <data name="Support line color" xml:space="preserve"><value>Color de la línea de soporte</value></data>
+  <data name="Calendar settings" xml:space="preserve"><value>Configuración del calendario</value></data>
+  <data name="Always on top" xml:space="preserve"><value>Siempre encima</value></data>
+  <data name="Suspension color" xml:space="preserve"><value>Color de suspensión</value></data>
+  <data name="Support line width" xml:space="preserve"><value>Ancho de línea de soporte</value></data>
+  <data name="Volume slope" xml:space="preserve"><value>Volumen pendiente</value></data>
+  <data name="Price font color" xml:space="preserve"><value>Color texto precio</value></data>
+  <data name="Support line style" xml:space="preserve"><value>Estilo de línea de soporte</value></data>
+  <data name="Signal performance" xml:space="preserve"><value>Rendimiento de la señal</value></data>
+  <data name="Delta range" xml:space="preserve"><value>Rango delta</value></data>
+  <data name="Chart area" xml:space="preserve"><value>Área de gráfico</value></data>
+  <data name="Adv. ts" xml:space="preserve"><value>Adv. ts</value></data>
+  <data name="Chart type" xml:space="preserve"><value>Tipo de gráfico</value></data>
+  <data name="Delta input" xml:space="preserve"><value>Delta entrada</value></data>
+  <data name="Stop type" xml:space="preserve"><value>Tipo stop</value></data>
+  <data name="Stop loss" xml:space="preserve"><value>Stop loss</value></data>
+  <data name="Type qty" xml:space="preserve"><value>Modo cantidad</value></data>
+  <data name="Header settings" xml:space="preserve"><value>Configuración de encabezado</value></data>
+  <data name="Delta color" xml:space="preserve"><value>Delta Color</value></data>
+  <data name="Enable marker" xml:space="preserve"><value>Habilitar marcador</value></data>
+  <data name="Iceberg on ask color" xml:space="preserve"><value>Color iceberg en oferta</value></data>
+  <data name="Account" xml:space="preserve"><value>Cuenta</value></data>
+  <data name="Add Alert" xml:space="preserve"><value>Agregar alerta</value></data>
+  <data name="Annotation settings" xml:space="preserve"><value>Configurar anotaciones</value></data>
+  <data name="Opacity based on ratio" xml:space="preserve"><value>Opacidad basada en ratio</value></data>
+  <data name="Trigger whole bar" xml:space="preserve"><value>Cruzar toda la barra</value></data>
+  <data name="PropDialog" xml:space="preserve"><value>Diálogo de accesorios</value></data>
+  <data name="Quantity" xml:space="preserve"><value>Cantidad</value></data>
+  <data name="Show price marker" xml:space="preserve"><value>Mostrar indicador de precio</value></data>
+  <data name="Syntethic color" xml:space="preserve"><value>Color sintético</value></data>
+  <data name="Opacity poc grouping" xml:space="preserve"><value>Baja opacidad de agrupación</value></data>
+  <data name="Check bar" xml:space="preserve"><value>Barrra de control</value></data>
+  <data name="Sell background" xml:space="preserve"><value>Fondo venta</value></data>
+  <data name="About us" xml:space="preserve"><value>Sobre nosotros</value></data>
+  <data name="Order commission" xml:space="preserve"><value>Comisión de pedido</value></data>
+  <data name="Entry qty" xml:space="preserve"><value>Cantidad de entrada</value></data>
+  <data name="Send order" xml:space="preserve"><value>Enviar orden</value></data>
+  <data name="Do you want to update symbol settings?\r\nPlease skip this message if you have added custom symbols" xml:space="preserve"><value>¿Desea actualizar la configuración de símbolos?\r\n Omita este mensaje si ha agregado símbolos personalizados.</value></data>
+  <data name="Show OCO Panel" xml:space="preserve"><value>Mostrar panel OCO</value></data>
+  <data name="First res color" xml:space="preserve"><value>Color de primera resolución</value></data>
+  <data name="Pending color" xml:space="preserve"><value>Color pendiente</value></data>
+  <data name="Color up" xml:space="preserve"><value>Color alcista</value></data>
+  <data name="Color 0%" xml:space="preserve"><value>Color 0%</value></data>
+  <data name="Maximum lateral number bar" xml:space="preserve"><value>Número máximo lateral barra</value></data>
+  <data name="Visual mode" xml:space="preserve"><value>Modo visual</value></data>
+  <data name="Horizontal" xml:space="preserve"><value>Horizontal</value></data>
+  <data name="Use chart's color for marker" xml:space="preserve"><value>Usar el color del gráfico como marcador</value></data>
+  <data name="Downloading data" xml:space="preserve"><value>Descargando datos</value></data>
+  <data name="Vertical line" xml:space="preserve"><value>Linea vertical</value></data>
+  <data name="Sell stop limit color" xml:space="preserve"><value>Sell stop limit color</value></data>
+  <data name="Select a connection" xml:space="preserve"><value>Seleccione una conexión</value></data>
+  <data name="Order type" xml:space="preserve"><value>Tipo de orden</value></data>
+  <data name="Current resolution" xml:space="preserve"><value>Resolución actual</value></data>
+  <data name="Bar grouping" xml:space="preserve"><value>Agrupación de barras</value></data>
+  <data name="Verifying license key" xml:space="preserve"><value>Comprobación de licencia en curso</value></data>
+  <data name="Set width vbp" xml:space="preserve"><value>Establecer ancho vbp</value></data>
+  <data name="Rectangle" xml:space="preserve"><value>Rectángulo</value></data>
+  <data name="Combined" xml:space="preserve"><value>Combinar</value></data>
+  <data name="Low imbalance color" xml:space="preserve"><value>Colore mínimo de mbalance</value></data>
+  <data name="Min. num. of consecutive zero" xml:space="preserve"><value>N mín. ceros consecutivos</value></data>
+  <data name="Min. num. of consecutive imb." xml:space="preserve"><value>Mín. núm. de imb consecutivos</value></data>
+  <data name="Enable retracement" xml:space="preserve"><value>Habilitar retroceso</value></data>
+  <data name="Lenth type" xml:space="preserve"><value>Tipo de longitud</value></data>
+  <data name="Nor color" xml:space="preserve"><value>Nor color</value></data>
+  <data name="Max tick" xml:space="preserve"><value>Max tick</value></data>
+  <data name="Max loss" xml:space="preserve"><value>Máx perdida</value></data>
+  <data name="Loading data for replay" xml:space="preserve"><value>Cargando datos para reproducir</value></data>
+  <data name="Close all workspaces before" xml:space="preserve"><value>Cierra primero los espacios de tabajo</value></data>
+  <data name="All formatted" xml:space="preserve"><value>Todos los formatos</value></data>
+  <data name="Exclude peak/valley high/low" xml:space="preserve"><value>Excluir pico/valle alto/bajo</value></data>
+  <data name="Reset at start session" xml:space="preserve"><value>Restablecer al inicio de la sesión</value></data>
+  <data name="Second vbp" xml:space="preserve"><value>Segundo vpb</value></data>
+  <data name="Reset on start day" xml:space="preserve"><value>Restablecer al incio del día</value></data>
+  <data name="Step mode" xml:space="preserve"><value>Step modo</value></data>
+  <data name="Correlation properties" xml:space="preserve"><value>Propiedades de correlación</value></data>
+  <data name="Adjust scale with dom" xml:space="preserve"><value>Ajustar escala con dom</value></data>
+  <data name="Volume ask color" xml:space="preserve"><value>Color de volumen</value></data>
+  <data name="Selected symbols" xml:space="preserve"><value>Seleccionar simbolos</value></data>
+  <data name="Link number" xml:space="preserve"><value>Número de enlace</value></data>
+  <data name="Spread mode" xml:space="preserve"><value>Modalidad spread</value></data>
+  <data name="Reading report from file" xml:space="preserve"><value>Informe de lectura del archivo</value></data>
+  <data name="Feed settings" xml:space="preserve"><value>Configurar flujo de datos</value></data>
+  <data name="Save settings" xml:space="preserve"><value>Guardar ajustes</value></data>
+  <data name="Std. dev. param" xml:space="preserve"><value>Desv. est. parámetro</value></data>
+  <data name="Price scale enabled" xml:space="preserve"><value>Escala de precios habilitada</value></data>
+  <data name="Exit qty" xml:space="preserve"><value>Cantidad de salida</value></data>
+  <data name="Show marker" xml:space="preserve"><value>Mostrar marcador</value></data>
+  <data name="Min delta pres" xml:space="preserve"><value>Presión delta mínima</value></data>
+  <data name="Background opacity" xml:space="preserve"><value>Opacidad de fondo</value></data>
+  <data name="Candle settings" xml:space="preserve"><value>Configuraciones de velas</value></data>
+  <data name="Standard mode" xml:space="preserve"><value>Modo estandar</value></data>
+  <data name="Standard dev." xml:space="preserve"><value>Desv. estándar</value></data>
+  <data name="Liq. tracker settings" xml:space="preserve"><value>Ajustes liq. rastreador</value></data>
+  <data name="Header text size" xml:space="preserve"><value>Tamaño del texto del encabezado</value></data>
+  <data name="February" xml:space="preserve"><value>Febrero</value></data>
+  <data name="Marker bid absorption" xml:space="preserve"><value>Marcador Bid absorción</value></data>
+  <data name="Price action color" xml:space="preserve"><value>Color de accion del precio</value></data>
+  <data name="Envelope settings" xml:space="preserve"><value>Ajustes de configuración</value></data>
+  <data name="Color bid" xml:space="preserve"><value>Color bid</value></data>
+  <data name="Color ask" xml:space="preserve"><value>Color ask</value></data>
+  <data name="Color 50%" xml:space="preserve"><value>Color 50%</value></data>
+  <data name="Resistence line color" xml:space="preserve"><value>Color de línea de resistencia</value></data>
+  <data name="Shift poc" xml:space="preserve"><value>Shift poc</value></data>
+  <data name="Width type" xml:space="preserve"><value>Tipo de ancho</value></data>
+  <data name="Default crosshair" xml:space="preserve"><value>Crosshair por defecto</value></data>
+  <data name="Show book speed" xml:space="preserve"><value>Mostrar la velocidad del libro</value></data>
+  <data name="Exit DT" xml:space="preserve"><value>Salir del DT</value></data>
+  <data name="Fixed line color" xml:space="preserve"><value>Color de línea fija</value></data>
+  <data name="Include equal" xml:space="preserve"><value>Incluir igual</value></data>
+  <data name="All-in-one color" xml:space="preserve"><value>Color todo en uno</value></data>
+  <data name="Ask font color" xml:space="preserve"><value>Color texto ASK</value></data>
+  <data name="Enable header" xml:space="preserve"><value>Habilitar encabezado</value></data>
+  <data name="Previous offset" xml:space="preserve"><value>Compensación anterior</value></data>
+  <data name="Import annotations" xml:space="preserve"><value>Importar anotaciones</value></data>
+  <data name="Tick offset" xml:space="preserve"><value>Tick offset</value></data>
+  <data name="Gap mode" xml:space="preserve"><value>Modo Gap</value></data>
+  <data name="Buy zone" xml:space="preserve"><value>Zona de compra</value></data>
+  <data name="Buy stop" xml:space="preserve"><value>Buy stop</value></data>
+  <data name="Remove line on shadow triggered" xml:space="preserve"><value>Eliminar línea en la sombra activada</value></data>
+  <data name="Alert name:" xml:space="preserve"><value>Nombre de la alerta</value></data>
+  <data name="Show order ID" xml:space="preserve"><value>Mostrar ID de pedido</value></data>
+  <data name="Visual style" xml:space="preserve"><value>Estilo visual</value></data>
+  <data name="Bid color" xml:space="preserve"><value>Color de compra</value></data>
+  <data name="Number of bar" xml:space="preserve"><value>Numero de barra</value></data>
+  <data name="Crosshair" xml:space="preserve"><value>Punto de mira</value></data>
+  <data name="Bid alert" xml:space="preserve"><value>Bid alerta</value></data>
+  <data name="Alert sound" xml:space="preserve"><value>Sonido de alerta</value></data>
+  <data name="Various" xml:space="preserve"><value>Varios</value></data>
+  <data name="Sell trig color" xml:space="preserve"><value>Color de venta cruzado</value></data>
+  <data name="Enable offers" xml:space="preserve"><value>Habilitar ofertas</value></data>
+  <data name="Message text" xml:space="preserve"><value>Mensaje de texto</value></data>
+  <data name="Extimated color" xml:space="preserve"><value>Color extimado</value></data>
+  <data name="Price settings" xml:space="preserve"><value>Ajustes de precios</value></data>
+  <data name="Right bars" xml:space="preserve"><value>Barras derechas</value></data>
+  <data name="Appearance" xml:space="preserve"><value>Apariencia</value></data>
+  <data name="Yearly analysis" xml:space="preserve"><value>Análisis anual</value></data>
+  <data name="Front Tick" xml:space="preserve"><value>garrapata frontal</value></data>
+  <data name="Always on top works only on detached window&quot;" xml:space="preserve"><value>Siempre en la parte superior funciona solo en una ventana separada</value></data>
+  <data name="Fourth res color" xml:space="preserve"><value>Cuarto color de resolución</value></data>
+  <data name="Delta input data" xml:space="preserve"><value>Base Dato Delta</value></data>
+  <data name="Set number of tick grouping" xml:space="preserve"><value>Establecer el número de grupos de ticks</value></data>
+  <data name="Space from medium" xml:space="preserve"><value>Espacio medio</value></data>
+  <data name="45 minutes" xml:space="preserve"><value>45  minutos</value></data>
+  <data name="Show calendar" xml:space="preserve"><value>Mostrar calendario</value></data>
+  <data name="Show volume" xml:space="preserve"><value>Habilitar volumen</value></data>
+  <data name="Minimum stacked" xml:space="preserve"><value>Mínimo apilado</value></data>
+  <data name="Based trend" xml:space="preserve"><value>Basado en la tendencia</value></data>
+  <data name="Settings" xml:space="preserve"><value>Ajustes</value></data>
+  <data name="Column order" xml:space="preserve"><value>Orden de las columnas</value></data>
+  <data name="Stop bid color" xml:space="preserve"><value>Color stop demanda</value></data>
+  <data name="Calculating report" xml:space="preserve"><value>Informe de cálculo</value></data>
+  <data name="Tpo opacity" xml:space="preserve"><value>Tpo opacidad</value></data>
+  <data name="There is no scheduled meetings today" xml:space="preserve"><value>No hay reuniones programadas hoy.</value></data>
+  <data name="End time session" xml:space="preserve"><value>Hora cirre sesión</value></data>
+  <data name="Based delta" xml:space="preserve"><value>Basado en el delta</value></data>
+  <data name="Cancel and Flat Position" xml:space="preserve"><value>Cancelar y posición plana</value></data>
+  <data name="Day of month" xml:space="preserve"><value>Dia del mes</value></data>
+  <data name="PL profit font color" xml:space="preserve"><value>PL profit texto color</value></data>
+  <data name="Enable text" xml:space="preserve"><value>Habilitar texto</value></data>
+  <data name="Rename TS" xml:space="preserve"><value>Renombrar TS</value></data>
+  <data name="Are you sure to quit?" xml:space="preserve"><value>¿Estás seguro de que vas a salir?</value></data>
+  <data name="Background color" xml:space="preserve"><value>Color de fondo</value></data>
+  <data name="Bar style" xml:space="preserve"><value>Estilo de barra</value></data>
+  <data name="Show end retracement" xml:space="preserve"><value>Mostrar ultimo retroceso</value></data>
+  <data name="Absolute % of rev. for zig zag swing" xml:space="preserve"><value>% variación absoluta para oscilación zig zag</value></data>
+  <data name="Macro levels enable" xml:space="preserve"><value>Habilitar niveles de macro</value></data>
+  <data name="Calculate on close" xml:space="preserve"><value>Calcular en cierre</value></data>
+  <data name="Connection log" xml:space="preserve"><value>Registro de conexión</value></data>
+  <data name="Absolute % of rev. for zig zag trend" xml:space="preserve"><value>% variación absoluta para tendencia zig zag</value></data>
+  <data name="Bar based" xml:space="preserve"><value>Basado en abrir/cerrar</value></data>
+  <data name="Bar input" xml:space="preserve"><value>Entrada de barra</value></data>
+  <data name="Ask marker color" xml:space="preserve"><value>Color del marcador de la oferta</value></data>
+  <data name="Drawdown Intraday" xml:space="preserve"><value>Retiro intradiario</value></data>
+  <data name="Show trading panel" xml:space="preserve"><value>Mostrar panel de trading</value></data>
+  <data name="Point width" xml:space="preserve"><value>Ancho de punto</value></data>
+  <data name="Vwap color" xml:space="preserve"><value>Vwap color</value></data>
+  <data name="Symbols rollover" xml:space="preserve"><value>Rollover de símbolos</value></data>
+  <data name="Min num trade" xml:space="preserve"><value>Número mínimo trade</value></data>
+  <data name="Ord. id" xml:space="preserve"><value>Ord. ID</value></data>
+  <data name="Ord i d" xml:space="preserve"><value>Ord io d</value></data>
+  <data name="Version" xml:space="preserve"><value>Version</value></data>
+  <data name="Exchange" xml:space="preserve"><value>Mercado</value></data>
+  <data name="Last book count" xml:space="preserve"><value>Recuento del último libro</value></data>
+  <data name="Select instrument" xml:space="preserve"><value>Seleccionar instrumento</value></data>
+  <data name="Mode delta" xml:space="preserve"><value>Modo delta</value></data>
+  <data name="Fourth range" xml:space="preserve"><value>Cuarto Rango</value></data>
+  <data name="Historical depth (h)" xml:space="preserve"><value>Profundidad histórica (h)</value></data>
+  <data name="Out std dev perc" xml:space="preserve"><value>Salida std desviacion</value></data>
+  <data name="Signal settings" xml:space="preserve"><value>Ajustes de señal</value></data>
+  <data name="First vbp" xml:space="preserve"><value>Primer vpb</value></data>
+  <data name="Enable delta" xml:space="preserve"><value>Habilitar delta</value></data>
+  <data name="Fourth color" xml:space="preserve"><value>Cuarto color</value></data>
+  <data name="Enable alert" xml:space="preserve"><value>Habilitar alerta</value></data>
+  <data name="Bidask tick diff." xml:space="preserve"><value>Bidask tick diff.</value></data>
+  <data name="Use marker chart color" xml:space="preserve"><value>Usar el color del gráfico de marcador</value></data>
+  <data name="Period length" xml:space="preserve"><value>Duración del período</value></data>
+  <data name="Fourth label" xml:space="preserve"><value>Cuarto texto</value></data>
+  <data name="Maximum volume" xml:space="preserve"><value>Volumen máximo</value></data>
+  <data name="Order column settings" xml:space="preserve"><value>Configurar orden de columnas</value></data>
+  <data name="Percentual" xml:space="preserve"><value>Porcentual</value></data>
+  <data name="Status color" xml:space="preserve"><value>Color del estado</value></data>
+  <data name="Enable popup" xml:space="preserve"><value>Habilitar ventana emergente</value></data>
+  <data name="Full delta absorption" xml:space="preserve"><value>Absorción delta total</value></data>
+  <data name="Hft settings" xml:space="preserve"><value>Ajustes de hft</value></data>
+  <data name="Automatic" xml:space="preserve"><value>Automático</value></data>
+  <data name="Enable sound" xml:space="preserve"><value>Activar sonido</value></data>
+  <data name="Show historical order" xml:space="preserve"><value>Mostrar orden histórico</value></data>
+  <data name="Align text to left" xml:space="preserve"><value>Alinear texto a la izquierda</value></data>
+  <data name="Custom third name" xml:space="preserve"><value>Tercer nombre personalizado</value></data>
+  <data name="Width length" xml:space="preserve"><value>Anchura longitud</value></data>
+  <data name="Tick nearness" xml:space="preserve"><value>Tick tolerancia</value></data>
+  <data name="Ask pull back color" xml:space="preserve"><value>Color de oferta eliminada</value></data>
+  <data name="Strategy performance" xml:space="preserve"><value>Informe de operación</value></data>
+  <data name="Starting application" xml:space="preserve"><value>Iniciar la aplicación</value></data>
+  <data name="Volume alertsound" xml:space="preserve"><value>Notificación de volumen</value></data>
+  <data name="Plot once ended" xml:space="preserve"><value>Trama una vez terminada</value></data>
+  <data name="Level enable" xml:space="preserve"><value>Habilitar nivel</value></data>
+  <data name="Exhaustion" xml:space="preserve"><value>Agotamiento</value></data>
+  <data name="Resize axis range" xml:space="preserve"><value>Cambiar el tamaño del eje</value></data>
+  <data name="Include based on numer" xml:space="preserve"><value>Incluir basado en número</value></data>
+  <data name="Sim stop order condition" xml:space="preserve"><value>Condición de orden detener sim</value></data>
+  <data name="Visual appearance" xml:space="preserve"><value>Apariencia visual</value></data>
+  <data name="Ask back color" xml:space="preserve"><value>Fondo de oferta</value></data>
+  <data name="Volumetrica" xml:space="preserve"><value>Volumetrica</value></data>
+  <data name="Pull/Stack" xml:space="preserve"><value>Tirar/Apilar</value></data>
+  <data name="Loading workspace" xml:space="preserve"><value>Cargando espacio de trabajo</value></data>
+  <data name="Days to show" xml:space="preserve"><value>Días para mostrar</value></data>
+  <data name="Days to load" xml:space="preserve"><value>Días para cargar</value></data>
+  <data name="Show canceled" xml:space="preserve"><value>Mosrtar cancelado</value></data>
+  <data name="Filter first price" xml:space="preserve"><value>Filtrar primer precio</value></data>
+  <data name="Average" xml:space="preserve"><value>Promedio</value></data>
+  <data name="Current workspace" xml:space="preserve"><value>Current workspace</value></data>
+  <data name="Expiration:" xml:space="preserve"><value>Fecha límite:</value></data>
+  <data name="Resistance line style" xml:space="preserve"><value>Estilo de línea de resistencia</value></data>
+  <data name="Only once per bar" xml:space="preserve"><value>Solo una vez por barra</value></data>
+  <data name="Noe color" xml:space="preserve"><value>Noe color</value></data>
+  <data name="Resistance line width" xml:space="preserve"><value>Ancho de línea de resistencia</value></data>
+  <data name="Value label" xml:space="preserve"><value>Valor de texto</value></data>
+  <data name="Show bid/ask volume" xml:space="preserve"><value>Mostrar volumen de oferta/demanda</value></data>
+  <data name="Bid avg color" xml:space="preserve"><value>Color medio demanda</value></data>
+  <data name="Zig zag settings" xml:space="preserve"><value>Ajustes Zig Zag</value></data>
+  <data name="Visible" xml:space="preserve"><value>Visible</value></data>
+  <data name="Resistance for min number" xml:space="preserve"><value>Resistencia para el número mínimo</value></data>
+  <data name="Auction" xml:space="preserve"><value>Subasta</value></data>
+  <data name="Stopiceberg settings" xml:space="preserve"><value>Ajuste stopiceberg</value></data>
+  <data name="Mode vol" xml:space="preserve"><value>Modo de volumen</value></data>
+  <data name="Average volume" xml:space="preserve"><value>Volumen promedio</value></data>
+  <data name="Minimum number trades" xml:space="preserve"><value>Mínimo número trades</value></data>
+  <data name="Auto trading enabled" xml:space="preserve"><value>Trading automático habilitado</value></data>
+  <data name="Modified" xml:space="preserve"><value>Modificada</value></data>
+  <data name="Top contrast" xml:space="preserve"><value>Alto contraste</value></data>
+  <data name="Error msg" xml:space="preserve"><value>Mensaje de error</value></data>
+  <data name="Show fundamental" xml:space="preserve"><value>Mostrar fundamental</value></data>
+  <data name="Level value" xml:space="preserve"><value>Valor de nivel</value></data>
+  <data name="Level width" xml:space="preserve"><value>Ancho de nivel</value></data>
+  <data name="Highlight color" xml:space="preserve"><value>Resaltar color</value></data>
+  <data name="Atr avg" xml:space="preserve"><value>Atr media</value></data>
+  <data name="Enable filter c v d" xml:space="preserve"><value>Habilitar filtro CVD</value></data>
+  <data name="Include mode" xml:space="preserve"><value>Modo de inclusiones</value></data>
+  <data name="Second positive color" xml:space="preserve"><value>Segundo color positivo</value></data>
+  <data name="Trading settings" xml:space="preserve"><value>Configuración trading</value></data>
+  <data name="Target enabled" xml:space="preserve"><value>Target habilidado</value></data>
+  <data name="You have to select at least one window type" xml:space="preserve"><value>Tienes que seleccionar al menos un tipo de ventana</value></data>
+  <data name="Show retracements" xml:space="preserve"><value>Mostrar retrocesos</value></data>
+  <data name="Period value" xml:space="preserve"><value>Valor del período</value></data>
+  <data name="Graphics settings" xml:space="preserve"><value>Configuración de gráficos</value></data>
+  <data name="Indicators" xml:space="preserve"><value>Indicadores</value></data>
+  <data name="Options" xml:space="preserve"><value>Opciones</value></data>
+  <data name="Aggregate trade" xml:space="preserve"><value>Trade agregado</value></data>
+  <data name="Range target" xml:space="preserve"><value>Range target</value></data>
+  <data name="Save new" xml:space="preserve"><value>Guardar nuevo</value></data>
+  <data name="Support line" xml:space="preserve"><value>Línea de soporte</value></data>
+  <data name="Gain text color" xml:space="preserve"><value>Texto ganancia</value></data>
+  <data name="Opacity" xml:space="preserve"><value>Opacidad</value></data>
+  <data name="Open PL" xml:space="preserve"><value>Apertura diaria</value></data>
+  <data name="Use sec. axis" xml:space="preserve"><value>Utilice seg. eje</value></data>
+  <data name="Check delta" xml:space="preserve"><value>Control delta</value></data>
+  <data name="Convert symbol to TickMill" xml:space="preserve"><value>Convertir símbolo a TickMill</value></data>
+  <data name="Bid highlight" xml:space="preserve"><value>Restaltar BID</value></data>
+  <data name="Bar marker width" xml:space="preserve"><value>Ancho del marcador de barra</value></data>
+  <data name="Linewidth" xml:space="preserve"><value>Grosor de línea</value></data>
+  <data name="Sell limit color" xml:space="preserve"><value>Color de venta límite</value></data>
+  <data name="Arrange" xml:space="preserve"><value>Arreglar</value></data>
+  <data name="Min bar" xml:space="preserve"><value>barra mínima</value></data>
+  <data name="Min vol" xml:space="preserve"><value>Volumen mínimo</value></data>
+  <data name="Shifted poc tick grouping" xml:space="preserve"><value>Agrupar tick shift poc</value></data>
+  <data name="Use axis sec." xml:space="preserve"><value>Utilice eje seg.</value></data>
+  <data name="Minimum" xml:space="preserve"><value>Mínimo</value></data>
+  <data name="New symbol" xml:space="preserve"><value>Nuevo simbolo</value></data>
+  <data name="Based on minute data" xml:space="preserve"><value>Basado en datos de minutos</value></data>
+  <data name="Please select an exchange" xml:space="preserve"><value>Por favor seleccione un Mercado</value></data>
+  <data name="Global crosshair" xml:space="preserve"><value>Punto de mira mundial</value></data>
+  <data name="Subgraph style" xml:space="preserve"><value>Estilo de subgrafo</value></data>
+  <data name="Extend line to left" xml:space="preserve"><value>Extender línea a la izquierda</value></data>
+  <data name="Till end window" xml:space="preserve"><value>Siempre</value></data>
+  <data name="Move orders" xml:space="preserve"><value>Mover órdenes</value></data>
+  <data name="Retracement color" xml:space="preserve"><value>Color de retroceso</value></data>
+  <data name="Asian session" xml:space="preserve"><value>Sesión asiática</value></data>
+  <data name="Minimum opacity" xml:space="preserve"><value>Opacidad mínima</value></data>
+  <data name="Rejected" xml:space="preserve"><value>Rechazada</value></data>
+  <data name="Use oco strategy" xml:space="preserve"><value>Usa estrategia OCO</value></data>
+  <data name="Resistence color" xml:space="preserve"><value>Color de resistencia</value></data>
+  <data name="Micro levels enable" xml:space="preserve"><value>Habilitar niveles micro</value></data>
+  <data name="Default quantites" xml:space="preserve"><value>Cantidades predeterminadas</value></data>
+  <data name="Width based volume" xml:space="preserve"><value>Volumen basado en ancho</value></data>
+  <data name="Are you sure to stop replay?" xml:space="preserve"><value>¿Estás seguro de detener la reproducción?</value></data>
+  <data name="Duplicate adv. ts" xml:space="preserve"><value>Duplicar Adv. TS</value></data>
+  <data name="Retracement width" xml:space="preserve"><value>Ancho de retroceso</value></data>
+  <data name="Use custom time" xml:space="preserve"><value>Usar tiempo personalizado</value></data>
+  <data name="Minimum retracement" xml:space="preserve"><value>Retroceso mínimo</value></data>
+  <data name="Custom second name" xml:space="preserve"><value>Segundo nombre personalizado</value></data>
+  <data name="Volume settings" xml:space="preserve"><value>Configuración de volumen</value></data>
+  <data name="Cumulative" xml:space="preserve"><value>Acumulativo</value></data>
+  <data name="Convert symbol to IC Markets" xml:space="preserve"><value>Convertir símbolo a IC Markets</value></data>
+  <data name="Filled qty" xml:space="preserve"><value>Cant. llena</value></data>
+  <data name="Exclude gap" xml:space="preserve"><value>Excluir gap</value></data>
+  <data name="Volume poc" xml:space="preserve"><value>Volumen poc</value></data>
+  <data name="Show options" xml:space="preserve"><value>Mostrar opciones</value></data>
+  <data name="Dn shadow color" xml:space="preserve"><value>Color de la sombra</value></data>
+  <data name="Monitor" xml:space="preserve"><value>Monitor</value></data>
+  <data name="Monthly" xml:space="preserve"><value>Mes</value></data>
+  <data name="Ini session" xml:space="preserve"><value>Inicio sesión</value></data>
+  <data name="Move BE" xml:space="preserve"><value>Mover BE</value></data>
+  <data name="Over bought level" xml:space="preserve"><value>Nivel de sobrecompra</value></data>
+  <data name="Remove resolutions" xml:space="preserve"><value>Quitar resoluciones</value></data>
+  <data name="Profile settings" xml:space="preserve"><value>Configuración de perfil</value></data>
+  <data name="Execute backtest" xml:space="preserve"><value>Ejecutar prueba retrospectiva</value></data>
+  <data name="File seems not to be a workspace or it is corrupted" xml:space="preserve"><value>El archivo parece no ser un espacio de trabajo o está dañado</value></data>
+  <data name="Delimitator" xml:space="preserve"><value>Delimitador</value></data>
+  <data name="Custom fourth name" xml:space="preserve"><value>Cuarto nombre personalizado</value></data>
+  <data name="Continuos contract" xml:space="preserve"><value>Contrato continuo</value></data>
+  <data name="Important levels" xml:space="preserve"><value>Niveles importantes</value></data>
+  <data name="Min tick bar" xml:space="preserve"><value>MÍn tick bar</value></data>
+  <data name="Volumes" xml:space="preserve"><value>Volúmenes</value></data>
+  <data name="Volbars" xml:space="preserve"><value>Volbars</value></data>
+  <data name="Volbook" xml:space="preserve"><value>VolBook</value></data>
+  <data name="Min. body ticks" xml:space="preserve"><value>Mín. garrapatas del cuerpo</value></data>
+  <data name="Include open position" xml:space="preserve"><value>Incluir posiciones abiertas</value></data>
+  <data name="Set width" xml:space="preserve"><value>Establecer ancho</value></data>
+  <data name="Nt profile" xml:space="preserve"><value>Perfil NT</value></data>
+  <data name="Erase all drawing" xml:space="preserve"><value>Borrar todo el dibujo</value></data>
+  <data name="Filter 1" xml:space="preserve"><value>Filtro 1</value></data>
+  <data name="Filter 2" xml:space="preserve"><value>Filtro 2</value></data>
+  <data name="Auto group factory" xml:space="preserve"><value>Factor de auto-agrupamiento</value></data>
+  <data name="Zig zag mode" xml:space="preserve"><value>Modo Zig Zag</value></data>
+  <data name="Show historical orders" xml:space="preserve"><value>Mostar datos historicos</value></data>
+  <data name="Last back color" xml:space="preserve"><value>Último color de fondo</value></data>
+  <data name="Filled column" xml:space="preserve"><value>Columna llena</value></data>
+  <data name="Till interaction" xml:space="preserve"><value>Vírgenes</value></data>
+  <data name="Auction color" xml:space="preserve"><value>Color de la subasta</value></data>
+  <data name="Selected category" xml:space="preserve"><value>Seleccionar categoria</value></data>
+  <data name="Add symbol" xml:space="preserve"><value>Añadir símbolo</value></data>
+  <data name="Symbol already inserted" xml:space="preserve"><value>Símbolo ya insertado</value></data>
+  <data name="Minimum delta value difference" xml:space="preserve"><value>Diferencia mínima del valor delta</value></data>
+  <data name="Min. absorption vol." xml:space="preserve"><value>Mín. volumen de absorción</value></data>
+  <data name="General settings" xml:space="preserve"><value>Configuración general</value></data>
+  <data name="Minimum sum volume" xml:space="preserve"><value>Volumen mínimo de suma</value></data>
+  <data name="Delta ask color" xml:space="preserve"><value>color de pregunta delta</value></data>
+  <data name="Symbol not selected" xml:space="preserve"><value>Símbolo no seleccionado</value></data>
+  <data name="30 seconds" xml:space="preserve"><value>30 segundos</value></data>
+  <data name="Daily profile" xml:space="preserve"><value>Perfil diario</value></data>
+  <data name="Show outside border" xml:space="preserve"><value>Mostrar borde exterior</value></data>
+  <data name="Insert a valid param" xml:space="preserve"><value>Inserta un parámetro válido</value></data>
+  <data name="Daily Runup" xml:space="preserve"><value>Ejecución diaria</value></data>
+  <data name="Show text for zero values" xml:space="preserve"><value>Mostrar texto para valores cero</value></data>
+  <data name="Indicator list" xml:space="preserve"><value>Lista de indicadores</value></data>
+  <data name="Format auto number" xml:space="preserve"><value>Formato auto numero</value></data>
+  <data name="Custom Time Session (Exch Time)" xml:space="preserve"><value>Sesión de tiempo personalizado (tiempo de cambio)</value></data>
+  <data name="Include on auto center" xml:space="preserve"><value>Incluir en el centro</value></data>
+  <data name="Show bubbles" xml:space="preserve"><value>Habilitar burbujas</value></data>
+  <data name="Asian start time" xml:space="preserve"><value>Comienzo de la sesión asiática</value></data>
+  <data name="File is not in the correct folder. Please put alert in AlertSound Folder" xml:space="preserve"><value>El archivo no está en la carpeta correcta. Ponga la alerta en la carpeta AlertSound</value></data>
+  <data name="Third envelope" xml:space="preserve"><value>Tercer banda</value></data>
+  <data name="Summary text size" xml:space="preserve"><value>Tamaño del texto de resumen</value></data>
+  <data name="Low session color" xml:space="preserve"><value>Color mínimo de sesión</value></data>
+  <data name="Day begin" xml:space="preserve"><value>Hora de incio</value></data>
+  <data name="Use commission" xml:space="preserve"><value>Incluir comisiones</value></data>
+  <data name="Buy market" xml:space="preserve"><value>Comprar a mercado</value></data>
+  <data name="Volswing settings" xml:space="preserve"><value>Configuración de Volswing</value></data>
+  <data name="Delta imblanace max. vol" xml:space="preserve"><value>Delta imblanace max. vol</value></data>
+  <data name="Refresh calendar" xml:space="preserve"><value>Actualizar calendario</value></data>
+  <data name="Include all symbols" xml:space="preserve"><value>Incluir todos los simbolos</value></data>
+  <data name="Time sales" xml:space="preserve"><value>Time sales</value></data>
+  <data name="End date/time" xml:space="preserve"><value>Fecha/hora de finalización</value></data>
+  <data name="Impossible to add two alerts with the same name" xml:space="preserve"><value>Imposible agregar dos alertas con el mismo nombre</value></data>
+  <data name="Minimum imbalance" xml:space="preserve"><value>Mínimo imbalance</value></data>
+  <data name="Background inferior side" xml:space="preserve"><value>Fondo del lado inferior</value></data>
+  <data name="Alert message" xml:space="preserve"><value>Mensaje de alerta</value></data>
+  <data name="Nome background" xml:space="preserve"><value>Nombre de fondo</value></data>
+  <data name="Filter ask color" xml:space="preserve"><value>Color de oferta filtrado</value></data>
+  <data name="Offers column" xml:space="preserve"><value>Columna de oferta</value></data>
+  <data name="Trade list" xml:space="preserve"><value>Lista realizada</value></data>
+  <data name="Trade mode" xml:space="preserve"><value>Trade modo</value></data>
+  <data name="Trade type" xml:space="preserve"><value>Tipo trade</value></data>
+  <data name="Market Scanner" xml:space="preserve"><value>Escáner de mercado</value></data>
+  <data name="Diamond width" xml:space="preserve"><value>Ancho de diamante</value></data>
+  <data name="Range length" xml:space="preserve"><value>Longitud de rango</value></data>
+  <data name="Save changes" xml:space="preserve"><value>Guardar Cambios</value></data>
+  <data name="Num bar std dev" xml:space="preserve"><value>Barra numérica desv estándar</value></data>
+  <data name="Upper color" xml:space="preserve"><value>Color superior</value></data>
+  <data name="Border based on open/close" xml:space="preserve"><value>Borde basado en abrir/cerrar</value></data>
+  <data name="Atr multiplier value" xml:space="preserve"><value>Valor del multiplicador Atr</value></data>
+  <data name="Add exchange" xml:space="preserve"><value>Añadir mercado</value></data>
+  <data name="Export CSV" xml:space="preserve"><value>Exportar CSV</value></data>
+  <data name="Scanner symbols" xml:space="preserve"><value>Símbolos del escáner</value></data>
+  <data name="Fresh zone" xml:space="preserve"><value>Zona virgen</value></data>
+  <data name="% value area" xml:space="preserve"><value>% Valor Area</value></data>
+  <data name="Take profit" xml:space="preserve"><value>Take profit</value></data>
+  <data name="Delta mode" xml:space="preserve"><value>Modo delta</value></data>
+  <data name="Maximum" xml:space="preserve"><value>Máximo</value></data>
+  <data name="Max qty" xml:space="preserve"><value>Máx cantidad</value></data>
+  <data name="Max vol" xml:space="preserve"><value>Volumen máximo</value></data>
+  <data name="Max m s" xml:space="preserve"><value>Max m s</value></data>
+  <data name="Fixed/positive color" xml:space="preserve"><value>Color fijo/positivo</value></data>
+  <data name="Imbalance range color" xml:space="preserve"><value>Fondo rango imbalance</value></data>
+  <data name="Sell calculator" xml:space="preserve"><value>Vender calculadora</value></data>
+  <data name="Account balance:" xml:space="preserve"><value>Balance de la cuenta</value></data>
+  <data name="Trading panel" xml:space="preserve"><value>panel de comercio</value></data>
+  <data name="Trading sound" xml:space="preserve"><value>Notificacion de Trading</value></data>
+  <data name="Show connection log" xml:space="preserve"><value>Mostrar registro de conexión</value></data>
+  <data name="Level type" xml:space="preserve"><value>Tipo de nivel</value></data>
+  <data name="Back color" xml:space="preserve"><value>Fondo</value></data>
+  <data name="Developing" xml:space="preserve"><value>Dinámico</value></data>
+  <data name="Foot type" xml:space="preserve"><value>Tipo footprint</value></data>
+  <data name="Buy Stop Limit" xml:space="preserve"><value>Límite de parada de compra</value></data>
+  <data name="Custom name" xml:space="preserve"><value>Personalizar nombre</value></data>
+  <data name="Dynamic line" xml:space="preserve"><value>Línea dinámica</value></data>
+  <data name="Ticks diff." xml:space="preserve"><value>Diferencia de garrapatas.</value></data>
+  <data name="Volume marker" xml:space="preserve"><value>Indicador de volumen</value></data>
+  <data name="Marker ask absorption" xml:space="preserve"><value>Marcador Ask absorción</value></data>
+  <data name="Bid filter 2" xml:space="preserve"><value>Filtro 2 de demanda</value></data>
+  <data name="Bid filter 1" xml:space="preserve"><value>Filtro 1 de demanda</value></data>
+  <data name="Labels on line" xml:space="preserve"><value>Etiquetas en linea</value></data>
+  <data name="Economic calendar" xml:space="preserve"><value>Calendario económico</value></data>
+  <data name="Imbalance val" xml:space="preserve"><value>Imbalance valor</value></data>
+  <data name="Acc index" xml:space="preserve"><value>Índice de cuenta</value></data>
+  <data name="Iceberg settings" xml:space="preserve"><value>Configuraciones de iceberg</value></data>
+  <data name="Primary color:" xml:space="preserve"><value>Color primario:</value></data>
+  <data name="Loading" xml:space="preserve"><value>Cargando</value></data>
+  <data name="Up/Down Tick" xml:space="preserve"><value>Marca arriba/abajo</value></data>
+  <data name="Retracement line width" xml:space="preserve"><value>Ancho de línea de retroceso</value></data>
+  <data name="Resistance for min number +3" xml:space="preserve"><value>Resistencia para el número mínimo +3</value></data>
+  <data name="Resistance for min number +2" xml:space="preserve"><value>Resistencia para el número mínimo +2</value></data>
+  <data name="Resistance for min number +1" xml:space="preserve"><value>Resistencia para el número mínimo +1</value></data>
+  <data name="Mid point color" xml:space="preserve"><value>Color de punto medio</value></data>
+  <data name="Enable bid/ask" xml:space="preserve"><value>Habilitar bid/ask</value></data>
+  <data name="Trend retracement enables" xml:space="preserve"><value>Habilitar el seguimiento de tendencias</value></data>
+  <data name="Symbol not found" xml:space="preserve"><value>Simbolo no encontrado</value></data>
+  <data name="Stacked in seconds" xml:space="preserve"><value>Apilado en segundos</value></data>
+  <data name="Up color" xml:space="preserve"><value>Color positivo</value></data>
+  <data name="Use fixed margin" xml:space="preserve"><value>Usar margen fijo</value></data>
+  <data name="Bid-Ask Volume" xml:space="preserve"><value>Volumen de oferta y demanda</value></data>
+  <data name="Enable shortcut reset" xml:space="preserve"><value>Habilitar restablecimiento de acceso directo</value></data>
+  <data name="Fill. price" xml:space="preserve"><value>Precio de relleno</value></data>
+  <data name="Your license is expired or check your internet connection" xml:space="preserve"><value>Su licencia ha caducado o compruebe su conexión</value></data>
+  <data name="End retracement color" xml:space="preserve"><value>Color de retroceso final</value></data>
+  <data name="Manage rollover" xml:space="preserve"><value>Administrar rollover</value></data>
+  <data name="Time settings" xml:space="preserve"><value>Ajustes de hora</value></data>
+  <data name="Low color" xml:space="preserve"><value>Color bajo</value></data>
+  <data name="Up ticks" xml:space="preserve"><value>hasta garrapatas</value></data>
+  <data name="Fixed bars" xml:space="preserve"><value>Barras fijas</value></data>
+  <data name="Multiple area" xml:space="preserve"><value>Área múltiple</value></data>
+  <data name="Checking updates" xml:space="preserve"><value>Comprobando actualizaciones</value></data>
+  <data name="Pend. price" xml:space="preserve"><value>Precio pdte.</value></data>
+  <data name="Pos. delta trade" xml:space="preserve"><value>Pos. delta trade</value></data>
+  <data name="Right length" xml:space="preserve"><value>Longitud correcta</value></data>
+  <data name="Min ratio diff" xml:space="preserve"><value>Diff. mín. ratio</value></data>
+  <data name="Bid profile color" xml:space="preserve"><value>Perfil demanda color</value></data>
+  <data name="Ini time session" xml:space="preserve"><value>Hora inicio sesión</value></data>
+  <data name="Convert symbol to SwissQuote" xml:space="preserve"><value>Convertir símbolo a SwissQuote</value></data>
+  <data name="Flat symbol" xml:space="preserve"><value>Cerrar simbolo</value></data>
+  <data name="Use oco order" xml:space="preserve"><value>Usar orden oco</value></data>
+  <data name="Buy order" xml:space="preserve"><value>Comprar orden</value></data>
+  <data name="Vbp period" xml:space="preserve"><value>Periodo Vbp</value></data>
+  <data name="Buy color" xml:space="preserve"><value>Buy color</value></data>
+  <data name="Sell filter 2" xml:space="preserve"><value>Vender filtro 2</value></data>
+  <data name="Sell filter 1" xml:space="preserve"><value>Vender filtro 1</value></data>
+  <data name="Buy limit" xml:space="preserve"><value>Buy limit</value></data>
+  <data name="Volumetrica trading" xml:space="preserve"><value>Volumetrica Trading</value></data>
+  <data name="Far right" xml:space="preserve"><value>Extremo derecho</value></data>
+  <data name="Download from volserver" xml:space="preserve"><value>Descargar desde volserver</value></data>
+  <data name="Dev. poc start time" xml:space="preserve"><value>Poc dinamico hora inicio</value></data>
+  <data name="You can' t disconnect a feed while it is connecting" xml:space="preserve"><value>No puedes desconectar un feed mientras se está conectando</value></data>
+  <data name="Maximum tick of poc distance" xml:space="preserve"><value>Tick máximo de distancia poc</value></data>
+  <data name="Ranking" xml:space="preserve"><value>Clasificación</value></data>
+  <data name="Range 2" xml:space="preserve"><value>Range 2</value></data>
+  <data name="Range 3" xml:space="preserve"><value>Range 3</value></data>
+  <data name="Range 1" xml:space="preserve"><value>Range 1</value></data>
+  <data name="Range 4" xml:space="preserve"><value>Range 4</value></data>
+  <data name="Message" xml:space="preserve"><value>Mensaje</value></data>
+  <data name="Zero line" xml:space="preserve"><value>Línea cero</value></data>
+  <data name="TF param" xml:space="preserve"><value>TF parámetro </value></data>
+  <data name="Trading panel shown" xml:space="preserve"><value>Mostrar panel comercial</value></data>
+  <data name="Days of week" xml:space="preserve"><value>Días de la semana</value></data>
+  <data name="Bid/ask line" xml:space="preserve"><value>Bid/Ask línea</value></data>
+  <data name="Properties" xml:space="preserve"><value>Propiedades</value></data>
+  <data name="Sell filled color" xml:space="preserve"><value>Fondo de venta ejecutada</value></data>
+  <data name="Minimum lateral number bar" xml:space="preserve"><value>Número mínimo lateral barra</value></data>
+  <data name="Level line width" xml:space="preserve"><value>Ancho de línea de nivel</value></data>
+  <data name="Volume profile" xml:space="preserve"><value>Perfil de volumen</value></data>
+  <data name="Level line style" xml:space="preserve"><value>Estilo de línea de nivel</value></data>
+  <data name="Convert symbol to Activtrades" xml:space="preserve"><value>Convertir símbolo en ActivTrades</value></data>
+  <data name="Enable volswing" xml:space="preserve"><value>Habilitar VolSwing</value></data>
+  <data name="Envelope style" xml:space="preserve"><value>Estilo de banda</value></data>
+  <data name="Envelope width" xml:space="preserve"><value>Ancho de banda</value></data>
+  <data name="Volume filter" xml:space="preserve"><value>Volumen de filtro</value></data>
+  <data name="Level line color" xml:space="preserve"><value>Color de línea de nivel</value></data>
+  <data name="colore" xml:space="preserve"><value>Color % media ctvl. </value></data>
+  <data name="Outside bar style" xml:space="preserve"><value>Estilo de barra exterior</value></data>
+  <data name="%k period" xml:space="preserve"><value>%k periodo</value></data>
+  <data name="Sell stp" xml:space="preserve"><value>Sell Stp</value></data>
+  <data name="Sell ask" xml:space="preserve"><value>Sell ask</value></data>
+  <data name="Sell lmt" xml:space="preserve"><value>Sell Lmt</value></data>
+  <data name="Sell mkt" xml:space="preserve"><value>Sell Mkt</value></data>
+  <data name="Min sum vol" xml:space="preserve"><value>Volumen de suma mínima</value></data>
+  <data name="Minimum body tick" xml:space="preserve"><value>Tick mínimo cuerpo</value></data>
+  <data name="Alert list" xml:space="preserve"><value>Lista de alertas</value></data>
+  <data name="Alert name" xml:space="preserve"><value>Nombre de alerta</value></data>
+  <data name="Alert stop" xml:space="preserve"><value>Alerta de stop</value></data>
+  <data name="Delta and total volume" xml:space="preserve"><value>Delta y volumen total</value></data>
+  <data name="Day of week" xml:space="preserve"><value>Día de la semana</value></data>
+  <data name="Bid ask volumi" xml:space="preserve"><value>Bid ask volumen</value></data>
+  <data name="Stop&amp;iceberg settings" xml:space="preserve"><value>Configurar Stop &amp; iceberg</value></data>
+  <data name="Num epochs" xml:space="preserve"><value>Número de épocas</value></data>
+  <data name="connections" xml:space="preserve"><value>conexiones</value></data>
+  <data name="2 minutes" xml:space="preserve"><value>2  minutos</value></data>
+  <data name="Zig zag tick rev" xml:space="preserve"><value>Zig zag tick rev</value></data>
+  <data name="Sell Stop Limit" xml:space="preserve"><value>Límite de parada de venta</value></data>
+  <data name="Neg. text color" xml:space="preserve"><value>Color de texto negativo</value></data>
+  <data name="Qty increment" xml:space="preserve"><value>Incrementar Ctd.</value></data>
+  <data name="Chart id" xml:space="preserve"><value>Identificación del gráfico</value></data>
+  <data name="Show fund column" xml:space="preserve"><value>Mostrar columna fundamental</value></data>
+  <data name="Support for min number +3" xml:space="preserve"><value>Soporte para número mínimo +3</value></data>
+  <data name="Support for min number +2" xml:space="preserve"><value>Soporte para número mínimo +2</value></data>
+  <data name="Support for min number +1" xml:space="preserve"><value>Soporte para número mínimo +1</value></data>
+  <data name="Settings profile" xml:space="preserve"><value>Configurar profile</value></data>
+  <data name="Price chart" xml:space="preserve"><value>Gráfico de precios</value></data>
+  <data name="Min price ticks increase" xml:space="preserve"><value>El precio mínimo aumenta</value></data>
+  <data name="Bid offer back color" xml:space="preserve"><value>Bid oferta fondo</value></data>
+  <data name="Rank worst" xml:space="preserve"><value>Clasificación peor</value></data>
+  <data name="Time&amp;sales" xml:space="preserve"><value>Time&amp;sales</value></data>
+  <data name="Delta std dev min" xml:space="preserve"><value>Desv estándar delta mín.</value></data>
+  <data name="Description" xml:space="preserve"><value>Descripcción</value></data>
+  <data name="Total volume" xml:space="preserve"><value>Volumen Total</value></data>
+  <data name="Price slope" xml:space="preserve"><value>Variacion de precio</value></data>
+  <data name="Price scale" xml:space="preserve"><value>Escala de precios</value></data>
+  <data name="Show percent" xml:space="preserve"><value>Mostrar porcentaje</value></data>
+  <data name="Input data" xml:space="preserve"><value>Base de datos</value></data>
+  <data name="Minimum tick vol" xml:space="preserve"><value>Vol. tick mínimo</value></data>
+  <data name="Manual configuration" xml:space="preserve"><value>Configuración manual</value></data>
+  <data name="Vol down color" xml:space="preserve"><value>Color de menor volumen</value></data>
+  <data name="Current to right" xml:space="preserve"><value>Actual a la derecha</value></data>
+  <data name="Building options" xml:space="preserve"><value>Opciones de construcción</value></data>
+  <data name="Increase width" xml:space="preserve"><value>Aumentar ancho</value></data>
+  <data name="Summary to view" xml:space="preserve"><value>Resumen para ver</value></data>
+  <data name="Add bracket" xml:space="preserve"><value>Agregar corchete</value></data>
+  <data name="Min. stop run vol." xml:space="preserve"><value>Stop run vol mín.</value></data>
+  <data name="Left length" xml:space="preserve"><value>Longitud izquierda</value></data>
+  <data name="Chart - default crosshair" xml:space="preserve"><value>Gráfico: predefinidio Crosshair</value></data>
+  <data name="Flat account" xml:space="preserve"><value>Cerrar todo</value></data>
+  <data name="Alert file name:" xml:space="preserve"><value>Nombre del archivo de alerta</value></data>
+  <data name="Generate report" xml:space="preserve"><value>Genera report</value></data>
+  <data name="Color only dominant side" xml:space="preserve"><value>Color solo lado dominante</value></data>
+  <data name="Ticks offset" xml:space="preserve"><value>Ticks offset</value></data>
+  <data name="Stop run settings" xml:space="preserve"><value>Ajustes stop run</value></data>
+  <data name="Bid stack color" xml:space="preserve"><value>Bid stack color</value></data>
+  <data name="All in one" xml:space="preserve"><value>Todo en uno</value></data>
+  <data name="Rank top" xml:space="preserve"><value>Clasificación superior</value></data>
+  <data name="30 minutes" xml:space="preserve"><value>30  minutos</value></data>
+  <data name="Please stop replay before" xml:space="preserve"><value>Por favor, detenga la reproducción antes</value></data>
+  <data name="Between bid/ask backround" xml:space="preserve"><value>Fondo entre oferta/demanda</value></data>
+  <data name="Negative color" xml:space="preserve"><value>Color negativo</value></data>
+  <data name="Loading database" xml:space="preserve"><value>Cargando base de datos</value></data>
+  <data name="Strategy name" xml:space="preserve"><value>Nombre de la estrategia</value></data>
+  <data name="New strategy" xml:space="preserve"><value>Nueva estrategia</value></data>
+  <data name="Ini filter" xml:space="preserve"><value>Filtro inicial</value></data>
+  <data name="Name show b g" xml:space="preserve"><value>Mostrar nombre b g</value></data>
+  <data name="Group mode" xml:space="preserve"><value>Modo de grupo</value></data>
+  <data name="Extend poc" xml:space="preserve"><value>Extender poc</value></data>
+  <data name="Price back color" xml:space="preserve"><value>Precio color de fondo</value></data>
+  <data name="One click trading" xml:space="preserve"><value>Comercio con un clic</value></data>
+  <data name="Abbreviation" xml:space="preserve"><value>Abreviatura</value></data>
+  <data name="Last file" xml:space="preserve"><value>Último archivo</value></data>
+  <data name="Maximum loss" xml:space="preserve"><value>Pérdida máxima</value></data>
+  <data name="Maximum size" xml:space="preserve"><value>Tamaño máximo</value></data>
+  <data name="Cvd settings" xml:space="preserve"><value>Configuración de cvd</value></data>
+  <data name="Settings dom" xml:space="preserve"><value>Ajustes dom</value></data>
+  <data name="United states" xml:space="preserve"><value>Estados Unidos</value></data>
+  <data name="Vol std dev min" xml:space="preserve"><value>Vol std dev mín</value></data>
+  <data name="Vol std dev max" xml:space="preserve"><value>Vol std dev máx</value></data>
+  <data name="Max draw down" xml:space="preserve"><value>Max draw down</value></data>
+  <data name="Plot offset" xml:space="preserve"><value>Plot offset</value></data>
+  <data name="Enabled extended" xml:space="preserve"><value>Habilitado extendido</value></data>
+  <data name="Show rectangle" xml:space="preserve"><value>Mostrar rectángulo</value></data>
+  <data name="Enable book imbalance" xml:space="preserve"><value>Habilitar desequilibrio DOM</value></data>
+  <data name="Auto color:" xml:space="preserve"><value>Color automático:</value></data>
+  <data name="Strategy report" xml:space="preserve"><value>Informe de estrategia</value></data>
+  <data name="Data feed source" xml:space="preserve"><value>Fuente de flujo de datos</value></data>
+  <data name="Delta imbalance num tick" xml:space="preserve"><value>Delta imbalance num tick</value></data>
+  <data name="Auto center" xml:space="preserve"><value>Auto center</value></data>
+  <data name="Ask bid split" xml:space="preserve"><value>Ask bid split</value></data>
+  <data name="Daily enabled" xml:space="preserve"><value>Diario habilitado</value></data>
+  <data name="Cell back color" xml:space="preserve"><value>Color de fondo de la celda</value></data>
+  <data name="Manual min. vol." xml:space="preserve"><value>Manual mín. vol.</value></data>
+  <data name="Decrease width" xml:space="preserve"><value>Reducir ancho</value></data>
+  <data name="Exclude previous retracements" xml:space="preserve"><value>Excluir retrocesos anteriores</value></data>
+  <data name="License error" xml:space="preserve"><value>Error de licencia</value></data>
+  <data name="Overbought color" xml:space="preserve"><value>Color sobrecomprado</value></data>
+  <data name="Trading enabled" xml:space="preserve"><value>Trading habilitado</value></data>
+  <data name="Zero color" xml:space="preserve"><value>Zero color</value></data>
+  <data name="Adjust rollover drawing" xml:space="preserve"><value>Ajustar rollover drawing</value></data>
+  <data name="Symb name" xml:space="preserve"><value>Nombre del símbolo</value></data>
+  <data name="Headers text color" xml:space="preserve"><value>Color del texto de los encabezados</value></data>
+  <data name="Bubble settings" xml:space="preserve"><value>Configuración de burbujas</value></data>
+  <data name="Month expire" xml:space="preserve"><value>Caducidad del mes</value></data>
+  <data name="Support color" xml:space="preserve"><value>Color de soporte</value></data>
+  <data name="Trade marker enabled" xml:space="preserve"><value>Habilitar marcador trade</value></data>
+  <data name="Candle width" xml:space="preserve"><value>Ancho de la vela</value></data>
+  <data name="Show lbl background" xml:space="preserve"><value>Mostrar etiqueta fondo</value></data>
+  <data name="Lock fill space" xml:space="preserve"><value>Bloquear espacio relleno</value></data>
+  <data name="Daily analysis" xml:space="preserve"><value>Análisis diario</value></data>
+  <data name="Log list" xml:space="preserve"><value>Lista de registros</value></data>
+  <data name="Enable tick nearness" xml:space="preserve"><value>Habilitar la proximidad de ticks</value></data>
+  <data name="Show line" xml:space="preserve"><value>Mostrar línea</value></data>
+  <data name="Show text" xml:space="preserve"><value>Visualizar texto</value></data>
+  <data name="Show vwap" xml:space="preserve"><value>Habilitar VWAP</value></data>
+  <data name="Color first letter" xml:space="preserve"><value>Color de la primera letra</value></data>
+  <data name="Loading scanner" xml:space="preserve"><value>Cargando escáner</value></data>
+  <data name="Enable last level line" xml:space="preserve"><value>Habilitar último nivel de línea </value></data>
+  <data name="Trade summary" xml:space="preserve"><value>Resumen trade</value></data>
+  <data name="Allign label to right" xml:space="preserve"><value>Alinear etiqueta a la derecha</value></data>
+  <data name="Neutral color" xml:space="preserve"><value>Color neutral</value></data>
+  <data name="Profit loss" xml:space="preserve"><value>Ganancia</value></data>
+  <data name="Bar zoomed" xml:space="preserve"><value>Barra ampliada</value></data>
+  <data name="Extend past zone" xml:space="preserve"><value>Extender más allá de la zona</value></data>
+  <data name="Exponential" xml:space="preserve"><value>Exponencial</value></data>
+  <data name="Close color" xml:space="preserve"><value>Cierre color</value></data>
+  <data name="Column settings" xml:space="preserve"><value>Configuración de columnas</value></data>
+  <data name="Profit/Loss" xml:space="preserve"><value>Pérdida de beneficios</value></data>
+  <data name="Window type" xml:space="preserve"><value>Tipo de ventana</value></data>
+  <data name="You can not move this indicator" xml:space="preserve"><value>No puedes mover este indicador</value></data>
+  <data name="Equity curve" xml:space="preserve"><value>Curva de equidad</value></data>
+  <data name="Save workspace" xml:space="preserve"><value>Guardar espacio de trabajo</value></data>
+  <data name="Support for min number" xml:space="preserve"><value>Soporte para número mínimo</value></data>
+  <data name="Composite" xml:space="preserve"><value>Compuesto</value></data>
+  <data name="All trades" xml:space="preserve"><value>Todo realizado</value></data>
+  <data name="Reset start day" xml:space="preserve"><value>Restablecer día de inicio</value></data>
+  <data name="Dom levels color" xml:space="preserve"><value>Color de capa del dom</value></data>
+  <data name="Trend up color line" xml:space="preserve"><value>Línea de color de tendencia</value></data>
+  <data name="Bold font" xml:space="preserve"><value>Texto en negrita</value></data>
+  <data name="Highlight seconds" xml:space="preserve"><value>Destacar segundos</value></data>
+  <data name="Negative" xml:space="preserve"><value>Negativo</value></data>
+  <data name="Filter min." xml:space="preserve"><value>Filtro mín.</value></data>
+  <data name="Filter max." xml:space="preserve"><value>Filtro máx.</value></data>
+  <data name="Filter mode" xml:space="preserve"><value>Modo de filtro</value></data>
+  <data name="Filter time" xml:space="preserve"><value>Tiempo de filtrado</value></data>
+  <data name="Zone throw back" xml:space="preserve"><value>Saque de área</value></data>
+  <data name="Bad high color" xml:space="preserve"><value>Mal color alto</value></data>
+  <data name="Offset length" xml:space="preserve"><value>Longitud Offset</value></data>
+  <data name="Min volume" xml:space="preserve"><value>Volumen mínimo</value></data>
+  <data name="Retracements" xml:space="preserve"><value>Retrocesos</value></data>
+  <data name="Delete data" xml:space="preserve"><value>Borrar datos</value></data>
+  <data name="Header back color" xml:space="preserve"><value>Color de fondo del encabezado</value></data>
+  <data name="Iceberg on bid color" xml:space="preserve"><value>Color iceberg en demanda</value></data>
+  <data name="Countdown" xml:space="preserve"><value>Cuenta regresiva</value></data>
+  <data name="Calc. mode" xml:space="preserve"><value>Calcular módo</value></data>
+  <data name="Update symbols" xml:space="preserve"><value>Actualizar símbolos</value></data>
+  <data name="Are you sure to close the workspace?" xml:space="preserve"><value>¿Seguro que cierras el mostrador?</value></data>
+  <data name="Value area" xml:space="preserve"><value>Área de valor</value></data>
+  <data name="Up fill color" xml:space="preserve"><value>Color de relleno ascendente</value></data>
+  <data name="Show as profile" xml:space="preserve"><value>Mostrar como perfil</value></data>
+  <data name="Tick sensitivity" xml:space="preserve"><value>Sensibilidad Tick</value></data>
+  <data name="Indicators Toolbar" xml:space="preserve"><value>Barra de herramientas de indicadores</value></data>
+  <data name="Ask text color" xml:space="preserve"><value>Ask color texto</value></data>
+  <data name="Max ratio" xml:space="preserve"><value>Máx ratio</value></data>
+  <data name="Auto flat position" xml:space="preserve"><value>Pos. plana auto.</value></data>
+  <data name="Exclude symbol not listed" xml:space="preserve"><value>Excluir símbolos no seleccionados</value></data>
+  <data name="Are you sure to remove the resolution?" xml:space="preserve"><value>¿Estás seguro de eliminar la resolución?</value></data>
+  <data name="Heatmap" xml:space="preserve"><value>Heatmap</value></data>
+  <data name="Europe session" xml:space="preserve"><value>Sesión europea</value></data>
+  <data name="Max delta" xml:space="preserve"><value>Delta máximo</value></data>
+  <data name="Perform rollover" xml:space="preserve"><value>Ejecutar rollover</value></data>
+  <data name="Windows width" xml:space="preserve"><value>Ancho de ventanas</value></data>
+  <data name="Line start day" xml:space="preserve"><value>Línea inicio sesion</value></data>
+  <data name="Warning" xml:space="preserve"><value>Atención</value></data>
+  <data name="Text msg" xml:space="preserve"><value>Mensaje de texto</value></data>
+  <data name="Order enable settings" xml:space="preserve"><value>Ajustes de habilitación de pedidos</value></data>
+  <data name="Write a name for the strategy" xml:space="preserve"><value>Escribe un nombre para la estrategia.</value></data>
+  <data name="Multiplier" xml:space="preserve"><value>Multiplicador</value></data>
+  <data name="Buy calculator" xml:space="preserve"><value>comprar calculadora</value></data>
+  <data name="Max quantity" xml:space="preserve"><value>Máx cantidad</value></data>
+  <data name="Ask profile color" xml:space="preserve"><value>Perfil oferta color</value></data>
+  <data name="Insert a name for the new configuration" xml:space="preserve"><value>Inserte un nombre para la nueva configuración.</value></data>
+  <data name="Filtered cvd" xml:space="preserve"><value>CVD Filtrado</value></data>
+  <data name="Adv. time and sales" xml:space="preserve"><value>Adv. time and sales</value></data>
+  <data name="Max std dev" xml:space="preserve"><value>Desarrollo estándar máx.</value></data>
+  <data name="Buy stop color" xml:space="preserve"><value>Buy stop color</value></data>
+  <data name="Money Managment" xml:space="preserve"><value>Gestión del dinero</value></data>
+  <data name="Exclude auction(tick data)" xml:space="preserve"><value>Excluir subasta (datos de ticks)</value></data>
+  <data name="Horizontal ray" xml:space="preserve"><value>rayo horizontal</value></data>
+  <data name="Horizontal dom" xml:space="preserve"><value>dominación horizontal</value></data>
+  <data name="Zone tick range" xml:space="preserve"><value>Área de rango de ticks</value></data>
+  <data name="Acc broker" xml:space="preserve"><value>Cuenta Broker</value></data>
+  <data name="Exit" xml:space="preserve"><value>Salida</value></data>
+  <data name="Acc." xml:space="preserve"><value>Cuenta</value></data>
+  <data name="Algo" xml:space="preserve"><value>Algo</value></data>
+  <data name="Fast" xml:space="preserve"><value>Rápido</value></data>
+  <data name="Feed" xml:space="preserve"><value>Datos</value></data>
+  <data name="Flat" xml:space="preserve"><value>Departamento</value></data>
+  <data name="Gain" xml:space="preserve"><value>Ganancia</value></data>
+  <data name="Grid" xml:space="preserve"><value>Red</value></data>
+  <data name="Dash" xml:space="preserve"><value>Raya</value></data>
+  <data name="Date" xml:space="preserve"><value>Fecha</value></data>
+  <data name="Days" xml:space="preserve"><value>Dias</value></data>
+  <data name="Desc" xml:space="preserve"><value>Desc</value></data>
+  <data name="Down" xml:space="preserve"><value>Abajo</value></data>
+  <data name="Mode" xml:space="preserve"><value>Modo</value></data>
+  <data name="Main" xml:space="preserve"><value>Principal</value></data>
+  <data name="Bars" xml:space="preserve"><value>Barras</value></data>
+  <data name="Body" xml:space="preserve"><value>Cuerpo</value></data>
+  <data name="Code" xml:space="preserve"><value>Código</value></data>
+  <data name="Copy" xml:space="preserve"><value>Copiar</value></data>
+  <data name="Isin" xml:space="preserve"><value>Es en</value></data>
+  <data name="None" xml:space="preserve"><value>Ninguno</value></data>
+  <data name="Name" xml:space="preserve"><value>Nombre</value></data>
+  <data name="Next" xml:space="preserve"><value>Próximo</value></data>
+  <data name="Open" xml:space="preserve"><value>Abrir</value></data>
+  <data name="Link" xml:space="preserve"><value>Link</value></data>
+  <data name="Line" xml:space="preserve"><value>Línea</value></data>
+  <data name="List" xml:space="preserve"><value>Lista</value></data>
+  <data name="Last" xml:space="preserve"><value>Último</value></data>
+  <data name="Long" xml:space="preserve"><value>Largo</value></data>
+  <data name="Load" xml:space="preserve"><value>Cargar</value></data>
+  <data name="Loss" xml:space="preserve"><value>Pérdida</value></data>
+  <data name="Left" xml:space="preserve"><value>Izquierdo</value></data>
+  <data name="Unit" xml:space="preserve"><value>Unidad</value></data>
+  <data name="July" xml:space="preserve"><value>Julio</value></data>
+  <data name="June" xml:space="preserve"><value>Junio</value></data>
+  <data name="High" xml:space="preserve"><value>Maximo</value></data>
+  <data name="Hand" xml:space="preserve"><value>Mano</value></data>
+  <data name="Vwap" xml:space="preserve"><value>Vwap</value></data>
+  <data name="Week" xml:space="preserve"><value>Semana</value></data>
+  <data name="Weak" xml:space="preserve"><value>Débil</value></data>
+  <data name="Type" xml:space="preserve"><value>Tipo</value></data>
+  <data name="Text" xml:space="preserve"><value>Texto</value></data>
+  <data name="Time" xml:space="preserve"><value>Tiempo</value></data>
+  <data name="Stop" xml:space="preserve"><value>Stop</value></data>
+  <data name="Send" xml:space="preserve"><value>Enviar</value></data>
+  <data name="Sell" xml:space="preserve"><value>Vender</value></data>
+  <data name="Save" xml:space="preserve"><value>Guardar</value></data>
+  <data name="Slow" xml:space="preserve"><value>Lento</value></data>
+  <data name="Show" xml:space="preserve"><value>Visualizar</value></data>
+  <data name="Peak" xml:space="preserve"><value>Cima</value></data>
+  <data name="Path" xml:space="preserve"><value>Path</value></data>
+  <data name="Play" xml:space="preserve"><value>Comenzar</value></data>
+  <data name="Plot" xml:space="preserve"><value>Plot</value></data>
+  <data name="Year" xml:space="preserve"><value>Año</value></data>
+  <data name="Dash dot dot" xml:space="preserve"><value>Raya punto punto</value></data>
+  <data name="Ask alert" xml:space="preserve"><value>Ask alerta</value></data>
+  <data name="Align right" xml:space="preserve"><value>alinear a la derecha</value></data>
+  <data name="Custom message" xml:space="preserve"><value>Mensaje personalizado</value></data>
+  <data name="Enable chart dom" xml:space="preserve"><value>Habilitar grafico dom</value></data>
+  <data name="Ask color" xml:space="preserve"><value>Color de oferta</value></data>
+  <data name="Number row" xml:space="preserve"><value>Fila numérica</value></data>
+  <data name="Bad low color" xml:space="preserve"><value>Mal color bajo</value></data>
+  <data name="Number of seconds" xml:space="preserve"><value>Número de segundos</value></data>
+  <data name="Auto grouping" xml:space="preserve"><value>Agrupación automática</value></data>
+  <data name="Sell market color" xml:space="preserve"><value>Sell market color</value></data>
+  <data name="Please select a trading account" xml:space="preserve"><value>Seleccione una cuenta comercial</value></data>
+  <data name="Neg. delta volume" xml:space="preserve"><value>Neg. delta volumen</value></data>
+  <data name="Sensitivity" xml:space="preserve"><value>Sensibilidad</value></data>
+  <data name="TF type" xml:space="preserve"><value>TF  tipo</value></data>
+  <data name="Clear fills" xml:space="preserve"><value>Borrar rellenos</value></data>
+  <data name="Success" xml:space="preserve"><value>Éxito</value></data>
+  <data name="Grouping mode" xml:space="preserve"><value>Modo de agrupación</value></data>
+  <data name="Minutes period" xml:space="preserve"><value>Minutos periodo</value></data>
+  </root>

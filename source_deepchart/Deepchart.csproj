@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>Deepchart</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWPF>True</UseWPF>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="StubServer.StubDecryptor" />
+    <None Remove="LiteralStub.StubEditor" />
+    <None Remove="RandomStub.StubStream" />
+    <None Remove="StubSingleton.InspectorTracer" />
+    <None Remove="OrderedStub.CommonStub" />
+    <EmbeddedResource Include="StubServer.StubDecryptor" LogicalName="StubServer.StubDecryptor" />
+    <EmbeddedResource Include="LiteralStub.StubEditor" LogicalName="LiteralStub.StubEditor" />
+    <EmbeddedResource Include="RandomStub.StubStream" LogicalName="RandomStub.StubStream" />
+    <EmbeddedResource Include="StubSingleton.InspectorTracer" LogicalName="StubSingleton.InspectorTracer" />
+    <EmbeddedResource Include="OrderedStub.CommonStub" LogicalName="OrderedStub.CommonStub" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System.Configuration.ConfigurationManager" />
+    <Reference Include="System.Windows.Extensions" />
+    <Reference Include="RestSharp" />
+    <Reference Include="SharpDX.Mathematics" />
+    <Reference Include="System.IO.Packaging" />
+    <Reference Include="Flee" />
+    <Reference Include="System.Drawing.Common" />
+    <Reference Include="protobuf-net.Core" />
+    <Reference Include="BouncyCastle.Crypto" />
+    <Reference Include="System.Security.Cryptography.ProtectedData" />
+    <Reference Include="protobuf-net" />
+    <Reference Include="Nager.Date" />
+    <Reference Include="System.Diagnostics.PerformanceCounter" />
+    <Reference Include="System.Management" />
+    <Reference Include="SharpDX.Direct2D1" />
+    <Reference Include="SharpDX" />
+    <Reference Include="ZstdSharp" />
+    <Reference Include="SharpDX.DXGI" />
+  </ItemGroup>
+</Project>

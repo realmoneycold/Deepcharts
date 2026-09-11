@@ -1,0 +1,1900 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="Range trade settings" xml:space="preserve"><value>设置 range trade</value></data>
+  <data name="Sim account" xml:space="preserve"><value>模拟账户</value></data>
+  <data name="Delta bid color" xml:space="preserve"><value>达美出价颜色</value></data>
+  <data name="Summary" xml:space="preserve"><value>总览</value></data>
+  <data name="Show stopiceberg" xml:space="preserve"><value>显示 Stopiceberg冰山突破</value></data>
+  <data name="Number of days" xml:space="preserve"><value>天</value></data>
+  <data name="Pivot point" xml:space="preserve"><value>枢轴点</value></data>
+  <data name="Open qty" xml:space="preserve"><value>开仓手数</value></data>
+  <data name="Profit Target" xml:space="preserve"><value>利润目标</value></data>
+  <data name="Level based on" xml:space="preserve"><value>点位基于</value></data>
+  <data name="All symbols" xml:space="preserve"><value>所有交易代码</value></data>
+  <data name="Startup" xml:space="preserve"><value>启动</value></data>
+  <data name="Std dev" xml:space="preserve"><value>标准差</value></data>
+  <data name="Parallel lines" xml:space="preserve"><value>平行线</value></data>
+  <data name="Sim accounts" xml:space="preserve"><value>模拟账户</value></data>
+  <data name="Single print min value" xml:space="preserve"><value>单字母的最小值</value></data>
+  <data name="Alert minimum volume" xml:space="preserve"><value>最小成交量警报</value></data>
+  <data name="Pecentual" xml:space="preserve"><value>百分比</value></data>
+  <data name="OPEN AT" xml:space="preserve"><value>OPEN AT</value></data>
+  <data name="Third supp color" xml:space="preserve"><value>第三 支撑颜色</value></data>
+  <data name="Chart dom settings" xml:space="preserve"><value>图表DOM设置</value></data>
+  <data name="Open back color" xml:space="preserve"><value>开仓 背景色</value></data>
+  <data name="High imbalance color" xml:space="preserve"><value>色彩不平衡度高</value></data>
+  <data name="Webinar" xml:space="preserve"><value>网络研讨会</value></data>
+  <data name="Detached window" xml:space="preserve"><value>独立窗口</value></data>
+  <data name="Tot. qty" xml:space="preserve"><value>总成交手数</value></data>
+  <data name="Starting mode" xml:space="preserve"><value>开启模式</value></data>
+  <data name="Mirroring" xml:space="preserve"><value>镜像</value></data>
+  <data name="Peak min poc perc" xml:space="preserve"><value>波峰最新POC% </value></data>
+  <data name="Auto tick grouping" xml:space="preserve"><value>Auto tick grouping</value></data>
+  <data name="Trade marker" xml:space="preserve"><value>交易标注</value></data>
+  <data name="Trend down color line" xml:space="preserve"><value>空头趋势线颜色</value></data>
+  <data name="Symbol rollover" xml:space="preserve"><value>交易标的展期</value></data>
+  <data name="Screenshot save dialog" xml:space="preserve"><value>截图dialog保存</value></data>
+  <data name="Setting volswing" xml:space="preserve"><value>设置VolSwing</value></data>
+  <data name="Wait time(m) after partial DD" xml:space="preserve"><value>部分DD后等待时间(m)</value></data>
+  <data name="Length settings" xml:space="preserve"><value>Length settings</value></data>
+  <data name="PL column color" xml:space="preserve"><value>PL栏颜色</value></data>
+  <data name="Server status" xml:space="preserve"><value>服务器状态</value></data>
+  <data name="Vol up color" xml:space="preserve"><value>成交量增加颜色</value></data>
+  <data name="Filled color" xml:space="preserve"><value>成交的颜色</value></data>
+  <data name="Minimum number of zero" xml:space="preserve"><value>最小number of zero</value></data>
+  <data name="Current width" xml:space="preserve"><value>当前宽度</value></data>
+  <data name="Enable triggered zone" xml:space="preserve"><value>启动 triggerd zone</value></data>
+  <data name="2 hours" xml:space="preserve"><value>2 小时</value></data>
+  <data name="Current style" xml:space="preserve"><value>当前风格</value></data>
+  <data name="Manual ticks" xml:space="preserve"><value>手动tick值</value></data>
+  <data name="5 minutes" xml:space="preserve"><value>5 分钟</value></data>
+  <data name="Text offset" xml:space="preserve"><value>文字抵消</value></data>
+  <data name="Order submitted alert" xml:space="preserve"><value>订单提交提醒</value></data>
+  <data name="Avg value" xml:space="preserve"><value>Avg value</value></data>
+  <data name="Filled price" xml:space="preserve"><value>成交的价格</value></data>
+  <data name="Buy internal color" xml:space="preserve"><value>Buy internal col</value></data>
+  <data name="Saving configuration" xml:space="preserve"><value>保存设置</value></data>
+  <data name="Short trades" xml:space="preserve"><value>做空订单</value></data>
+  <data name="Histogram value" xml:space="preserve"><value>Histogram value</value></data>
+  <data name="Alert sounds" xml:space="preserve"><value>警报声音</value></data>
+  <data name="Draw down" xml:space="preserve"><value>画下来</value></data>
+  <data name="Extend till close cross" xml:space="preserve"><value>延长直到价格下破</value></data>
+  <data name="Enable stop order" xml:space="preserve"><value>启动止损</value></data>
+  <data name="Indicator template" xml:space="preserve"><value>指标模板</value></data>
+  <data name="Text format" xml:space="preserve"><value>文字格式</value></data>
+  <data name="Balance" xml:space="preserve"><value>平衡</value></data>
+  <data name="Valley max. vol" xml:space="preserve"><value>波谷最大成交量</value></data>
+  <data name="Min. reversal tick" xml:space="preserve"><value>Min. reversal tick</value></data>
+  <data name="Buy filter 2" xml:space="preserve"><value>Buy filter 2</value></data>
+  <data name="Buy filter 1" xml:space="preserve"><value>Buy filter 1</value></data>
+  <data name="Last filled qty" xml:space="preserve"><value>Last filled qty</value></data>
+  <data name="Swing down color line" xml:space="preserve"><value>震荡下行线颜色</value></data>
+  <data name="Clear historical account report" xml:space="preserve"><value>清除历史账户报告</value></data>
+  <data name="Third color" xml:space="preserve"><value>第三 颜色</value></data>
+  <data name="Third label" xml:space="preserve"><value>第三 标签</value></data>
+  <data name="Short formatted" xml:space="preserve"><value>做空格式化</value></data>
+  <data name="Day expire" xml:space="preserve"><value>到期日</value></data>
+  <data name="Susp. P." xml:space="preserve"><value>暂停. P.</value></data>
+  <data name="Third range" xml:space="preserve"><value>第三 range</value></data>
+  <data name="Filter bubble" xml:space="preserve"><value>Filter bubble</value></data>
+  <data name="Duplicate window" xml:space="preserve"><value>复制窗口</value></data>
+  <data name="Show hist fills" xml:space="preserve"><value>显示历史成交记录</value></data>
+  <data name="Sec to close" xml:space="preserve"><value>秒关闭</value></data>
+  <data name="Enable profile" xml:space="preserve"><value>启动能量分布</value></data>
+  <data name="Show summary" xml:space="preserve"><value>显示总览</value></data>
+  <data name="Show delta" xml:space="preserve"><value>显示delta</value></data>
+  <data name="Sum size" xml:space="preserve"><value>总览文字大小</value></data>
+  <data name="Enable" xml:space="preserve"><value>开启</value></data>
+  <data name="Please enable trading before" xml:space="preserve"><value>请开启交易前</value></data>
+  <data name="Show chart" xml:space="preserve"><value>显示图表</value></data>
+  <data name="Show lines" xml:space="preserve"><value>显示线</value></data>
+  <data name="Pixel per tick" xml:space="preserve"><value>Pixel per tick</value></data>
+  <data name="Buy exit arrow color" xml:space="preserve"><value>Buy exit arrow color</value></data>
+  <data name="Windows" xml:space="preserve"><value>窗口</value></data>
+  <data name="Text settings" xml:space="preserve"><value>文字设置</value></data>
+  <data name="Volume bid color" xml:space="preserve"><value>成交量出价颜色</value></data>
+  <data name="Ask highlight" xml:space="preserve"><value>Ask highlight</value></data>
+  <data name="Show price" xml:space="preserve"><value>显示价格</value></data>
+  <data name="Reverse order" xml:space="preserve"><value>反转订单</value></data>
+  <data name="Order window" xml:space="preserve"><value>订单窗口</value></data>
+  <data name="Extend far right" xml:space="preserve"><value>延长到最右侧</value></data>
+  <data name="Min. volume" xml:space="preserve"><value>最小成交量</value></data>
+  <data name="Vwap settings" xml:space="preserve"><value>VWAP设置</value></data>
+  <data name="Buy market color" xml:space="preserve"><value>市价多单颜色</value></data>
+  <data name="Value background" xml:space="preserve"><value>价值背景色</value></data>
+  <data name="Are you sure to cancel an OCO order?" xml:space="preserve"><value>你确定要取消OCO订单?</value></data>
+  <data name="Price text color" xml:space="preserve"><value>价格文字颜色</value></data>
+  <data name="User defined" xml:space="preserve"><value>用户自定义</value></data>
+  <data name="Use ini time as base for minute tf." xml:space="preserve"><value>使用 ini 时间作为分钟 tf 的基准。</value></data>
+  <data name="Symbol name" xml:space="preserve"><value>交易产品名称</value></data>
+  <data name="Symbol list" xml:space="preserve"><value>交易产品列表</value></data>
+  <data name="45 seconds" xml:space="preserve"><value>45 秒</value></data>
+  <data name="Book speed settings" xml:space="preserve"><value>Book speed settings</value></data>
+  <data name="Trade Drawdown" xml:space="preserve"><value>贸易回撤</value></data>
+  <data name="Include all cateogries" xml:space="preserve"><value>包括所有类别</value></data>
+  <data name="Close workspace" xml:space="preserve"><value>关闭图表夹</value></data>
+  <data name="Time analysis" xml:space="preserve"><value>时间分析</value></data>
+  <data name="Filter bad ticks" xml:space="preserve"><value>过滤坏的tick数据</value></data>
+  <data name="Poc color" xml:space="preserve"><value>POC颜色</value></data>
+  <data name="No data available" xml:space="preserve"><value>无可用数据</value></data>
+  <data name="Past color" xml:space="preserve"><value>过去的颜色</value></data>
+  <data name="Connect broker" xml:space="preserve"><value>连接到券商</value></data>
+  <data name="Template" xml:space="preserve"><value>模板</value></data>
+  <data name="Scanner width" xml:space="preserve"><value>筛选器宽度</value></data>
+  <data name="Remove connection" xml:space="preserve"><value>移除数据连接</value></data>
+  <data name="Show 61.8%" xml:space="preserve"><value>显示 61,8%</value></data>
+  <data name="Automatic detection" xml:space="preserve"><value>自动侦测</value></data>
+  <data name="Show 38.2%" xml:space="preserve"><value>显示 38,2%</value></data>
+  <data name="Exit quantity" xml:space="preserve"><value>出口手数</value></data>
+  <data name="End custom dt" xml:space="preserve"><value>关闭 自定义dt</value></data>
+  <data name="Show settings" xml:space="preserve"><value>显示设置</value></data>
+  <data name="Minute length" xml:space="preserve"><value>分钟长度</value></data>
+  <data name="Flat on exceeded" xml:space="preserve"><value>超过时持平</value></data>
+  <data name="Auto scroll" xml:space="preserve"><value>自动拖拽</value></data>
+  <data name="Tick range" xml:space="preserve"><value>点数Range</value></data>
+  <data name="Tick value" xml:space="preserve"><value>点值</value></data>
+  <data name="Closing connection" xml:space="preserve"><value>关闭数据连接</value></data>
+  <data name="Filter settings" xml:space="preserve"><value>筛选设置</value></data>
+  <data name="High enabled" xml:space="preserve"><value>High enabled</value></data>
+  <data name="Settings trading" xml:space="preserve"><value>交易设置</value></data>
+  <data name="Marker color" xml:space="preserve"><value>Marker color</value></data>
+  <data name="Single print" xml:space="preserve"><value>单字母</value></data>
+  <data name="Alerts" xml:space="preserve"><value>警报</value></data>
+  <data name="Always" xml:space="preserve"><value>总是</value></data>
+  <data name="Length high low" xml:space="preserve"><value>Length high low</value></data>
+  <data name="Marker alert" xml:space="preserve"><value>Marker alert</value></data>
+  <data name="Feed status" xml:space="preserve"><value>数据状态</value></data>
+  <data name="August" xml:space="preserve"><value>8月</value></data>
+  <data name="Marker width" xml:space="preserve"><value>Marker width</value></data>
+  <data name="Marker style" xml:space="preserve"><value>Marker style</value></data>
+  <data name="Suspension enable" xml:space="preserve"><value>启动暂停</value></data>
+  <data name="Marker value" xml:space="preserve"><value>Marker value</value></data>
+  <data name="Bid font color" xml:space="preserve"><value>Bid font color</value></data>
+  <data name="Buy trig color" xml:space="preserve"><value>多单触发颜色</value></data>
+  <data name="VolBook is already running" xml:space="preserve"><value>InsightBook微观流动性图已经运行</value></data>
+  <data name="Fading" xml:space="preserve"><value>Fading</value></data>
+  <data name="Zone resistance" xml:space="preserve"><value>区域阻力</value></data>
+  <data name="Buy background" xml:space="preserve"><value>多单 背景</value></data>
+  <data name="Max ord num" xml:space="preserve"><value>Max ord num</value></data>
+  <data name="Filled" xml:space="preserve"><value>成交的</value></data>
+  <data name="Filter" xml:space="preserve"><value>过滤</value></data>
+  <data name="Dn fill color" xml:space="preserve"><value>Dn 填充颜色</value></data>
+  <data name="Enable first letter" xml:space="preserve"><value>启用首字母</value></data>
+  <data name="Feed source" xml:space="preserve"><value>数据源</value></data>
+  <data name="Friday" xml:space="preserve"><value>周五</value></data>
+  <data name="Number of swing" xml:space="preserve"><value>Number of swing</value></data>
+  <data name="Drawing tool from other chart" xml:space="preserve"><value>从其他图表导入画图工具</value></data>
+  <data name="High back color" xml:space="preserve"><value>High back color</value></data>
+  <data name="Tile horizontally" xml:space="preserve"><value>Tile horizontally</value></data>
+  <data name="Second negative color" xml:space="preserve"><value>第二负值颜色</value></data>
+  <data name="Settings column order" xml:space="preserve"><value>设置栏目序列</value></data>
+  <data name="Zoom range" xml:space="preserve"><value>缩放范围</value></data>
+  <data name="Font size" xml:space="preserve"><value>字体大小</value></data>
+  <data name="Swing up color line" xml:space="preserve"><value>震荡上行线颜色</value></data>
+  <data name="Confluence settings" xml:space="preserve"><value>汇合设置</value></data>
+  <data name="Oversold color" xml:space="preserve"><value>超卖颜色</value></data>
+  <data name="Text show" xml:space="preserve"><value>文字展示</value></data>
+  <data name="Text size" xml:space="preserve"><value>文字大小</value></data>
+  <data name="Ts mode" xml:space="preserve"><value>TS 模式</value></data>
+  <data name="Length bar" xml:space="preserve"><value>Length bar</value></data>
+  <data name="Tuesday" xml:space="preserve"><value>星期二</value></data>
+  <data name="Std dev val" xml:space="preserve"><value>标准差数值</value></data>
+  <data name="Canceled color" xml:space="preserve"><value>取消颜色</value></data>
+  <data name="Vol marker enabled" xml:space="preserve"><value>启动成交量标注</value></data>
+  <data name="Calculate on shadow" xml:space="preserve"><value>更具Shadow计算</value></data>
+  <data name="Bar positive color" xml:space="preserve"><value>Bar positive color</value></data>
+  <data name="Min % imbalance" xml:space="preserve"><value>% min. imbalance</value></data>
+  <data name="Absorption-pressure" xml:space="preserve"><value>订单消耗压力</value></data>
+  <data name="Candle opacity" xml:space="preserve"><value>K线不透明度</value></data>
+  <data name="Label and line" xml:space="preserve"><value>Label and line</value></data>
+  <data name="Cumulative delta" xml:space="preserve"><value>累积Delta</value></data>
+  <data name="Add connection" xml:space="preserve"><value>添加连接</value></data>
+  <data name="Delete" xml:space="preserve"><value>删除</value></data>
+  <data name="Marker positive color" xml:space="preserve"><value>标记正色</value></data>
+  <data name="Symbols" xml:space="preserve"><value>交易标的</value></data>
+  <data name="Symbol:" xml:space="preserve"><value>交易标的:</value></data>
+  <data name="Trading" xml:space="preserve"><value>交易</value></data>
+  <data name="Position only windows inside selected monitors" xml:space="preserve"><value>持仓 在选择的显示屏</value></data>
+  <data name="Bid-Ask" xml:space="preserve"><value>投标要求</value></data>
+  <data name="Bid/ask" xml:space="preserve"><value>多/空 </value></data>
+  <data name="Font color" xml:space="preserve"><value>字体颜色</value></data>
+  <data name="Enable order cancelled" xml:space="preserve"><value>启动订单被取消</value></data>
+  <data name="Show filled bar" xml:space="preserve"><value>显示实心柱状图</value></data>
+  <data name="Show filled vbp" xml:space="preserve"><value>显示vbp实心图</value></data>
+  <data name="Tpo period" xml:space="preserve"><value>TPO期</value></data>
+  <data name="Enable alert sound" xml:space="preserve"><value>启动警报声</value></data>
+  <data name="Absolute reversal" xml:space="preserve"><value>Absolute reversal</value></data>
+  <data name="Space label" xml:space="preserve"><value>空格标签</value></data>
+  <data name="Max. partial drawdown" xml:space="preserve"><value>最大部分回撤</value></data>
+  <data name="Previous" xml:space="preserve"><value>以前的</value></data>
+  <data name="Period mode" xml:space="preserve"><value>周期模式</value></data>
+  <data name="Minute" xml:space="preserve"><value>分钟</value></data>
+  <data name="Tot. vol and delta" xml:space="preserve"><value>总成交量和Delta</value></data>
+  <data name="Mode 2" xml:space="preserve"><value>模式2</value></data>
+  <data name="Modify" xml:space="preserve"><value>更改</value></data>
+  <data name="Monday" xml:space="preserve"><value>周一</value></data>
+  <data name="Months" xml:space="preserve"><value>月</value></data>
+  <data name="Retracement settings" xml:space="preserve"><value>回撤线设置</value></data>
+  <data name="Marker settings" xml:space="preserve"><value>Marker settings</value></data>
+  <data name="Manage" xml:space="preserve"><value>管理</value></data>
+  <data name="Manual" xml:space="preserve"><value>说明</value></data>
+  <data name="Minimum delta % difference" xml:space="preserve"><value>最小差异百分比</value></data>
+  <data name="Market" xml:space="preserve"><value>市场</value></data>
+  <data name="Marker" xml:space="preserve"><value>Marker</value></data>
+  <data name="Margin" xml:space="preserve"><value>利润</value></data>
+  <data name="Zig zag abs. rev" xml:space="preserve"><value>Zig zag ABS 反转</value></data>
+  <data name="Medium" xml:space="preserve"><value>Medio</value></data>
+  <data name="Metric" xml:space="preserve"><value>公制</value></data>
+  <data name="Delta height" xml:space="preserve"><value>Delta高度</value></data>
+  <data name="Chart area:" xml:space="preserve"><value>图表区域:</value></data>
+  <data name="Projection bar" xml:space="preserve"><value>投影柱状图</value></data>
+  <data name="Maximum seconds to close" xml:space="preserve"><value>Maximum seconds to close</value></data>
+  <data name="Message popup" xml:space="preserve"><value>文字弹窗</value></data>
+  <data name="Correlation viewer" xml:space="preserve"><value>相关性观察</value></data>
+  <data name="Adv. dom" xml:space="preserve"><value>市场深度 DOM</value></data>
+  <data name="Neg. delta trade" xml:space="preserve"><value>负delta trade</value></data>
+  <data name="No workspace opened" xml:space="preserve"><value>没有打开工作区</value></data>
+  <data name="Range defining" xml:space="preserve"><value>定义range</value></data>
+  <data name="Balance:" xml:space="preserve"><value>平衡：</value></data>
+  <data name="Year expire" xml:space="preserve"><value>年到期</value></data>
+  <data name="Important levels settings" xml:space="preserve"><value>重要点位设置</value></data>
+  <data name="Control bar always on top" xml:space="preserve"><value>控制栏总在最前</value></data>
+  <data name="Ask absorption" xml:space="preserve"><value>主动多单消耗</value></data>
+  <data name="Broker" xml:space="preserve"><value>券商</value></data>
+  <data name="Broken" xml:space="preserve"><value>破碎的</value></data>
+  <data name="Scanner" xml:space="preserve"><value>筛选器宽度</value></data>
+  <data name="Minutes before" xml:space="preserve"><value>分钟前</value></data>
+  <data name="Show portfolio" xml:space="preserve"><value>显示交易组合</value></data>
+  <data name="Zero line color" xml:space="preserve"><value>零线颜色</value></data>
+  <data name="Application" xml:space="preserve"><value>应用程序</value></data>
+  <data name="Thursday" xml:space="preserve"><value>周四</value></data>
+  <data name="Flatten position" xml:space="preserve"><value>全清所有仓位</value></data>
+  <data name="Please select an Oco Order Type" xml:space="preserve"><value>请选择OCO订单类型</value></data>
+  <data name="Price fan" xml:space="preserve"><value>价格扇形</value></data>
+  <data name="Scale format" xml:space="preserve"><value>比例格式</value></data>
+  <data name="Column" xml:space="preserve"><value>栏</value></data>
+  <data name="Common" xml:space="preserve"><value>常见的</value></data>
+  <data name="Override auto color" xml:space="preserve"><value>自动覆盖颜色</value></data>
+  <data name="Cancel" xml:space="preserve"><value>取消</value></data>
+  <data name="Candle" xml:space="preserve"><value>K线</value></data>
+  <data name="Zero line style" xml:space="preserve"><value>零线样式</value></data>
+  <data name="Zone settings" xml:space="preserve"><value>区域设置</value></data>
+  <data name="Client" xml:space="preserve"><value>客户</value></data>
+  <data name="Zero line width" xml:space="preserve"><value>零线宽</value></data>
+  <data name="Fixed ask color" xml:space="preserve"><value>Fixed ask color</value></data>
+  <data name="Circle" xml:space="preserve"><value>圆形</value></data>
+  <data name="Selected time zone" xml:space="preserve"><value>选择的时区</value></data>
+  <data name="15 minutes" xml:space="preserve"><value>15 分钟</value></data>
+  <data name="Custom" xml:space="preserve"><value>自定义</value></data>
+  <data name="Daily PL" xml:space="preserve"><value>日盈亏</value></data>
+  <data name="Daily DD" xml:space="preserve"><value>每日DD</value></data>
+  <data name="%d period" xml:space="preserve"><value>%d 周期</value></data>
+  <data name="Shadow opacity" xml:space="preserve"><value>阴影透明度</value></data>
+  <data name="Sell stop color" xml:space="preserve"><value>突破卖出颜色</value></data>
+  <data name="Buy bid" xml:space="preserve"><value>Buy bid</value></data>
+  <data name="Buy lmt" xml:space="preserve"><value>限价多单</value></data>
+  <data name="Buy mkt" xml:space="preserve"><value>市价多单</value></data>
+  <data name="Buy stp" xml:space="preserve"><value>市价突破多单</value></data>
+  <data name="Extend line" xml:space="preserve"><value>延长线</value></data>
+  <data name="Extend mode" xml:space="preserve"><value>延长模式</value></data>
+  <data name="Projection settings" xml:space="preserve"><value>投影设置</value></data>
+  <data name="Bubbles" xml:space="preserve"><value>气泡</value></data>
+  <data name="Equity curve with drawdown" xml:space="preserve"><value>权益曲线和回撤</value></data>
+  <data name="Primary color" xml:space="preserve"><value>初始颜色</value></data>
+  <data name="Workspace" xml:space="preserve"><value>图表夹</value></data>
+  <data name="Shift syntethic" xml:space="preserve"><value>移动syntethic</value></data>
+  <data name="H line color" xml:space="preserve"><value>H line color</value></data>
+  <data name="Oco strategy" xml:space="preserve"><value>OCO策略</value></data>
+  <data name="Text ruler" xml:space="preserve"><value>文字尺度</value></data>
+  <data name="Type to filter" xml:space="preserve"><value>筛选类型</value></data>
+  <data name="Sell market" xml:space="preserve"><value>市价卖出</value></data>
+  <data name="Import" xml:space="preserve"><value>进口</value></data>
+  <data name="Collecing information" xml:space="preserve"><value>收集信息</value></data>
+  <data name="TF minute" xml:space="preserve"><value>TF分钟</value></data>
+  <data name="Filter min" xml:space="preserve"><value>最小阈值</value></data>
+  <data name="Filter max" xml:space="preserve"><value>最大阈值</value></data>
+  <data name="Filter poc" xml:space="preserve"><value>筛选 poc</value></data>
+  <data name="Filter volume" xml:space="preserve"><value>Filter volume</value></data>
+  <data name="Ask text" xml:space="preserve"><value>Ask text</value></data>
+  <data name="Midpoint" xml:space="preserve"><value>中间点</value></data>
+  <data name="H line style" xml:space="preserve"><value>H line style</value></data>
+  <data name="Ask font" xml:space="preserve"><value>空单字体</value></data>
+  <data name="Sell stp lmt" xml:space="preserve"><value>出售 stp lmt</value></data>
+  <data name="Text align" xml:space="preserve"><value>文字对齐</value></data>
+  <data name="H line width" xml:space="preserve"><value>H line width</value></data>
+  <data name="Stop order" xml:space="preserve"><value>突破订单</value></data>
+  <data name="Reset scale" xml:space="preserve"><value>重置比例</value></data>
+  <data name="Text color" xml:space="preserve"><value>文字颜色</value></data>
+  <data name="Calicetto mode" xml:space="preserve"><value>K线模式</value></data>
+  <data name="Tick stop" xml:space="preserve"><value>点数止损</value></data>
+  <data name="Drawing tools" xml:space="preserve"><value>画图工具</value></data>
+  <data name="Bid volume" xml:space="preserve"><value>主动空单量</value></data>
+  <data name="Rejected color" xml:space="preserve"><value>拒绝 颜色</value></data>
+  <data name="Impossible to remove the selected element" xml:space="preserve"><value>Impossible to remove the selected element</value></data>
+  <data name="Order cancelled alert" xml:space="preserve"><value>订单取消提醒</value></data>
+  <data name="Third vbp" xml:space="preserve"><value>第三 vbp</value></data>
+  <data name="Second text" xml:space="preserve"><value>第二文字</value></data>
+  <data name="Custom first name" xml:space="preserve"><value>自定义第一名称</value></data>
+  <data name="Second line" xml:space="preserve"><value>第二线</value></data>
+  <data name="Month of year" xml:space="preserve"><value>Month of year</value></data>
+  <data name="Adjust window to fit content" xml:space="preserve"><value>调整窗口以适合内容</value></data>
+  <data name="Normal" xml:space="preserve"><value>正常</value></data>
+  <data name="Type average" xml:space="preserve"><value>均线种类</value></data>
+  <data name="Buy stop limit color" xml:space="preserve"><value>限价突破多单颜色</value></data>
+  <data name="Step value" xml:space="preserve"><value>Step value</value></data>
+  <data name="Tpo type" xml:space="preserve"><value>TPO型</value></data>
+  <data name="Step range" xml:space="preserve"><value>Step range</value></data>
+  <data name="Show liq. tracker" xml:space="preserve"><value>显示流动性跟踪</value></data>
+  <data name="Please select an indicator" xml:space="preserve"><value>请选择一个指标</value></data>
+  <data name="Num. extended bars" xml:space="preserve"><value>几个延伸柱状图</value></data>
+  <data name="Start date" xml:space="preserve"><value>开始日期</value></data>
+  <data name="Start time" xml:space="preserve"><value>开盘时间</value></data>
+  <data name="Database folder" xml:space="preserve"><value>数据库文件夹</value></data>
+  <data name="Clear historical report" xml:space="preserve"><value>清除历史报告</value></data>
+  <data name="60 minutes" xml:space="preserve"><value>60 分钟</value></data>
+  <data name="Bar negative color" xml:space="preserve"><value>Bar negative color</value></data>
+  <data name="Left bars" xml:space="preserve"><value>Left bars</value></data>
+  <data name="Close all feed and trading connections before" xml:space="preserve"><value>关闭所有数据源和之前交易连接</value></data>
+  <data name="Portfolio" xml:space="preserve"><value>文件夹</value></data>
+  <data name="Please add a name" xml:space="preserve"><value>请添加姓名</value></data>
+  <data name="Use fixed space" xml:space="preserve"><value>使用固定空格空间</value></data>
+  <data name="Offers" xml:space="preserve"><value>优惠</value></data>
+  <data name="Min. vol. diff. for imbalance" xml:space="preserve"><value>最小vol. per imbalance差值</value></data>
+  <data name="High color" xml:space="preserve"><value>High color</value></data>
+  <data name="Order settings" xml:space="preserve"><value>订单设置</value></data>
+  <data name="Are you sure to close the window?" xml:space="preserve"><value>你确定要关闭窗口吗?</value></data>
+  <data name="Min. horizontal delta" xml:space="preserve"><value>分钟。水平三角洲</value></data>
+  <data name="Orders" xml:space="preserve"><value>命令</value></data>
+  <data name="Tile vertically" xml:space="preserve"><value>Tile vertically</value></data>
+  <data name="Trade Runup" xml:space="preserve"><value>贸易增长</value></data>
+  <data name="Unable to save change due to duplicate. Changes are discard" xml:space="preserve"><value>由于重复而无法保存更改。更改被放弃</value></data>
+  <data name="Save as" xml:space="preserve"><value>另存为</value></data>
+  <data name="Flat pos." xml:space="preserve"><value>全清仓位</value></data>
+  <data name="Is enabled" xml:space="preserve"><value>Is enabled</value></data>
+  <data name="Up shadow color" xml:space="preserve"><value>上方阴影颜色</value></data>
+  <data name="Bid background" xml:space="preserve"><value>Bid background</value></data>
+  <data name="Tick replay&amp;#10;speed: x1" xml:space="preserve"><value>点数回放&amp;#10;速度: x1</value></data>
+  <data name="Enable MM" xml:space="preserve"><value>启用MM</value></data>
+  <data name="Long equity" xml:space="preserve"><value>Long equity</value></data>
+  <data name="Latest" xml:space="preserve"><value>最新的</value></data>
+  <data name="Log in" xml:space="preserve"><value>登陆</value></data>
+  <data name="Short equity" xml:space="preserve"><value>做空股票</value></data>
+  <data name="Session range color" xml:space="preserve"><value>会话范围颜色</value></data>
+  <data name="Canceled" xml:space="preserve"><value>取消的订单</value></data>
+  <data name="Length" xml:space="preserve"><value>Length</value></data>
+  <data name="Levels" xml:space="preserve"><value>位置</value></data>
+  <data name="Price retracement" xml:space="preserve"><value>价格回撤</value></data>
+  <data name="Plot price" xml:space="preserve"><value>绘制价格</value></data>
+  <data name="Open enabled" xml:space="preserve"><value>开仓 启动</value></data>
+  <data name="Set offset" xml:space="preserve"><value>设置抵消</value></data>
+  <data name="Down ticks" xml:space="preserve"><value>下跌</value></data>
+  <data name="Up bar" xml:space="preserve"><value>上升柱状图</value></data>
+  <data name="Plot only inside bar" xml:space="preserve"><value>绘制inside bar</value></data>
+  <data name="Update" xml:space="preserve"><value>更新</value></data>
+  <data name="Extend settings" xml:space="preserve"><value>延长设置</value></data>
+  <data name="Alert Sound is corrupted" xml:space="preserve"><value>警报声音被影响</value></data>
+  <data name="Add resolution" xml:space="preserve"><value>添加</value></data>
+  <data name="Usa start time" xml:space="preserve"><value>美国开始时间</value></data>
+  <data name="Second res color" xml:space="preserve"><value>第二阻力颜色</value></data>
+  <data name="Down color" xml:space="preserve"><value>下跌颜色</value></data>
+  <data name="Chart color for marker" xml:space="preserve"><value>标记的图表颜色</value></data>
+  <data name="Second line style" xml:space="preserve"><value>第二线风格</value></data>
+  <data name="Show stop run" xml:space="preserve"><value>显示 stoprun止损捕捉</value></data>
+  <data name="Length type" xml:space="preserve"><value>周期类型</value></data>
+  <data name="Length mode" xml:space="preserve"><value>Length mode</value></data>
+  <data name="Second line width" xml:space="preserve"><value>第二线宽度</value></data>
+  <data name="Minimum imbalance %" xml:space="preserve"><value>最小不均衡 %</value></data>
+  <data name="Broker:" xml:space="preserve"><value>券商:</value></data>
+  <data name="Last level" xml:space="preserve"><value>Last level</value></data>
+  <data name="Second value" xml:space="preserve"><value>第二数值</value></data>
+  <data name="Avg length" xml:space="preserve"><value>平均周期</value></data>
+  <data name="Fourth envelope" xml:space="preserve"><value>Fourth envelope</value></data>
+  <data name="Std dev for filter" xml:space="preserve"><value>标准差筛选</value></data>
+  <data name="Second range" xml:space="preserve"><value>第二range</value></data>
+  <data name="Use separate axis" xml:space="preserve"><value>使用分割轴</value></data>
+  <data name="Modify exchange" xml:space="preserve"><value>更改交易所</value></data>
+  <data name="Avgprice" xml:space="preserve"><value>Avgprice</value></data>
+  <data name="Ask filter 1" xml:space="preserve"><value>Ask filter 1</value></data>
+  <data name="Ask filter 2" xml:space="preserve"><value>Ask filter 2</value></data>
+  <data name="Line style:" xml:space="preserve"><value>线类型:</value></data>
+  <data name="Num lev depth" xml:space="preserve"><value>几层深度</value></data>
+  <data name="Second line color" xml:space="preserve"><value>第二线颜色</value></data>
+  <data name="Synthetic color" xml:space="preserve"><value>合成 颜色</value></data>
+  <data name="Second label" xml:space="preserve"><value>第二标签</value></data>
+  <data name="Auct. End" xml:space="preserve"><value>Auct. End</value></data>
+  <data name="Label align" xml:space="preserve"><value>Label align</value></data>
+  <data name="Single max loss" xml:space="preserve"><value>单次最大损失</value></data>
+  <data name="Length value" xml:space="preserve"><value>周期值</value></data>
+  <data name="Rebuild TS" xml:space="preserve"><value>重建逐笔订单TS</value></data>
+  <data name="Dash dot" xml:space="preserve"><value>虚点线</value></data>
+  <data name="Ask stack color" xml:space="preserve"><value>询问堆栈颜色</value></data>
+  <data name="End session" xml:space="preserve"><value>结束交易时段</value></data>
+  <data name="Portfolio manager" xml:space="preserve"><value>组合管理</value></data>
+  <data name="Adjust column size" xml:space="preserve"><value>调整列大小</value></data>
+  <data name="Over bourght color" xml:space="preserve"><value>超买颜色</value></data>
+  <data name="Color based on delta" xml:space="preserve"><value>基于Delta的颜色</value></data>
+  <data name="Space based on bar" xml:space="preserve"><value>以吧台为基础的空间</value></data>
+  <data name="Increment quantity" xml:space="preserve"><value>Increment quantity</value></data>
+  <data name="Open marker" xml:space="preserve"><value>打开标记</value></data>
+  <data name="Align to the right " xml:space="preserve"><value>设置靠右</value></data>
+  <data name="Min delta abs" xml:space="preserve"><value>Min delta abs</value></data>
+  <data name="Property" xml:space="preserve"><value>属性</value></data>
+  <data name="Prop dom" xml:space="preserve"><value>Dom属性</value></data>
+  <data name="Background mode" xml:space="preserve"><value>背景模式</value></data>
+  <data name="Available style" xml:space="preserve"><value>可用的风格</value></data>
+  <data name="General" xml:space="preserve"><value>通用</value></data>
+  <data name="Modify symbol" xml:space="preserve"><value>更改交易标的</value></data>
+  <data name="Trend enable" xml:space="preserve"><value>趋势识别开启</value></data>
+  <data name="Bid trades" xml:space="preserve"><value>Bid trade</value></data>
+  <data name="Enable average" xml:space="preserve"><value>启动平均</value></data>
+  <data name="Window width" xml:space="preserve"><value>窗口宽度</value></data>
+  <data name="Signal properties" xml:space="preserve"><value>信号属性</value></data>
+  <data name="File name" xml:space="preserve"><value>文件名</value></data>
+  <data name="Btn qty" xml:space="preserve"><value>按键 数量</value></data>
+  <data name="Tradable symbol" xml:space="preserve"><value>可交易的产品代码</value></data>
+  <data name="Strategy report - text size" xml:space="preserve"><value>策略报告 - 文字大小</value></data>
+  <data name="Extension" xml:space="preserve"><value>延期</value></data>
+  <data name="Hidden" xml:space="preserve"><value>隐藏</value></data>
+  <data name="Delta fading" xml:space="preserve"><value>Delta衰退</value></data>
+  <data name="Hollow" xml:space="preserve"><value>空心柱</value></data>
+  <data name="Same area" xml:space="preserve"><value>同样区域</value></data>
+  <data name="Height" xml:space="preserve"><value>高度</value></data>
+  <data name="Header" xml:space="preserve"><value>标题</value></data>
+  <data name="Cancel - Flat All" xml:space="preserve"><value>取消 - 全部平铺</value></data>
+  <data name="Trend detector" xml:space="preserve"><value>趋势识别</value></data>
+  <data name="15 seconds" xml:space="preserve"><value>15 秒</value></data>
+  <data name="Avg type" xml:space="preserve"><value>Avg type</value></data>
+  <data name="Buy stp lmt" xml:space="preserve"><value>购买 stp lmt</value></data>
+  <data name="Imbalance settings" xml:space="preserve"><value>非均衡设置</value></data>
+  <data name="Selected feed" xml:space="preserve"><value>已选的数据</value></data>
+  <data name="Tick tgt" xml:space="preserve"><value>点数目标</value></data>
+  <data name="Volume backcolor" xml:space="preserve"><value>成交量背景色</value></data>
+  <data name="Always visible" xml:space="preserve"><value>总是可见</value></data>
+  <data name="Show milliseconds" xml:space="preserve"><value>显示 毫秒</value></data>
+  <data name="Plot type" xml:space="preserve"><value>绘图类别</value></data>
+  <data name="Imbalance Plot Settings" xml:space="preserve"><value>不平衡图设置</value></data>
+  <data name="Replay manage" xml:space="preserve"><value>回放管理</value></data>
+  <data name="Between bid/ask text color" xml:space="preserve"><value>Between bid/ask text color</value></data>
+  <data name="Qty: 0" xml:space="preserve"><value>手数: 0</value></data>
+  <data name="QtyOrd" xml:space="preserve"><value>数量订单</value></data>
+  <data name="Fixed vol color" xml:space="preserve"><value>固定成交量颜色</value></data>
+  <data name="Std dev perc" xml:space="preserve"><value>% 标准差</value></data>
+  <data name="Std dev line" xml:space="preserve"><value>标准差线</value></data>
+  <data name="Stop qty not correspond" xml:space="preserve"><value>突破单手数未对应</value></data>
+  <data name="1 minute" xml:space="preserve"><value>1 分钟</value></data>
+  <data name="Line width:" xml:space="preserve"><value>线粗细:</value></data>
+  <data name="Bubble grouping" xml:space="preserve"><value>泡泡组合</value></data>
+  <data name="Max bars to view" xml:space="preserve"><value>显示最多柱状图</value></data>
+  <data name="Calculation" xml:space="preserve"><value>计算</value></data>
+  <data name="Time zone list" xml:space="preserve"><value>时区列表</value></data>
+  <data name="Resettable" xml:space="preserve"><value>可重置</value></data>
+  <data name="Ord type" xml:space="preserve"><value>订单类别</value></data>
+  <data name="Smoothing length" xml:space="preserve"><value>平滑周期</value></data>
+  <data name="Close letter" xml:space="preserve"><value>关闭信</value></data>
+  <data name="You still have pending orders. Are you sure?" xml:space="preserve"><value>你有待定的订单，你确定要退出？</value></data>
+  <data name="Valley" xml:space="preserve"><value>波谷</value></data>
+  <data name="Ask background" xml:space="preserve"><value>空单背景</value></data>
+  <data name="Auto configuration" xml:space="preserve"><value>自动配置</value></data>
+  <data name="Downloading update" xml:space="preserve"><value>正在下载更新</value></data>
+  <data name="Volume" xml:space="preserve"><value>成交量</value></data>
+  <data name="Check real time delay" xml:space="preserve"><value>检测实时延迟</value></data>
+  <data name="Color close letter" xml:space="preserve"><value>颜色接近的字母</value></data>
+  <data name="Vertical" xml:space="preserve"><value>垂直的</value></data>
+  <data name="Absorption settings" xml:space="preserve"><value>订单消耗设置</value></data>
+  <data name="Min. gap %" xml:space="preserve"><value>Min. gap  %</value></data>
+  <data name="Symbol performance" xml:space="preserve"><value>交易标的业绩</value></data>
+  <data name="Calculation settings" xml:space="preserve"><value>计算设置</value></data>
+  <data name="Cancell all" xml:space="preserve"><value>取消所有订单</value></data>
+  <data name="Auto text format" xml:space="preserve"><value>自动格式化字体.</value></data>
+  <data name="Bid text color" xml:space="preserve"><value>Bid text color</value></data>
+  <data name="Build chart" xml:space="preserve"><value>建立图表</value></data>
+  <data name="Min. delta value/%" xml:space="preserve"><value>Min. delta value/&amp;</value></data>
+  <data name="Min num of confluence" xml:space="preserve"><value>Min num of confluence</value></data>
+  <data name="Secondary color:" xml:space="preserve"><value>二级颜色:</value></data>
+  <data name="Weekly" xml:space="preserve"><value>每周</value></data>
+  <data name="Event name" xml:space="preserve"><value>活动名称</value></data>
+  <data name="Window" xml:space="preserve"><value>窗口</value></data>
+  <data name="Sell exit arrow color" xml:space="preserve"><value>卖出出场 箭头颜色</value></data>
+  <data name="Color text based on delta" xml:space="preserve"><value>基于Delta的字体颜色</value></data>
+  <data name="Trades" xml:space="preserve"><value>交易订单</value></data>
+  <data name="Order ID" xml:space="preserve"><value>订单 ID</value></data>
+  <data name="Please select at least one symbol" xml:space="preserve"><value>请选择至少一个交易标的</value></data>
+  <data name="Marker alignment" xml:space="preserve"><value>标注位置</value></data>
+  <data name="Skip first bar" xml:space="preserve"><value>跳过第一个柱状图</value></data>
+  <data name="Pending qty" xml:space="preserve"><value>待定 手数</value></data>
+  <data name="Min. number imbalance" xml:space="preserve"><value>分钟。数量不平衡</value></data>
+  <data name="Fill. qty" xml:space="preserve"><value>成交手数</value></data>
+  <data name="Peak/valley sensitivty" xml:space="preserve"><value>波峰/波谷 敏感度</value></data>
+  <data name="MT tool" xml:space="preserve"><value>MT 工具</value></data>
+  <data name="Min tick" xml:space="preserve"><value>Min tick</value></data>
+  <data name="Filter dev num bar" xml:space="preserve"><value>Filter dev num bar</value></data>
+  <data name="Cancel Sell" xml:space="preserve"><value>取消出售</value></data>
+  <data name="Account name:" xml:space="preserve"><value>账户名称</value></data>
+  <data name="Param mode" xml:space="preserve"><value>参数模式</value></data>
+  <data name="Param type" xml:space="preserve"><value>参数类别</value></data>
+  <data name="Marker negative color" xml:space="preserve"><value>标记负片颜色</value></data>
+  <data name="Backcolor" xml:space="preserve"><value>背色</value></data>
+  <data name="Std dev for coloring" xml:space="preserve"><value>标准差颜色</value></data>
+  <data name="Unfinished settings" xml:space="preserve"><value>UNFinish设置</value></data>
+  <data name="Trr scanner" xml:space="preserve"><value>TRR 选择器</value></data>
+  <data name="First supp color" xml:space="preserve"><value>First supp colorp</value></data>
+  <data name="Coloring settings" xml:space="preserve"><value>颜色设置</value></data>
+  <data name="Run-up" xml:space="preserve"><value>Run-up</value></data>
+  <data name="Zone support" xml:space="preserve"><value>区域支撑</value></data>
+  <data name="Border color" xml:space="preserve"><value>Border width</value></data>
+  <data name="Perc value" xml:space="preserve"><value>% 数值</value></data>
+  <data name="Resistence line" xml:space="preserve"><value>阻力线</value></data>
+  <data name="Value show bg" xml:space="preserve"><value>显示 价格BG</value></data>
+  <data name="Minimum tick breakout" xml:space="preserve"><value>最小变动价位突破</value></data>
+  <data name="Remove" xml:space="preserve"><value>移除</value></data>
+  <data name="Acc name" xml:space="preserve"><value>账户名称</value></data>
+  <data name="Color 23.6%" xml:space="preserve"><value>颜色 23,6%</value></data>
+  <data name="Order filled alert" xml:space="preserve"><value>订单已完成提醒</value></data>
+  <data name="Enable only on high or low" xml:space="preserve"><value>启动只在高和低点</value></data>
+  <data name="Advanced dom" xml:space="preserve"><value>市场深度 DOM</value></data>
+  <data name="Color 76.4%" xml:space="preserve"><value>颜色 76,4%</value></data>
+  <data name="Border width" xml:space="preserve"><value>加粗宽度</value></data>
+  <data name="Number minutes" xml:space="preserve"><value>Number minutes</value></data>
+  <data name="% max width based volume" xml:space="preserve"><value>% 最大宽度基础体积</value></data>
+  <data name="Status" xml:space="preserve"><value>状态</value></data>
+  <data name="Strong" xml:space="preserve"><value>强大</value></data>
+  <data name="Order rejected alert" xml:space="preserve"><value>订单被拒绝提醒</value></data>
+  <data name="Bid/ask volume" xml:space="preserve"><value>主动空/多成交量</value></data>
+  <data name="Square" xml:space="preserve"><value>正方形</value></data>
+  <data name="Spread" xml:space="preserve"><value>传播</value></data>
+  <data name="Parameters" xml:space="preserve"><value>参数</value></data>
+  <data name="Maximum number of bars after reversal" xml:space="preserve"><value>反转后的最大柱数</value></data>
+  <data name="Line and bar" xml:space="preserve"><value>线和柱状图</value></data>
+  <data name="Exchanges" xml:space="preserve"><value>交易所</value></data>
+  <data name="Symbol" xml:space="preserve"><value>交易标的</value></data>
+  <data name="Auto std. dev" xml:space="preserve"><value>Auto std. dev</value></data>
+  <data name="Server" xml:space="preserve"><value>服务器</value></data>
+  <data name="Second" xml:space="preserve"><value>第二</value></data>
+  <data name="Select" xml:space="preserve"><value>选择</value></data>
+  <data name="Source" xml:space="preserve"><value>来源</value></data>
+  <data name="Enable market order" xml:space="preserve"><value>启动订单标记</value></data>
+  <data name="Smooth" xml:space="preserve"><value>平滑</value></data>
+  <data name="Asq enable" xml:space="preserve"><value>Asq启动</value></data>
+  <data name="Correlation chart" xml:space="preserve"><value>相关性图表</value></data>
+  <data name="Simple" xml:space="preserve"><value>简单</value></data>
+  <data name="Zone max bar passed" xml:space="preserve"><value>区域最多通过的柱状图</value></data>
+  <data name="Annotation condition" xml:space="preserve"><value>注释条件</value></data>
+  <data name="Ask offer back color" xml:space="preserve"><value>空单背景色</value></data>
+  <data name="Price indicators" xml:space="preserve"><value>价格指标</value></data>
+  <data name="Show background" xml:space="preserve"><value>显示背景</value></data>
+  <data name="% avg. trr color" xml:space="preserve"><value>Colore &amp; media TRR</value></data>
+  <data name="Period" xml:space="preserve"><value>周期</value></data>
+  <data name="Previous width" xml:space="preserve"><value>前一个 宽度</value></data>
+  <data name="Minimum volume diff." xml:space="preserve"><value>最小成交量差值</value></data>
+  <data name="Account:" xml:space="preserve"><value>账户:</value></data>
+  <data name="Visible profile" xml:space="preserve"><value>可见的能量分布</value></data>
+  <data name="Display sign" xml:space="preserve"><value>显示符号</value></data>
+  <data name="Display mode" xml:space="preserve"><value>显示模式</value></data>
+  <data name="All days" xml:space="preserve"><value>所有交易日</value></data>
+  <data name="Price column color" xml:space="preserve"><value>价格栏颜色</value></data>
+  <data name="All rows" xml:space="preserve"><value>所有行</value></data>
+  <data name="Buy filled color" xml:space="preserve"><value>Buy filled color</value></data>
+  <data name="Please select an Oco Order to remove" xml:space="preserve"><value>请选择OCO订单移除</value></data>
+  <data name="Positive" xml:space="preserve"><value>正</value></data>
+  <data name="Position" xml:space="preserve"><value>持仓</value></data>
+  <data name="Cancel symbol" xml:space="preserve"><value>取消符号</value></data>
+  <data name="Enable message" xml:space="preserve"><value>启动弹窗</value></data>
+  <data name="Start date/time" xml:space="preserve"><value>开始日期/时间</value></data>
+  <data name="Zig zag rev" xml:space="preserve"><value>Zig zag rev.</value></data>
+  <data name="Editable copied annotation" xml:space="preserve"><value>可编辑复制的注释</value></data>
+  <data name="Arrow text color" xml:space="preserve"><value>箭头文字颜色</value></data>
+  <data name="Vert. line starting point" xml:space="preserve"><value>垂直线起始点</value></data>
+  <data name="Start time - exchange time" xml:space="preserve"><value>开盘时间 - 交易所时间</value></data>
+  <data name="Subscribe list" xml:space="preserve"><value>订阅列表</value></data>
+  <data name="Peak min. vol" xml:space="preserve"><value>波峰最小成交量</value></data>
+  <data name="Please disconnect all feeds before to continue" xml:space="preserve"><value>请断开所有数据后继续</value></data>
+  <data name="Correlation symbols" xml:space="preserve"><value>相关性产品代码</value></data>
+  <data name="Please enter a name for the alert" xml:space="preserve"><value>请输入警报名称</value></data>
+  <data name="Price line" xml:space="preserve"><value>价格线</value></data>
+  <data name="Price bars" xml:space="preserve"><value>价格柱状图</value></data>
+  <data name="Settings TS" xml:space="preserve"><value>设置逐笔订单</value></data>
+  <data name="Ask column color" xml:space="preserve"><value>空单栏目颜色</value></data>
+  <data name="Statistics" xml:space="preserve"><value>统计</value></data>
+  <data name="Include zero on imbalance" xml:space="preserve"><value>包含 zero on imbalance</value></data>
+  <data name="Long trades" xml:space="preserve"><value>做多订单</value></data>
+  <data name="Loading settings" xml:space="preserve"><value>加载设置</value></data>
+  <data name="Drawdown" xml:space="preserve"><value>回撤</value></data>
+  <data name="November" xml:space="preserve"><value>11月</value></data>
+  <data name="Roll type" xml:space="preserve"><value>展期类型</value></data>
+  <data name="Asq settings" xml:space="preserve"><value>Asq设置</value></data>
+  <data name="CurrentToLast" xml:space="preserve"><value>当前至最后</value></data>
+  <data name="Trade down color" xml:space="preserve"><value>Trade down颜色</value></data>
+  <data name="Unknown" xml:space="preserve"><value>未知</value></data>
+  <data name="Third color:" xml:space="preserve"><value>第三 颜色:</value></data>
+  <data name="Profile" xml:space="preserve"><value>能量分布</value></data>
+  <data name="Fixed count" xml:space="preserve"><value>Fixed count</value></data>
+  <data name="Color calculation" xml:space="preserve"><value>计算器 颜色</value></data>
+  <data name="Add configuration" xml:space="preserve"><value>添加配置</value></data>
+  <data name="Exhchange time" xml:space="preserve"><value>交易所时间</value></data>
+  <data name="Price down color" xml:space="preserve"><value>价格下跌颜色</value></data>
+  <data name="Exclude high/low" xml:space="preserve"><value>剔除高/低</value></data>
+  <data name="Exclude high low" xml:space="preserve"><value>剔除高低点</value></data>
+  <data name="Breakout tick margin" xml:space="preserve"><value>Breakout tick margin</value></data>
+  <data name="First value" xml:space="preserve"><value>第一数值</value></data>
+  <data name="First range" xml:space="preserve"><value>First range</value></data>
+  <data name="Extension settings" xml:space="preserve"><value>延期设置</value></data>
+  <data name="Vbp type" xml:space="preserve"><value>能量K线类型</value></data>
+  <data name="First label" xml:space="preserve"><value>First label</value></data>
+  <data name="Delta NT" xml:space="preserve"><value>Delta NT</value></data>
+  <data name="Download data" xml:space="preserve"><value>下载数据</value></data>
+  <data name="Low enabled" xml:space="preserve"><value>Low enabled</value></data>
+  <data name="Monthly enabled" xml:space="preserve"><value>按月启动</value></data>
+  <data name="Imbalance Fresh Zone" xml:space="preserve"><value>不平衡新鲜区</value></data>
+  <data name="Scale auto center" xml:space="preserve"><value>比例自动居中</value></data>
+  <data name="Data settings" xml:space="preserve"><value>数据设置</value></data>
+  <data name="Fourth supp color" xml:space="preserve"><value>Fourth supp color</value></data>
+  <data name="High\\low line" xml:space="preserve"><value>High\\low line</value></data>
+  <data name="None configuration available" xml:space="preserve"><value>无可用配置</value></data>
+  <data name="Lookback period" xml:space="preserve"><value>Lookback period</value></data>
+  <data name="10 minutes" xml:space="preserve"><value>10 分钟</value></data>
+  <data name="Dom alignment" xml:space="preserve"><value>Dom 校准</value></data>
+  <data name="Auto color" xml:space="preserve"><value>自动颜色</value></data>
+  <data name="Min. volume increase" xml:space="preserve"><value>分钟。体积增加</value></data>
+  <data name="Portfolio settings" xml:space="preserve"><value>组合设置</value></data>
+  <data name="Ini range" xml:space="preserve"><value>Ini range</value></data>
+  <data name="Import file" xml:space="preserve"><value>导入文件</value></data>
+  <data name="Dominant" xml:space="preserve"><value>主导</value></data>
+  <data name="Text based on delta" xml:space="preserve"><value>基于Delta的颜色</value></data>
+  <data name="New beta version is available, do you want to update?" xml:space="preserve"><value>新的测试版已经发布，您要更新吗？</value></data>
+  <data name="Calculation mode" xml:space="preserve"><value>计算模式</value></data>
+  <data name="Include all brokers" xml:space="preserve"><value>包含所有券商</value></data>
+  <data name="Fading color" xml:space="preserve"><value>Fading颜色</value></data>
+  <data name="Open color" xml:space="preserve"><value>开仓 颜色</value></data>
+  <data name="Cancel Buy" xml:space="preserve"><value>取消购买</value></data>
+  <data name="Cancel all" xml:space="preserve"><value>取消所有订单</value></data>
+  <data name="Trade analysis" xml:space="preserve"><value>交易分析</value></data>
+  <data name="Dom style" xml:space="preserve"><value>Dom 风格</value></data>
+  <data name="Extend to left" xml:space="preserve"><value>延长到左侧</value></data>
+  <data name="Delta imbalance" xml:space="preserve"><value>Delta失衡</value></data>
+  <data name="High session color" xml:space="preserve"><value>高会话颜色</value></data>
+  <data name="Zoom out" xml:space="preserve"><value>缩小</value></data>
+  <data name="Do you want to cancel the historical report for the trading account?" xml:space="preserve"><value>你要取消交易账户中的历史报告吗?</value></data>
+  <data name="Tick reversal/highest lowest" xml:space="preserve"><value>点数反转/最高-最低</value></data>
+  <data name="Short name" xml:space="preserve"><value>做空名称</value></data>
+  <data name="Minimum volume" xml:space="preserve"><value>最小成交量</value></data>
+  <data name="Crosshair window" xml:space="preserve"><value>十字准线窗口</value></data>
+  <data name="Enable order rejected" xml:space="preserve"><value>启动订单被拒绝</value></data>
+  <data name="Triggered zone" xml:space="preserve"><value>区域触发</value></data>
+  <data name="End filter" xml:space="preserve"><value>结束 筛选</value></data>
+  <data name="Vol. &gt;= filter" xml:space="preserve"><value>成交量. &gt;= 阈值</value></data>
+  <data name="Confirm" xml:space="preserve"><value>确认</value></data>
+  <data name="Connect" xml:space="preserve"><value>连接</value></data>
+  <data name="Exchange name" xml:space="preserve"><value>交易所名称</value></data>
+  <data name="Position windows" xml:space="preserve"><value>持仓窗口</value></data>
+  <data name="Num bar stop tgt" xml:space="preserve"><value>Num bar stop tgt</value></data>
+  <data name="Average settings" xml:space="preserve"><value>平均设置</value></data>
+  <data name="Max unfinished threshold" xml:space="preserve"><value>最大的UNfinished阈值</value></data>
+  <data name="Monthly analysis" xml:space="preserve"><value>按月分析</value></data>
+  <data name="Show retracement" xml:space="preserve"><value>显示价格回撤</value></data>
+  <data name="Alert sound is empty" xml:space="preserve"><value>警报声音缺失</value></data>
+  <data name="Acc balance" xml:space="preserve"><value>账户损益</value></data>
+  <data name="Micro levels settings" xml:space="preserve"><value>微观点位设置</value></data>
+  <data name="Multiple color" xml:space="preserve"><value>多种颜色</value></data>
+  <data name="Country" xml:space="preserve"><value>国家</value></data>
+  <data name="Hist. loading" xml:space="preserve"><value>Hist. loading</value></data>
+  <data name="September" xml:space="preserve"><value>9月</value></data>
+  <data name="Export chart" xml:space="preserve"><value>导出图表</value></data>
+  <data name="Plot settings" xml:space="preserve"><value>绘图设置</value></data>
+  <data name="Last enabled" xml:space="preserve"><value>Last enabled</value></data>
+  <data name="Weekly enabled" xml:space="preserve"><value>启动每周</value></data>
+  <data name="Untitled connection already exist" xml:space="preserve"><value>未命名的连接已经存在</value></data>
+  <data name="Medium color" xml:space="preserve"><value>Colore medio</value></data>
+  <data name="Platform could need a restart in order to save changes" xml:space="preserve"><value>交易软件需要重启应用设置改变</value></data>
+  <data name="Impossible to add two strategy with the same name" xml:space="preserve"><value>Impossible to add two strategy with the same name</value></data>
+  <data name="Tot qty" xml:space="preserve"><value>总成交手数</value></data>
+  <data name="Tot Vol" xml:space="preserve"><value>总音量</value></data>
+  <data name="Zig zag swing" xml:space="preserve"><value>Zig Zag swing</value></data>
+  <data name="Horizontal line" xml:space="preserve"><value>水平线</value></data>
+  <data name="Touched" xml:space="preserve"><value>感动</value></data>
+  <data name="Horizontal grid" xml:space="preserve"><value>Horizontal grid</value></data>
+  <data name="Alert settings" xml:space="preserve"><value>警报设置</value></data>
+  <data name="Ann param" xml:space="preserve"><value>注释参数</value></data>
+  <data name="Overview" xml:space="preserve"><value>概述</value></data>
+  <data name="Tick target" xml:space="preserve"><value>点数目标</value></data>
+  <data name="Duplicate chart" xml:space="preserve"><value>复制图表</value></data>
+  <data name="Name label" xml:space="preserve"><value>名称标签</value></data>
+  <data name="Candles" xml:space="preserve"><value>蜡烛</value></data>
+  <data name="Dom settings" xml:space="preserve"><value>Dom 设置</value></data>
+  <data name="Auto sort column" xml:space="preserve"><value>Auto std. dev</value></data>
+  <data name="Lagging span period" xml:space="preserve"><value>Lagging span period</value></data>
+  <data name="Enable close letter" xml:space="preserve"><value>启用关闭信</value></data>
+  <data name="Bid absorption" xml:space="preserve"><value>主动空单消耗</value></data>
+  <data name="Select Exchange" xml:space="preserve"><value>选择交易所</value></data>
+  <data name="Minimum tick range" xml:space="preserve"><value>最小Tick range</value></data>
+  <data name="Pending" xml:space="preserve"><value>待定</value></data>
+  <data name="Sell enter arrow color" xml:space="preserve"><value>卖出入场 箭头颜色</value></data>
+  <data name="Ask avg color" xml:space="preserve"><value>Ask back color</value></data>
+  <data name="Threshold" xml:space="preserve"><value>阈值</value></data>
+  <data name="Trading quantity" xml:space="preserve"><value>交易手数</value></data>
+  <data name="Imbalance minutes" xml:space="preserve"><value>不平衡分钟数</value></data>
+  <data name="Bid stack back color" xml:space="preserve"><value>多方加单 背景颜色</value></data>
+  <data name="Second supp color" xml:space="preserve"><value>第二支撑颜色</value></data>
+  <data name="Enable order filled" xml:space="preserve"><value>启动订单被成交</value></data>
+  <data name="Exit date" xml:space="preserve"><value>出口日期</value></data>
+  <data name="Exit name" xml:space="preserve"><value>出口名称</value></data>
+  <data name="Tick reversal" xml:space="preserve"><value>点数反转</value></data>
+  <data name="New version is available, do you want to update?" xml:space="preserve"><value>新版本已上线，您要更新吗？</value></data>
+  <data name="Selected contract" xml:space="preserve"><value>已选的合约</value></data>
+  <data name="Mid color" xml:space="preserve"><value>中色</value></data>
+  <data name="Second length" xml:space="preserve"><value>第二周期</value></data>
+  <data name="Include swing before mid trend" xml:space="preserve"><value>包含 swing before mid trend</value></data>
+  <data name="1 hour" xml:space="preserve"><value>1 小时</value></data>
+  <data name="Disconnecting user" xml:space="preserve"><value>断开用户连接</value></data>
+  <data name="Detached" xml:space="preserve"><value>独立</value></data>
+  <data name="Vbp settings" xml:space="preserve"><value>能量K线设置</value></data>
+  <data name="Trigger only touch" xml:space="preserve"><value>碰到价格触发</value></data>
+  <data name="Min delta" xml:space="preserve"><value>Min delta</value></data>
+  <data name="Are you sure to remove the following symbols?" xml:space="preserve"><value>你确定要删除以下产品代码吗?</value></data>
+  <data name="Fixed bid color" xml:space="preserve"><value>Fixed bid color</value></data>
+  <data name="Number of profile" xml:space="preserve"><value>个能量分布</value></data>
+  <data name="Wait time(m) after single loss" xml:space="preserve"><value>单次丢失后等待时间(m)</value></data>
+  <data name="Getting info from server" xml:space="preserve"><value>从服务器获取信息</value></data>
+  <data name="You must disable fixed space before" xml:space="preserve"><value>你必须取消之前固定空间</value></data>
+  <data name="Vol. &lt;= filter" xml:space="preserve"><value>成交量. &lt;= 阈值</value></data>
+  <data name="Min trade" xml:space="preserve"><value>最小交易</value></data>
+  <data name="Minimum bar passed" xml:space="preserve"><value>最小 bar passed</value></data>
+  <data name="Intensity" xml:space="preserve"><value>Intensity</value></data>
+  <data name="Max daily loss" xml:space="preserve"><value>最大当日亏损</value></data>
+  <data name="You must disable fixed margin before" xml:space="preserve"><value>你必须取消之前固定保证金</value></data>
+  <data name="First envelope" xml:space="preserve"><value>First envelope</value></data>
+  <data name="Exited up" xml:space="preserve"><value>退出</value></data>
+  <data name="Custom num of points" xml:space="preserve"><value>自定义点数</value></data>
+  <data name="Ini custom dt" xml:space="preserve"><value>Ini custom dt</value></data>
+  <data name="Limit color" xml:space="preserve"><value>Limit color</value></data>
+  <data name="Select symbols" xml:space="preserve"><value>已选的交易标的</value></data>
+  <data name="This is an old version of VolBook. Please download and install the new version" xml:space="preserve"><value>这是老版本的InsightBook，请下载最新版</value></data>
+  <data name="Enable filter 1" xml:space="preserve"><value>启动 筛选 1</value></data>
+  <data name="Enable filter 2" xml:space="preserve"><value>启动 筛选 2</value></data>
+  <data name="Language" xml:space="preserve"><value>语言</value></data>
+  <data name="Short name:" xml:space="preserve"><value>做空名称:</value></data>
+  <data name="Cancel order" xml:space="preserve"><value>取消订单</value></data>
+  <data name="Show absorption" xml:space="preserve"><value>显示订单消耗</value></data>
+  <data name="Entry price" xml:space="preserve"><value>开仓价格</value></data>
+  <data name="You have to select at least one monitor" xml:space="preserve"><value>你不得不选择至少一个显示器</value></data>
+  <data name="Wednesday" xml:space="preserve"><value>周三</value></data>
+  <data name="Second envelope" xml:space="preserve"><value>第二信封</value></data>
+  <data name="Param 2" xml:space="preserve"><value>参数 2</value></data>
+  <data name="Param 1" xml:space="preserve"><value>参数 1</value></data>
+  <data name="Background" xml:space="preserve"><value>背景</value></data>
+  <data name="10 seconds" xml:space="preserve"><value>10 秒</value></data>
+  <data name="Lower color" xml:space="preserve"><value>Lower color</value></data>
+  <data name="Param value" xml:space="preserve"><value>参数数值</value></data>
+  <data name="Bubble size" xml:space="preserve"><value>泡泡尺寸</value></data>
+  <data name="Bubble mode" xml:space="preserve"><value>泡泡模式</value></data>
+  <data name="Cell text size" xml:space="preserve"><value>Cell text size</value></data>
+  <data name="T&amp;s settings" xml:space="preserve"><value>逐笔账单窗口设置</value></data>
+  <data name="Filter capping mode" xml:space="preserve"><value>Filter capping mode</value></data>
+  <data name="Resolution settings" xml:space="preserve"><value>Resolutions设置</value></data>
+  <data name="Subgraph style:" xml:space="preserve"><value>附图风格:</value></data>
+  <data name="Resolutions" xml:space="preserve"><value>Resolutions</value></data>
+  <data name="Slowdown" xml:space="preserve"><value>减速</value></data>
+  <data name="Ask trades" xml:space="preserve"><value>主动成交</value></data>
+  <data name="Convert symbol to Amp" xml:space="preserve"><value>转换标的到AMP</value></data>
+  <data name="Enable book chart" xml:space="preserve"><value>启动 流动性分布图</value></data>
+  <data name="Classic" xml:space="preserve"><value>经典</value></data>
+  <data name="Std dev value" xml:space="preserve"><value>标准差数值</value></data>
+  <data name="Target qty not correspond" xml:space="preserve"><value>目标手数未对应</value></data>
+  <data name="Low back color" xml:space="preserve"><value>Low back color</value></data>
+  <data name="Trend up color" xml:space="preserve"><value>多头趋势颜色</value></data>
+  <data name="Multiple" xml:space="preserve"><value>多个</value></data>
+  <data name="Are you sure to switch to the expert mode?" xml:space="preserve"><value>您确定要切换到专家模式吗？</value></data>
+  <data name="Highlight window on filled" xml:space="preserve"><value>突出显示已填充的窗口</value></data>
+  <data name="Add sim account" xml:space="preserve"><value>添加模拟账号</value></data>
+  <data name="Duplicate dom" xml:space="preserve"><value>复制Dom</value></data>
+  <data name="Level settings" xml:space="preserve"><value>位置设置</value></data>
+  <data name="Plotting report" xml:space="preserve"><value>报告绘图</value></data>
+  <data name="Show message" xml:space="preserve"><value>显示弹窗</value></data>
+  <data name="Begin date" xml:space="preserve"><value>起始日期</value></data>
+  <data name="Stop ask color" xml:space="preserve"><value>突破买单 颜色</value></data>
+  <data name="Parallel gpu count" xml:space="preserve"><value>平行GPU </value></data>
+  <data name="Date/time" xml:space="preserve"><value>日期/时间</value></data>
+  <data name="Macro levels settings" xml:space="preserve"><value>宏观点位设置</value></data>
+  <data name="Tool configuration" xml:space="preserve"><value>工具设置</value></data>
+  <data name="Messaggio" xml:space="preserve"><value>Messaggio</value></data>
+  <data name="Default" xml:space="preserve"><value>默认设置</value></data>
+  <data name="Over sold level" xml:space="preserve"><value>超卖水平</value></data>
+  <data name="Secondary color" xml:space="preserve"><value>二级颜色</value></data>
+  <data name="Over sold color" xml:space="preserve"><value>超卖颜色</value></data>
+  <data name="Ini time" xml:space="preserve"><value>Ini time</value></data>
+  <data name="January" xml:space="preserve"><value>1月</value></data>
+  <data name="Drawing objects" xml:space="preserve"><value>画对象</value></data>
+  <data name="Saving workspace" xml:space="preserve"><value>保存图表夹</value></data>
+  <data name="Color settings" xml:space="preserve"><value>色彩设置</value></data>
+  <data name="Subscribe instrument" xml:space="preserve"><value>订阅产品</value></data>
+  <data name="Cell text color" xml:space="preserve"><value>Cell text color</value></data>
+  <data name="Outside color" xml:space="preserve"><value>外围颜色</value></data>
+  <data name="Book imbalance" xml:space="preserve"><value>Book imbalance</value></data>
+  <data name="Filter bid color" xml:space="preserve"><value>bid过滤颜色</value></data>
+  <data name="Price up color" xml:space="preserve"><value>价格上涨颜色</value></data>
+  <data name="Chart settings" xml:space="preserve"><value>图表设置</value></data>
+  <data name="Aggressive" xml:space="preserve"><value>主动订单</value></data>
+  <data name="End date" xml:space="preserve"><value>结束时期</value></data>
+  <data name="End time" xml:space="preserve"><value>结束时间</value></data>
+  <data name="Volume line color" xml:space="preserve"><value>成交量线段颜色</value></data>
+  <data name="Ticks per bar" xml:space="preserve"><value>柱状图Tick点数</value></data>
+  <data name="Building chart" xml:space="preserve"><value>建立图表</value></data>
+  <data name="Skip last" xml:space="preserve"><value>跳过最后一个</value></data>
+  <data name="First line style" xml:space="preserve"><value>First line style</value></data>
+  <data name="Fifth envelope" xml:space="preserve"><value>第五信封</value></data>
+  <data name="First line width" xml:space="preserve"><value>First line width</value></data>
+  <data name="Bid/ask column" xml:space="preserve"><value>多/空 栏</value></data>
+  <data name="Smooth value" xml:space="preserve"><value>平滑数值</value></data>
+  <data name="Enable zig zag swing" xml:space="preserve"><value>启动 Zig Zag swing</value></data>
+  <data name="Bars settings" xml:space="preserve"><value>Bars settings</value></data>
+  <data name="Stat mode" xml:space="preserve"><value>统计模式</value></data>
+  <data name="First line color" xml:space="preserve"><value>First line color</value></data>
+  <data name="Vbp opacity" xml:space="preserve"><value>能量K线不透明度</value></data>
+  <data name="Max extension" xml:space="preserve"><value>Max m s</value></data>
+  <data name="Pl column" xml:space="preserve"><value>PL栏</value></data>
+  <data name="Checking directory" xml:space="preserve"><value>检测目录</value></data>
+  <data name="Enable summary" xml:space="preserve"><value>启动总结</value></data>
+  <data name="Volume font color" xml:space="preserve"><value>成交量字体颜色</value></data>
+  <data name="Align label to right" xml:space="preserve"><value>显示注释靠右</value></data>
+  <data name="Auction enable" xml:space="preserve"><value>拍卖启动</value></data>
+  <data name="File seems not to be a template or it is corrupted" xml:space="preserve"><value>此文件并不是模板文件</value></data>
+  <data name="Do you want to save the current workspace?" xml:space="preserve"><value>你要保存现在的图表夹吗?</value></data>
+  <data name="Label general" xml:space="preserve"><value>Label general</value></data>
+  <data name="Dicember" xml:space="preserve"><value>12月</value></data>
+  <data name="First letter" xml:space="preserve"><value>第一封信</value></data>
+  <data name="First length" xml:space="preserve"><value>First length</value></data>
+  <data name="Europe start time" xml:space="preserve"><value>欧洲开始时间</value></data>
+  <data name="Move axis range" xml:space="preserve"><value>移动 axis range</value></data>
+  <data name="Use chart color for marker1" xml:space="preserve"><value>使用图表颜色标注1</value></data>
+  <data name="Zone interrupt mode" xml:space="preserve"><value>区域中断模式</value></data>
+  <data name="Indicator settings" xml:space="preserve"><value>指标设置</value></data>
+  <data name="Are you sure to roll the instrument? Volumes are still NOT rolled on next contract." xml:space="preserve"><value>你确定要换月？成交量显示此合约仍然是主力合约</value></data>
+  <data name="Select location" xml:space="preserve"><value>选择低点</value></data>
+  <data name="Trend down color" xml:space="preserve"><value>空头趋势颜色</value></data>
+  <data name="Data type" xml:space="preserve"><value>数据类型</value></data>
+  <data name="Data feed" xml:space="preserve"><value>数据源</value></data>
+  <data name="Long formatted" xml:space="preserve"><value>Long formatted</value></data>
+  <data name="Smart dom" xml:space="preserve"><value>市场深度DOM</value></data>
+  <data name="Pos. text color" xml:space="preserve"><value>持仓文字颜色</value></data>
+  <data name="Ask volume" xml:space="preserve"><value>主动多单成交量</value></data>
+  <data name="Enable order submitted" xml:space="preserve"><value>启动订单被提交</value></data>
+  <data name="Snap annotation" xml:space="preserve"><value>捕捉注释</value></data>
+  <data name="Bid marker color" xml:space="preserve"><value>Bid marker color</value></data>
+  <data name="Splitted" xml:space="preserve"><value>分拆</value></data>
+  <data name="Enable alert message" xml:space="preserve"><value>启动警报弹窗</value></data>
+  <data name="Fixed seconds" xml:space="preserve"><value>固定秒数</value></data>
+  <data name="Max ratio diff" xml:space="preserve"><value>Max ratio diff</value></data>
+  <data name="Diamond" xml:space="preserve"><value>菱形</value></data>
+  <data name="Sell stop" xml:space="preserve"><value>突破卖出</value></data>
+  <data name="Sell zone" xml:space="preserve"><value>销售区</value></data>
+  <data name="Symbol manage" xml:space="preserve"><value>管理交易标的</value></data>
+  <data name="H line enabled" xml:space="preserve"><value>H line enabled</value></data>
+  <data name="Num of days" xml:space="preserve"><value>几天</value></data>
+  <data name="Ask stack back color" xml:space="preserve"><value>空单加单背景颜色</value></data>
+  <data name="Book level always visible" xml:space="preserve"><value>Book level always visible</value></data>
+  <data name="Crossed" xml:space="preserve"><value>交叉</value></data>
+  <data name="Usa session" xml:space="preserve"><value>美国时段</value></data>
+  <data name="Developing vwap" xml:space="preserve"><value>发展中VWAP</value></data>
+  <data name="Bid font" xml:space="preserve"><value>Bid font</value></data>
+  <data name="Bid text" xml:space="preserve"><value>Bid text</value></data>
+  <data name="Contract name" xml:space="preserve"><value>合约名称</value></data>
+  <data name="% avg. trade color" xml:space="preserve"><value>% avg. trade color</value></data>
+  <data name="Condition settings" xml:space="preserve"><value>条件设置</value></data>
+  <data name="Envelope enabled" xml:space="preserve"><value>信封开启</value></data>
+  <data name="Default quantity" xml:space="preserve"><value>默认手数</value></data>
+  <data name="Replay tick data" xml:space="preserve"><value>回放Tick数据</value></data>
+  <data name="Liquidity stacked" xml:space="preserve"><value>流动性堆积</value></data>
+  <data name="Stop qty correspond" xml:space="preserve"><value>突破单手数已对应</value></data>
+  <data name="Book imbalance settings" xml:space="preserve"><value>账簿不平衡设置</value></data>
+  <data name="Configurations" xml:space="preserve"><value>配置</value></data>
+  <data name="Fresh color" xml:space="preserve"><value>颜色清新</value></data>
+  <data name="Line color" xml:space="preserve"><value>线颜色</value></data>
+  <data name="Sell color" xml:space="preserve"><value>卖出 颜色</value></data>
+  <data name="Zig zag tick rev./highest lowest" xml:space="preserve"><value>Zig zag rev tick/max-min</value></data>
+  <data name="Set tick grouping" xml:space="preserve"><value>设置tick grouping</value></data>
+  <data name="Subgraphs" xml:space="preserve"><value>附图</value></data>
+  <data name="Sell limit" xml:space="preserve"><value>限价卖出</value></data>
+  <data name="Sell order" xml:space="preserve"><value>卖出订单</value></data>
+  <data name="Clear recent filled" xml:space="preserve"><value>清除最近成交记录</value></data>
+  <data name="Line style" xml:space="preserve"><value>线类型</value></data>
+  <data name="Auct. P." xml:space="preserve"><value>Auct. P.</value></data>
+  <data name="Line width" xml:space="preserve"><value>线粗细</value></data>
+  <data name="Country filter" xml:space="preserve"><value>国家筛选</value></data>
+  <data name="Color mode" xml:space="preserve"><value>颜色模式</value></data>
+  <data name="Color down" xml:space="preserve"><value>下跌 颜色</value></data>
+  <data name="Body opacity" xml:space="preserve"><value>Body opacity</value></data>
+  <data name="First line" xml:space="preserve"><value>First line</value></data>
+  <data name="Download" xml:space="preserve"><value>下载</value></data>
+  <data name="Daily Net" xml:space="preserve"><value>每日网</value></data>
+  <data name="Min diagonal comparison" xml:space="preserve"><value>Min diagonal comparison</value></data>
+  <data name="Down bar" xml:space="preserve"><value>下跌柱状图</value></data>
+  <data name="Record type" xml:space="preserve"><value>录制类型</value></data>
+  <data name="Pointer" xml:space="preserve"><value>指针</value></data>
+  <data name="Highlight" xml:space="preserve"><value>高亮</value></data>
+  <data name="Enables" xml:space="preserve"><value>开启多个</value></data>
+  <data name="颜色" xml:space="preserve"><value>颜色</value></data>
+  <data name="Positive color" xml:space="preserve"><value>正 颜色</value></data>
+  <data name="No" xml:space="preserve"><value>否</value></data>
+  <data name="Ok" xml:space="preserve"><value>好的</value></data>
+  <data name="Up" xml:space="preserve"><value>上</value></data>
+  <data name="Calculation based on seconds" xml:space="preserve"><value>按秒计算</value></data>
+  <data name="Vertical dom" xml:space="preserve"><value>垂直dom</value></data>
+  <data name="Localization" xml:space="preserve"><value>Localization</value></data>
+  <data name="Bid pull back color" xml:space="preserve"><value>多方撤单 背景颜色</value></data>
+  <data name="Resettable profile" xml:space="preserve"><value>可重置能量分布</value></data>
+  <data name="Loss text color" xml:space="preserve"><value>Loss text color</value></data>
+  <data name="Price projection" xml:space="preserve"><value>价格投影</value></data>
+  <data name="Min tick distr" xml:space="preserve"><value>Min tick distr</value></data>
+  <data name="Minimum quantity" xml:space="preserve"><value>最小用量</value></data>
+  <data name="Minimum size" xml:space="preserve"><value>最小 Size</value></data>
+  <data name="Hours to load" xml:space="preserve"><value>加载小时</value></data>
+  <data name="Show important levels" xml:space="preserve"><value>显示重要点位</value></data>
+  <data name="Acceleration" xml:space="preserve"><value>加速</value></data>
+  <data name="Multiple profile" xml:space="preserve"><value>多个能量分布</value></data>
+  <data name="Method color" xml:space="preserve"><value>模式颜色</value></data>
+  <data name="3 minutes" xml:space="preserve"><value>3 分钟</value></data>
+  <data name="Show elements" xml:space="preserve"><value>显示元素</value></data>
+  <data name="Pull/stack column" xml:space="preserve"><value>加单/撤单 栏</value></data>
+  <data name="Hourly analysis" xml:space="preserve"><value>小时分析</value></data>
+  <data name="Please select symbols before" xml:space="preserve"><value>请选择交易标的前</value></data>
+  <data name="Point of control" xml:space="preserve"><value>POC (控制点)</value></data>
+  <data name="Partial drawdown" xml:space="preserve"><value>部分回撤</value></data>
+  <data name="Max. num. of trades" xml:space="preserve"><value>最大交易次数</value></data>
+  <data name="% var" xml:space="preserve"><value>% var.</value></data>
+  <data name="Extended" xml:space="preserve"><value>延长了</value></data>
+  <data name="Custom period" xml:space="preserve"><value>自定义周期</value></data>
+  <data name="Percentual period" xml:space="preserve"><value>% 周期</value></data>
+  <data name="October" xml:space="preserve"><value>10月</value></data>
+  <data name="Bid back color" xml:space="preserve"><value>Bid back color</value></data>
+  <data name="License key" xml:space="preserve"><value>软件激活码</value></data>
+  <data name="Volume/delta" xml:space="preserve"><value>成交量/Delta</value></data>
+  <data name="Market depth (high performance)" xml:space="preserve"><value>市场深度（高性能）</value></data>
+  <data name="Show candle" xml:space="preserve"><value>显示K线</value></data>
+  <data name="Minimum tot volume" xml:space="preserve"><value>最小总成交量</value></data>
+  <data name="Display order" xml:space="preserve"><value>显示订单</value></data>
+  <data name="End range" xml:space="preserve"><value>结束range</value></data>
+  <data name="% avg. institutional color" xml:space="preserve"><value>% avg. institutional color</value></data>
+  <data name="Display param" xml:space="preserve"><value>显示参数</value></data>
+  <data name="Db folder" xml:space="preserve"><value>Db 文件夹</value></data>
+  <data name="Show vertical line on close" xml:space="preserve"><value>显示 收盘价垂直线</value></data>
+  <data name="Rebuild chart" xml:space="preserve"><value>重建图表</value></data>
+  <data name="Fourth color:" xml:space="preserve"><value>第四颜色:</value></data>
+  <data name="Bid column color" xml:space="preserve"><value>Bid column color</value></data>
+  <data name="Trr symbols" xml:space="preserve"><value>TRR 交易标的</value></data>
+  <data name="Buy limit color" xml:space="preserve"><value>限价多单颜色</value></data>
+  <data name="Select start date" xml:space="preserve"><value>选择开始日期</value></data>
+  <data name="Stop settings" xml:space="preserve"><value>突破单设置</value></data>
+  <data name="Daily meetings" xml:space="preserve"><value>每日直播</value></data>
+  <data name="Minimum number bar" xml:space="preserve"><value>最小number bar</value></data>
+  <data name="Show marker background" xml:space="preserve"><value>显示标注背景色</value></data>
+  <data name="Split type" xml:space="preserve"><value>分拆类型</value></data>
+  <data name="Buy enter arrow color" xml:space="preserve"><value>Buy enter arrow color</value></data>
+  <data name="Sell internal color" xml:space="preserve"><value>内部卖出颜色</value></data>
+  <data name="Liquidity contrast" xml:space="preserve"><value>流动性分布图对比度</value></data>
+  <data name="Dominant volume" xml:space="preserve"><value>主导音量</value></data>
+  <data name="Trade up color" xml:space="preserve"><value>Trade up color</value></data>
+  <data name="Window settings" xml:space="preserve"><value>窗口设置</value></data>
+  <data name="Conservative" xml:space="preserve"><value>保守</value></data>
+  <data name="Show CVD" xml:space="preserve"><value>显示 CVD</value></data>
+  <data name="Show log" xml:space="preserve"><value>显示 Log</value></data>
+  <data name="Show all" xml:space="preserve"><value>显示所有</value></data>
+  <data name="Show t s" xml:space="preserve"><value>显示 逐笔订单</value></data>
+  <data name="Show sum" xml:space="preserve"><value>显示总览</value></data>
+  <data name="Show 75%" xml:space="preserve"><value>显示 75%</value></data>
+  <data name="Show 50%" xml:space="preserve"><value>显示 50%</value></data>
+  <data name="Simulate feed" xml:space="preserve"><value>模拟数据</value></data>
+  <data name="Add" xml:space="preserve"><value>添加</value></data>
+  <data name="All" xml:space="preserve"><value>所有</value></data>
+  <data name="Avg" xml:space="preserve"><value>平均</value></data>
+  <data name="Day" xml:space="preserve"><value>日</value></data>
+  <data name="Dot" xml:space="preserve"><value>点</value></data>
+  <data name="May" xml:space="preserve"><value>5月</value></data>
+  <data name="Bar" xml:space="preserve"><value>柱状图</value></data>
+  <data name="Buy" xml:space="preserve"><value>买</value></data>
+  <data name="New" xml:space="preserve"><value>新建</value></data>
+  <data name="Oco" xml:space="preserve"><value>OCO</value></data>
+  <data name="Log" xml:space="preserve"><value>Log</value></data>
+  <data name="Low" xml:space="preserve"><value>Low</value></data>
+  <data name="Qty" xml:space="preserve"><value>手数</value></data>
+  <data name="Set" xml:space="preserve"><value>设置</value></data>
+  <data name="Poc" xml:space="preserve"><value>Poc</value></data>
+  <data name="Yes" xml:space="preserve"><value>是</value></data>
+  <data name="Enable adv TS" xml:space="preserve"><value>启动高级逐笔订单窗口</value></data>
+  <data name="Volume summary" xml:space="preserve"><value>成交量总览</value></data>
+  <data name="Entry" xml:space="preserve"><value>入口</value></data>
+  <data name="Error" xml:space="preserve"><value>报错</value></data>
+  <data name="Nome label" xml:space="preserve"><value>名称标签</value></data>
+  <data name="Ann 1" xml:space="preserve"><value>注释. 1</value></data>
+  <data name="Ann 2" xml:space="preserve"><value>注释. 2</value></data>
+  <data name="Alert" xml:space="preserve"><value>警报</value></data>
+  <data name="Apply" xml:space="preserve"><value>应用</value></data>
+  <data name="April" xml:space="preserve"><value>4月</value></data>
+  <data name="Fixed" xml:space="preserve"><value>固定的</value></data>
+  <data name="Daily" xml:space="preserve"><value>日线</value></data>
+  <data name="Delta" xml:space="preserve"><value>Delta</value></data>
+  <data name="Month" xml:space="preserve"><value>月</value></data>
+  <data name="March" xml:space="preserve"><value>3月</value></data>
+  <data name="Target qty correspond" xml:space="preserve"><value>目标手数已对应</value></data>
+  <data name="Btn 5" xml:space="preserve"><value>按键 5</value></data>
+  <data name="Btn 4" xml:space="preserve"><value>按键 4</value></data>
+  <data name="Btn 6" xml:space="preserve"><value>按键 6</value></data>
+  <data name="Btn 1" xml:space="preserve"><value>按键 1</value></data>
+  <data name="Btn 3" xml:space="preserve"><value>按键 3</value></data>
+  <data name="Btn 2" xml:space="preserve"><value>按键 2</value></data>
+  <data name="Color" xml:space="preserve"><value>颜色</value></data>
+  <data name="Std. dev val" xml:space="preserve"><value>标准差 数值</value></data>
+  <data name="Close" xml:space="preserve"><value>关闭</value></data>
+  <data name="Chart" xml:space="preserve"><value>图表</value></data>
+  <data name="Italy" xml:space="preserve"><value>意大利</value></data>
+  <data name="Name:" xml:space="preserve"><value>姓名：</value></data>
+  <data name="Maximum % difference" xml:space="preserve"><value>Maximum % difference</value></data>
+  <data name="Order" xml:space="preserve"><value>订单</value></data>
+  <data name="Limit" xml:space="preserve"><value>Limit</value></data>
+  <data name="Label" xml:space="preserve"><value>标签</value></data>
+  <data name="Load:" xml:space="preserve"><value>加载:</value></data>
+  <data name="Level" xml:space="preserve"><value>等级</value></data>
+  <data name="Value" xml:space="preserve"><value>价值</value></data>
+  <data name="Voice" xml:space="preserve"><value>嗓音</value></data>
+  <data name="Weeks" xml:space="preserve"><value>周</value></data>
+  <data name="Width" xml:space="preserve"><value>宽度</value></data>
+  <data name="Trade" xml:space="preserve"><value>交易</value></data>
+  <data name="Title" xml:space="preserve"><value>标题</value></data>
+  <data name="Ticks" xml:space="preserve"><value>点数</value></data>
+  <data name="Third" xml:space="preserve"><value>第三</value></data>
+  <data name="Theme" xml:space="preserve"><value>主题</value></data>
+  <data name="Total" xml:space="preserve"><value>总的</value></data>
+  <data name="Ruler" xml:space="preserve"><value>尺</value></data>
+  <data name="Runup" xml:space="preserve"><value>助跑</value></data>
+  <data name="Reset" xml:space="preserve"><value>重置</value></data>
+  <data name="Renko" xml:space="preserve"><value>Renko</value></data>
+  <data name="Ratio" xml:space="preserve"><value>比率</value></data>
+  <data name="Range" xml:space="preserve"><value>Range</value></data>
+  <data name="Right" xml:space="preserve"><value>右侧</value></data>
+  <data name="Susp." xml:space="preserve"><value>悬念。</value></data>
+  <data name="Start" xml:space="preserve"><value>开始</value></data>
+  <data name="Style" xml:space="preserve"><value>风格</value></data>
+  <data name="Speed" xml:space="preserve"><value>速度</value></data>
+  <data name="Solid" xml:space="preserve"><value>solide</value></data>
+  <data name="Save:" xml:space="preserve"><value>保存:</value></data>
+  <data name="PL: 0" xml:space="preserve"><value>PL: 0</value></data>
+  <data name="Slope" xml:space="preserve"><value>斜率</value></data>
+  <data name="Short" xml:space="preserve"><value>做空</value></data>
+  <data name="Price" xml:space="preserve"><value>价格</value></data>
+  <data name="Peak and valley" xml:space="preserve"><value>波峰和波谷</value></data>
+  <data name="Pause" xml:space="preserve"><value>暂停</value></data>
+  <data name="Param" xml:space="preserve"><value>参数</value></data>
+  <data name="Show above bars" xml:space="preserve"><value>显示在柱状图上方</value></data>
+  <data name="Third res color" xml:space="preserve"><value>第三 阻力颜色</value></data>
+  <data name="PL loss font color" xml:space="preserve"><value>PL亏损字体颜色</value></data>
+  <data name="Selected broker" xml:space="preserve"><value>已选的券商</value></data>
+  <data name="Entry date" xml:space="preserve"><value>开仓时间</value></data>
+  <data name="Entry name" xml:space="preserve"><value>开仓名称</value></data>
+  <data name="Tool config" xml:space="preserve"><value>工具设置</value></data>
+  <data name="Vol cluster" xml:space="preserve"><value>成交量群组</value></data>
+  <data name="Exit price" xml:space="preserve"><value>出口价格</value></data>
+  <data name="Volumetrica trading events" xml:space="preserve"><value>Insightrader 微观交易直播活动</value></data>
+  <data name="Zig zag % reverse" xml:space="preserve"><value>Zig zag % 反转</value></data>
+  <data name="Need rollover" xml:space="preserve"><value>需要展期</value></data>
+  <data name="Entry DT" xml:space="preserve"><value>开仓DT</value></data>
+  <data name="Max Contracts" xml:space="preserve"><value>最大合约数</value></data>
+  <data name="All Ticks" xml:space="preserve"><value>所有蜱虫</value></data>
+  <data name="Current offset" xml:space="preserve"><value>当前 offset</value></data>
+  <data name="Back opacity" xml:space="preserve"><value>背不透明度</value></data>
+  <data name="Custom time session (exchange time zone)" xml:space="preserve"><value>自定义交易时间段</value></data>
+  <data name="Alert trading" xml:space="preserve"><value>交易警报</value></data>
+  <data name="Please enter a name" xml:space="preserve"><value>请输入名称</value></data>
+  <data name="Pos. delta volume" xml:space="preserve"><value>持仓delta成交量</value></data>
+  <data name="Selection" xml:space="preserve"><value>选择</value></data>
+  <data name="Show orders" xml:space="preserve"><value>显示订单</value></data>
+  <data name="Alert iceberg" xml:space="preserve"><value>冰山单警报</value></data>
+  <data name="Please not use | char" xml:space="preserve"><value>请不要使用</value></data>
+  <data name="Resistance color" xml:space="preserve"><value>阻力颜色</value></data>
+  <data name="PointFigure" xml:space="preserve"><value>点图</value></data>
+  <data name="Submitted" xml:space="preserve"><value>提交</value></data>
+  <data name="Volume color" xml:space="preserve"><value>成交量颜色</value></data>
+  <data name="Expert mode" xml:space="preserve"><value>专业级</value></data>
+  <data name="Last bar" xml:space="preserve"><value>Last bar</value></data>
+  <data name="Please fill all fields" xml:space="preserve"><value>请填写所有字段</value></data>
+  <data name="Support line color" xml:space="preserve"><value>支撑线颜色</value></data>
+  <data name="Calendar settings" xml:space="preserve"><value>财经日历设置</value></data>
+  <data name="Always on top" xml:space="preserve"><value>在其他窗口上方</value></data>
+  <data name="Suspension color" xml:space="preserve"><value>暂停颜色</value></data>
+  <data name="Support line width" xml:space="preserve"><value>支撑线宽度</value></data>
+  <data name="Volume slope" xml:space="preserve"><value>体积斜率</value></data>
+  <data name="Price font color" xml:space="preserve"><value>价格字体颜色</value></data>
+  <data name="Support line style" xml:space="preserve"><value>支撑线风格</value></data>
+  <data name="Signal performance" xml:space="preserve"><value>信号表现</value></data>
+  <data name="Delta range" xml:space="preserve"><value>Delta range</value></data>
+  <data name="Chart area" xml:space="preserve"><value>图表区域</value></data>
+  <data name="Adv. ts" xml:space="preserve"><value>逐笔订单 TS</value></data>
+  <data name="Chart type" xml:space="preserve"><value>图表样式</value></data>
+  <data name="Delta input" xml:space="preserve"><value>Delta 输入</value></data>
+  <data name="Stop type" xml:space="preserve"><value>突破单类型</value></data>
+  <data name="Stop loss" xml:space="preserve"><value>止损</value></data>
+  <data name="Type qty" xml:space="preserve"><value>类别手数</value></data>
+  <data name="Header settings" xml:space="preserve"><value>标题设置</value></data>
+  <data name="Delta color" xml:space="preserve"><value>Delta颜色</value></data>
+  <data name="Enable marker" xml:space="preserve"><value>启动标记</value></data>
+  <data name="Iceberg on ask color" xml:space="preserve"><value>iceberg冰山单在卖价颜色</value></data>
+  <data name="Account" xml:space="preserve"><value>账户</value></data>
+  <data name="Add Alert" xml:space="preserve"><value>添加警报</value></data>
+  <data name="Annotation settings" xml:space="preserve"><value>注释设置</value></data>
+  <data name="Opacity based on ratio" xml:space="preserve"><value>不透明比率</value></data>
+  <data name="Trigger whole bar" xml:space="preserve"><value>整个Bar符合触发</value></data>
+  <data name="PropDialog" xml:space="preserve"><value>道具对话框</value></data>
+  <data name="Quantity" xml:space="preserve"><value>手数</value></data>
+  <data name="Show price marker" xml:space="preserve"><value>显示价格标注</value></data>
+  <data name="Syntethic color" xml:space="preserve"><value>合成 颜色</value></data>
+  <data name="Opacity poc grouping" xml:space="preserve"><value>不透明的POC 群组</value></data>
+  <data name="Check bar" xml:space="preserve"><value>检测柱状图</value></data>
+  <data name="Sell background" xml:space="preserve"><value>卖出 背景</value></data>
+  <data name="About us" xml:space="preserve"><value>关于我们</value></data>
+  <data name="Order commission" xml:space="preserve"><value>订单手续费</value></data>
+  <data name="Entry qty" xml:space="preserve"><value>入境数量</value></data>
+  <data name="Send order" xml:space="preserve"><value>发送订单</value></data>
+  <data name="Do you want to update symbol settings?\r\nPlease skip this message if you have added custom symbols" xml:space="preserve"><value>你要升级现在的产品代码设置吗？\r\n如果你增加了自定义产品代码请跳过</value></data>
+  <data name="Show OCO Panel" xml:space="preserve"><value>显示 OCO 面板</value></data>
+  <data name="First res color" xml:space="preserve"><value>First res color</value></data>
+  <data name="Pending color" xml:space="preserve"><value>待定 颜色</value></data>
+  <data name="Color up" xml:space="preserve"><value>上涨颜色</value></data>
+  <data name="Color 0%" xml:space="preserve"><value>颜色 0%</value></data>
+  <data name="Maximum lateral number bar" xml:space="preserve"><value>Maximum lateral number bar</value></data>
+  <data name="Visual mode" xml:space="preserve"><value>视觉模式</value></data>
+  <data name="Horizontal" xml:space="preserve"><value>水平的</value></data>
+  <data name="Use chart's color for marker" xml:space="preserve"><value>使用图表颜色标注</value></data>
+  <data name="Downloading data" xml:space="preserve"><value>下载数据</value></data>
+  <data name="Vertical line" xml:space="preserve"><value>垂直线</value></data>
+  <data name="Sell stop limit color" xml:space="preserve"><value>突破限价卖出颜色</value></data>
+  <data name="Select a connection" xml:space="preserve"><value>选择一个连接</value></data>
+  <data name="Order type" xml:space="preserve"><value>订单类型</value></data>
+  <data name="Current resolution" xml:space="preserve"><value>当前决议</value></data>
+  <data name="Bar grouping" xml:space="preserve"><value>Bar grouping</value></data>
+  <data name="Verifying license key" xml:space="preserve"><value>验证激活码</value></data>
+  <data name="Set width vbp" xml:space="preserve"><value>设置能量分布宽度</value></data>
+  <data name="Rectangle" xml:space="preserve"><value>矩形</value></data>
+  <data name="Combined" xml:space="preserve"><value>合并</value></data>
+  <data name="Low imbalance color" xml:space="preserve"><value>低不平衡色彩</value></data>
+  <data name="Min. num. of consecutive zero" xml:space="preserve"><value>Min. num. of consecutive zero</value></data>
+  <data name="Min. num. of consecutive imb." xml:space="preserve"><value>Min. num. of consecutive imb.</value></data>
+  <data name="Enable retracement" xml:space="preserve"><value>启动回撤线</value></data>
+  <data name="Lenth type" xml:space="preserve"><value>Lenth type</value></data>
+  <data name="Nor color" xml:space="preserve"><value>正常颜色</value></data>
+  <data name="Max tick" xml:space="preserve"><value>Max tick</value></data>
+  <data name="Max loss" xml:space="preserve"><value>最大损失</value></data>
+  <data name="Loading data for replay" xml:space="preserve"><value>加载数据并回放</value></data>
+  <data name="Close all workspaces before" xml:space="preserve"><value>关闭所有图表夹</value></data>
+  <data name="All formatted" xml:space="preserve"><value>全部格式化</value></data>
+  <data name="Exclude peak/valley high/low" xml:space="preserve"><value>剔除波峰/波谷 高/低</value></data>
+  <data name="Reset at start session" xml:space="preserve"><value>重置起始交易时段</value></data>
+  <data name="Second vbp" xml:space="preserve"><value>第二能量分布</value></data>
+  <data name="Reset on start day" xml:space="preserve"><value>重置起始日</value></data>
+  <data name="Step mode" xml:space="preserve"><value>步进模式</value></data>
+  <data name="Correlation properties" xml:space="preserve"><value>相关性设置</value></data>
+  <data name="Adjust scale with dom" xml:space="preserve"><value>调整DOM比例</value></data>
+  <data name="Volume ask color" xml:space="preserve"><value>成交量询问颜色</value></data>
+  <data name="Selected symbols" xml:space="preserve"><value>选择的交易标的</value></data>
+  <data name="Link number" xml:space="preserve"><value>图表联动代码</value></data>
+  <data name="Spread mode" xml:space="preserve"><value>套利模式</value></data>
+  <data name="Reading report from file" xml:space="preserve"><value>读取文件里的报告</value></data>
+  <data name="Feed settings" xml:space="preserve"><value>数据设置</value></data>
+  <data name="Save settings" xml:space="preserve"><value>保存设置</value></data>
+  <data name="Std. dev. param" xml:space="preserve"><value>标准差参数</value></data>
+  <data name="Price scale enabled" xml:space="preserve"><value>启动价格比例</value></data>
+  <data name="Exit qty" xml:space="preserve"><value>退出数量</value></data>
+  <data name="Show marker" xml:space="preserve"><value>显示标注</value></data>
+  <data name="Min delta pres" xml:space="preserve"><value>Min delta pres</value></data>
+  <data name="Background opacity" xml:space="preserve"><value>背景透明度</value></data>
+  <data name="Candle settings" xml:space="preserve"><value>K线设置</value></data>
+  <data name="Standard mode" xml:space="preserve"><value>标准模式</value></data>
+  <data name="Standard dev." xml:space="preserve"><value>标准差</value></data>
+  <data name="Liq. tracker settings" xml:space="preserve"><value>流动性捕捉设置</value></data>
+  <data name="Header text size" xml:space="preserve"><value>标题文字大小</value></data>
+  <data name="February" xml:space="preserve"><value>2月</value></data>
+  <data name="Marker bid absorption" xml:space="preserve"><value>标注订单在Bid消耗</value></data>
+  <data name="Price action color" xml:space="preserve"><value>价格行为颜色</value></data>
+  <data name="Envelope settings" xml:space="preserve"><value>信封设置</value></data>
+  <data name="Color bid" xml:space="preserve"><value>bid 颜色</value></data>
+  <data name="Color ask" xml:space="preserve"><value>ask 颜色</value></data>
+  <data name="Color 50%" xml:space="preserve"><value>颜色 50%</value></data>
+  <data name="Resistence line color" xml:space="preserve"><value>阻力线颜色</value></data>
+  <data name="Shift poc" xml:space="preserve"><value>移动poc</value></data>
+  <data name="Width type" xml:space="preserve"><value>宽度类别</value></data>
+  <data name="Default crosshair" xml:space="preserve"><value>默认十字线</value></data>
+  <data name="Show book speed" xml:space="preserve"><value>显示Insightbook 速度</value></data>
+  <data name="Exit DT" xml:space="preserve"><value>退出DT</value></data>
+  <data name="Fixed line color" xml:space="preserve"><value>固定线颜色</value></data>
+  <data name="Include equal" xml:space="preserve"><value>包含等于</value></data>
+  <data name="All-in-one color" xml:space="preserve"><value>一体化颜色</value></data>
+  <data name="Ask font color" xml:space="preserve"><value>空单字体颜色</value></data>
+  <data name="Enable header" xml:space="preserve"><value>启动 标题</value></data>
+  <data name="Previous offset" xml:space="preserve"><value>前一个 抵消</value></data>
+  <data name="Import annotations" xml:space="preserve"><value>导入注释</value></data>
+  <data name="Tick offset" xml:space="preserve"><value>点数抵消</value></data>
+  <data name="Gap mode" xml:space="preserve"><value>跳空模式</value></data>
+  <data name="Buy zone" xml:space="preserve"><value>购买专区</value></data>
+  <data name="Buy stop" xml:space="preserve"><value>市价突破多单</value></data>
+  <data name="Remove line on shadow triggered" xml:space="preserve"><value>移除阴影triggerd线</value></data>
+  <data name="Alert name:" xml:space="preserve"><value>警报名称:</value></data>
+  <data name="Show order ID" xml:space="preserve"><value>显示订单 ID</value></data>
+  <data name="Visual style" xml:space="preserve"><value>视觉风格</value></data>
+  <data name="Bid color" xml:space="preserve"><value>Bid color</value></data>
+  <data name="Number of bar" xml:space="preserve"><value>个柱状图</value></data>
+  <data name="Crosshair" xml:space="preserve"><value>十字准线</value></data>
+  <data name="Bid alert" xml:space="preserve"><value>Bid alert</value></data>
+  <data name="Alert sound" xml:space="preserve"><value>警报声音</value></data>
+  <data name="Various" xml:space="preserve"><value>多样的</value></data>
+  <data name="Sell trig color" xml:space="preserve"><value>卖出trig 颜色</value></data>
+  <data name="Enable offers" xml:space="preserve"><value>启动offers</value></data>
+  <data name="Message text" xml:space="preserve"><value>文字弹窗</value></data>
+  <data name="Extimated color" xml:space="preserve"><value>估计的颜色</value></data>
+  <data name="Price settings" xml:space="preserve"><value>价格设置</value></data>
+  <data name="Right bars" xml:space="preserve"><value>右侧柱状图</value></data>
+  <data name="Appearance" xml:space="preserve"><value>外观</value></data>
+  <data name="Yearly analysis" xml:space="preserve"><value>按年分析</value></data>
+  <data name="Front Tick" xml:space="preserve"><value>前勾号</value></data>
+  <data name="Always on top works only on detached window&quot;" xml:space="preserve"><value>总是在最前方</value></data>
+  <data name="Fourth res color" xml:space="preserve"><value>Fourth res color</value></data>
+  <data name="Delta input data" xml:space="preserve"><value>Delta 输入值</value></data>
+  <data name="Set number of tick grouping" xml:space="preserve"><value>设置多个tick grouping</value></data>
+  <data name="Space from medium" xml:space="preserve"><value>Space from medium</value></data>
+  <data name="45 minutes" xml:space="preserve"><value>45 分钟</value></data>
+  <data name="Show calendar" xml:space="preserve"><value>显示财经日历</value></data>
+  <data name="Show volume" xml:space="preserve"><value>显示 成交量</value></data>
+  <data name="Minimum stacked" xml:space="preserve"><value>最小堆叠</value></data>
+  <data name="Based trend" xml:space="preserve"><value>基础趋势</value></data>
+  <data name="Settings" xml:space="preserve"><value>设置</value></data>
+  <data name="Column order" xml:space="preserve"><value>订单栏</value></data>
+  <data name="Stop bid color" xml:space="preserve"><value>突破卖单 颜色</value></data>
+  <data name="Calculating report" xml:space="preserve"><value>计算报告</value></data>
+  <data name="Tpo opacity" xml:space="preserve"><value>TPO不透明度</value></data>
+  <data name="There is no scheduled meetings today" xml:space="preserve"><value>今天没有直播安排</value></data>
+  <data name="End time session" xml:space="preserve"><value>结束时段</value></data>
+  <data name="Based delta" xml:space="preserve"><value>Delta基础</value></data>
+  <data name="Cancel and Flat Position" xml:space="preserve"><value>取消和平仓</value></data>
+  <data name="Day of month" xml:space="preserve"><value>每月的第几天</value></data>
+  <data name="PL profit font color" xml:space="preserve"><value>PL盈利字体颜色</value></data>
+  <data name="Enable text" xml:space="preserve"><value>启动文字</value></data>
+  <data name="Rename TS" xml:space="preserve"><value>重命名逐笔订单TS</value></data>
+  <data name="Are you sure to quit?" xml:space="preserve"><value>你确定要退出软件吗?</value></data>
+  <data name="Background color" xml:space="preserve"><value>背景颜色</value></data>
+  <data name="Bar style" xml:space="preserve"><value>柱状图风格</value></data>
+  <data name="Show end retracement" xml:space="preserve"><value>显示end回撤线</value></data>
+  <data name="Absolute % of rev. for zig zag swing" xml:space="preserve"><value>Absolute % of rev. for zig zag swing</value></data>
+  <data name="Macro levels enable" xml:space="preserve"><value>启动宏观点位</value></data>
+  <data name="Calculate on close" xml:space="preserve"><value>更具收盘价计算</value></data>
+  <data name="Connection log" xml:space="preserve"><value>连接LOG</value></data>
+  <data name="Absolute % of rev. for zig zag trend" xml:space="preserve"><value>Absolute % of rev. for zig zag trend</value></data>
+  <data name="Bar based" xml:space="preserve"><value>Bar based</value></data>
+  <data name="Bar input" xml:space="preserve"><value>Bar input</value></data>
+  <data name="Ask marker color" xml:space="preserve"><value>Ask marker color</value></data>
+  <data name="Drawdown Intraday" xml:space="preserve"><value>盘中回撤</value></data>
+  <data name="Show trading panel" xml:space="preserve"><value>显示下单器</value></data>
+  <data name="Point width" xml:space="preserve"><value>指针宽度</value></data>
+  <data name="Vwap color" xml:space="preserve"><value>VWAP 颜色</value></data>
+  <data name="Symbols rollover" xml:space="preserve"><value>交易标的展期</value></data>
+  <data name="Min num trade" xml:space="preserve"><value>Min num trade</value></data>
+  <data name="Ord. id" xml:space="preserve"><value>订单ID</value></data>
+  <data name="Ord i d" xml:space="preserve"><value>订单 i d</value></data>
+  <data name="Version" xml:space="preserve"><value>版本</value></data>
+  <data name="Exchange" xml:space="preserve"><value>交易所</value></data>
+  <data name="Last book count" xml:space="preserve"><value>Last book count</value></data>
+  <data name="Select instrument" xml:space="preserve"><value>选择交易产品</value></data>
+  <data name="Mode delta" xml:space="preserve"><value>Delta模式</value></data>
+  <data name="Fourth range" xml:space="preserve"><value>Fourth range</value></data>
+  <data name="Historical depth (h)" xml:space="preserve"><value>Historical depth (h)</value></data>
+  <data name="Out std dev perc" xml:space="preserve"><value>标准差外百分比</value></data>
+  <data name="Signal settings" xml:space="preserve"><value>信号设置</value></data>
+  <data name="First vbp" xml:space="preserve"><value>第一个能量分布</value></data>
+  <data name="Enable delta" xml:space="preserve"><value>启动Delta</value></data>
+  <data name="Fourth color" xml:space="preserve"><value>第四颜色</value></data>
+  <data name="Enable alert" xml:space="preserve"><value>启动警报</value></data>
+  <data name="Bidask tick diff." xml:space="preserve"><value>Bidask tick diff.</value></data>
+  <data name="Use marker chart color" xml:space="preserve"><value>使用标注图表颜色</value></data>
+  <data name="Period length" xml:space="preserve"><value>周期长度</value></data>
+  <data name="Fourth label" xml:space="preserve"><value>Fourth label</value></data>
+  <data name="Maximum volume" xml:space="preserve"><value>最大成交量</value></data>
+  <data name="Order column settings" xml:space="preserve"><value>订单栏设置</value></data>
+  <data name="Percentual" xml:space="preserve"><value>百分比</value></data>
+  <data name="Status color" xml:space="preserve"><value>状态 颜色</value></data>
+  <data name="Enable popup" xml:space="preserve"><value>启用弹出窗口</value></data>
+  <data name="Full delta absorption" xml:space="preserve"><value>完整 Delta 订单消耗</value></data>
+  <data name="Hft settings" xml:space="preserve"><value>HFT高频设置</value></data>
+  <data name="Automatic" xml:space="preserve"><value>自动</value></data>
+  <data name="Enable sound" xml:space="preserve"><value>启动声音</value></data>
+  <data name="Show historical order" xml:space="preserve"><value>显示历史成交订单</value></data>
+  <data name="Align text to left" xml:space="preserve"><value>显示文字靠左</value></data>
+  <data name="Custom third name" xml:space="preserve"><value>自定义第三名称</value></data>
+  <data name="Width length" xml:space="preserve"><value>宽度长度</value></data>
+  <data name="Tick nearness" xml:space="preserve"><value>点数</value></data>
+  <data name="Ask pull back color" xml:space="preserve"><value>空单撤单背景颜色</value></data>
+  <data name="Strategy performance" xml:space="preserve"><value>策略性能表现</value></data>
+  <data name="Starting application" xml:space="preserve"><value>开启应用程序</value></data>
+  <data name="Volume alertsound" xml:space="preserve"><value>成交量警报声</value></data>
+  <data name="Plot once ended" xml:space="preserve"><value>剧情一旦结束</value></data>
+  <data name="Level enable" xml:space="preserve"><value>启动点位</value></data>
+  <data name="Exhaustion" xml:space="preserve"><value>订单衰竭</value></data>
+  <data name="Resize axis range" xml:space="preserve"><value>调整axisrange大小</value></data>
+  <data name="Include based on numer" xml:space="preserve"><value>包含based on numer</value></data>
+  <data name="Sim stop order condition" xml:space="preserve"><value>Sim 止损订单条件</value></data>
+  <data name="Visual appearance" xml:space="preserve"><value>视觉外观</value></data>
+  <data name="Ask back color" xml:space="preserve"><value>Ask back color</value></data>
+  <data name="Volumetrica" xml:space="preserve"><value>Insightrader</value></data>
+  <data name="Pull/Stack" xml:space="preserve"><value>拉出/堆叠</value></data>
+  <data name="Loading workspace" xml:space="preserve"><value>加载图表夹</value></data>
+  <data name="Days to show" xml:space="preserve"><value>放映天数</value></data>
+  <data name="Days to load" xml:space="preserve"><value>加载的天数</value></data>
+  <data name="Show canceled" xml:space="preserve"><value>显示取消的订单</value></data>
+  <data name="Filter first price" xml:space="preserve"><value>Filter first price</value></data>
+  <data name="Average" xml:space="preserve"><value>平均</value></data>
+  <data name="Current workspace" xml:space="preserve"><value>当前图表夹</value></data>
+  <data name="Expiration:" xml:space="preserve"><value>到期日:</value></data>
+  <data name="Resistance line style" xml:space="preserve"><value>阻力线风格</value></data>
+  <data name="Only once per bar" xml:space="preserve"><value>每个柱状图一次</value></data>
+  <data name="Noe color" xml:space="preserve"><value>NOE 颜色</value></data>
+  <data name="Resistance line width" xml:space="preserve"><value>阻力线宽度</value></data>
+  <data name="Value label" xml:space="preserve"><value>价值标签</value></data>
+  <data name="Show bid/ask volume" xml:space="preserve"><value>显示买入/卖出量</value></data>
+  <data name="Bid avg color" xml:space="preserve"><value>Bid avg color</value></data>
+  <data name="Zig zag settings" xml:space="preserve"><value>Zig Zag 设置</value></data>
+  <data name="Visible" xml:space="preserve"><value>可见的</value></data>
+  <data name="Resistance for min number" xml:space="preserve"><value>阻力线最小值</value></data>
+  <data name="Auction" xml:space="preserve"><value>拍卖</value></data>
+  <data name="Stopiceberg settings" xml:space="preserve"><value>Iceberg冰山突破单设置</value></data>
+  <data name="Mode vol" xml:space="preserve"><value>成交量模式</value></data>
+  <data name="Average volume" xml:space="preserve"><value>平均成交量</value></data>
+  <data name="Minimum number trades" xml:space="preserve"><value>最小number of trades</value></data>
+  <data name="Auto trading enabled" xml:space="preserve"><value>自动交易开启</value></data>
+  <data name="Modified" xml:space="preserve"><value>被更改</value></data>
+  <data name="Top contrast" xml:space="preserve"><value>高对比度</value></data>
+  <data name="Error msg" xml:space="preserve"><value>报错弹窗</value></data>
+  <data name="Show fundamental" xml:space="preserve"><value>显示基本面</value></data>
+  <data name="Level value" xml:space="preserve"><value>点位数值</value></data>
+  <data name="Level width" xml:space="preserve"><value>点位宽度</value></data>
+  <data name="Highlight color" xml:space="preserve"><value>高亮颜色</value></data>
+  <data name="Atr avg" xml:space="preserve"><value>Atr 平均值</value></data>
+  <data name="Enable filter c v d" xml:space="preserve"><value>启动 筛选  CVD</value></data>
+  <data name="Include mode" xml:space="preserve"><value>包含模式</value></data>
+  <data name="Second positive color" xml:space="preserve"><value>第二正值颜色</value></data>
+  <data name="Trading settings" xml:space="preserve"><value>交易设置</value></data>
+  <data name="Target enabled" xml:space="preserve"><value>开启目标位</value></data>
+  <data name="You have to select at least one window type" xml:space="preserve"><value>你不得不选择只杀偶一个窗口类别</value></data>
+  <data name="Show retracements" xml:space="preserve"><value>显示价格回撤</value></data>
+  <data name="Period value" xml:space="preserve"><value>周期数值</value></data>
+  <data name="Graphics settings" xml:space="preserve"><value>图像颜色设置</value></data>
+  <data name="Indicators" xml:space="preserve"><value>指标</value></data>
+  <data name="Options" xml:space="preserve"><value>选项</value></data>
+  <data name="Aggregate trade" xml:space="preserve"><value>聚合订单</value></data>
+  <data name="Range target" xml:space="preserve"><value>Range目标</value></data>
+  <data name="Save new" xml:space="preserve"><value>保存新的</value></data>
+  <data name="Support line" xml:space="preserve"><value>支撑线</value></data>
+  <data name="Gain text color" xml:space="preserve"><value>Gain text color</value></data>
+  <data name="Opacity" xml:space="preserve"><value>不透明</value></data>
+  <data name="Open PL" xml:space="preserve"><value>持仓 PL</value></data>
+  <data name="Use sec. axis" xml:space="preserve"><value>使用秒。轴</value></data>
+  <data name="Check delta" xml:space="preserve"><value>检测Delta</value></data>
+  <data name="Convert symbol to TickMill" xml:space="preserve"><value>转换标的到TickMill</value></data>
+  <data name="Bid highlight" xml:space="preserve"><value>Bid highlight</value></data>
+  <data name="Bar marker width" xml:space="preserve"><value>Bar marker width</value></data>
+  <data name="Linewidth" xml:space="preserve"><value>线粗细</value></data>
+  <data name="Sell limit color" xml:space="preserve"><value>限价卖出颜色</value></data>
+  <data name="Arrange" xml:space="preserve"><value>安排</value></data>
+  <data name="Min bar" xml:space="preserve"><value>Min bar</value></data>
+  <data name="Min vol" xml:space="preserve"><value>最小成交量</value></data>
+  <data name="Shifted poc tick grouping" xml:space="preserve"><value>移动poc tick grouping</value></data>
+  <data name="Use axis sec." xml:space="preserve"><value>使用轴秒。</value></data>
+  <data name="Minimum" xml:space="preserve"><value>最小</value></data>
+  <data name="New symbol" xml:space="preserve"><value>新建交易标的</value></data>
+  <data name="Based on minute data" xml:space="preserve"><value>分钟数据基础</value></data>
+  <data name="Please select an exchange" xml:space="preserve"><value>请选择交易所</value></data>
+  <data name="Global crosshair" xml:space="preserve"><value>全局十字光标</value></data>
+  <data name="Subgraph style" xml:space="preserve"><value>附图</value></data>
+  <data name="Extend line to left" xml:space="preserve"><value>延长到左侧</value></data>
+  <data name="Till end window" xml:space="preserve"><value>Till end 窗口</value></data>
+  <data name="Move orders" xml:space="preserve"><value>移动订单</value></data>
+  <data name="Retracement color" xml:space="preserve"><value>回撤线颜色</value></data>
+  <data name="Asian session" xml:space="preserve"><value>亚洲时段</value></data>
+  <data name="Minimum opacity" xml:space="preserve"><value>最低不透明度</value></data>
+  <data name="Rejected" xml:space="preserve"><value>拒绝</value></data>
+  <data name="Use oco strategy" xml:space="preserve"><value>使用OCO策略</value></data>
+  <data name="Resistence color" xml:space="preserve"><value>阻力颜色</value></data>
+  <data name="Micro levels enable" xml:space="preserve"><value>启动微观点位</value></data>
+  <data name="Default quantites" xml:space="preserve"><value>默认数量</value></data>
+  <data name="Width based volume" xml:space="preserve"><value>宽度基于成交量</value></data>
+  <data name="Are you sure to stop replay?" xml:space="preserve"><value>你确定要停止回放吗?</value></data>
+  <data name="Duplicate adv. ts" xml:space="preserve"><value>复制逐笔订单窗口</value></data>
+  <data name="Retracement width" xml:space="preserve"><value>回撤线宽度</value></data>
+  <data name="Use custom time" xml:space="preserve"><value>使用自定义时间</value></data>
+  <data name="Minimum retracement" xml:space="preserve"><value>最小回撤线</value></data>
+  <data name="Custom second name" xml:space="preserve"><value>自定义第二名称</value></data>
+  <data name="Volume settings" xml:space="preserve"><value>成交量设置</value></data>
+  <data name="Cumulative" xml:space="preserve"><value>累积</value></data>
+  <data name="Convert symbol to IC Markets" xml:space="preserve"><value>将符号转换为 IC Markets</value></data>
+  <data name="Filled qty" xml:space="preserve"><value>成交的手数</value></data>
+  <data name="Exclude gap" xml:space="preserve"><value>剔除缺口</value></data>
+  <data name="Volume poc" xml:space="preserve"><value>能量分布控制点POC</value></data>
+  <data name="Show options" xml:space="preserve"><value>显示选项</value></data>
+  <data name="Dn shadow color" xml:space="preserve"><value>Dn 阴影颜色</value></data>
+  <data name="Monitor" xml:space="preserve"><value>监视器</value></data>
+  <data name="Monthly" xml:space="preserve"><value>按月</value></data>
+  <data name="Ini session" xml:space="preserve"><value>Ini session</value></data>
+  <data name="Move BE" xml:space="preserve"><value>移动 BE</value></data>
+  <data name="Over bought level" xml:space="preserve"><value>超买水平</value></data>
+  <data name="Remove resolutions" xml:space="preserve"><value>移除resolution</value></data>
+  <data name="Profile settings" xml:space="preserve"><value>能量分布设置</value></data>
+  <data name="Execute backtest" xml:space="preserve"><value>执行模型回测</value></data>
+  <data name="File seems not to be a workspace or it is corrupted" xml:space="preserve"><value>此文件并不是图表夹文件</value></data>
+  <data name="Delimitator" xml:space="preserve"><value>分隔符</value></data>
+  <data name="Custom fourth name" xml:space="preserve"><value>自定义第四名称</value></data>
+  <data name="Continuos contract" xml:space="preserve"><value>连续主力合约</value></data>
+  <data name="Important levels" xml:space="preserve"><value>重要点位</value></data>
+  <data name="Min tick bar" xml:space="preserve"><value>Min tick bar</value></data>
+  <data name="Volumes" xml:space="preserve"><value>成交量</value></data>
+  <data name="Volbars" xml:space="preserve"><value>VolBars</value></data>
+  <data name="Volbook" xml:space="preserve"><value>InsightBook微观流动性图</value></data>
+  <data name="Min. body ticks" xml:space="preserve"><value>分钟。身体蜱虫</value></data>
+  <data name="Include open position" xml:space="preserve"><value>包含已开仓持仓</value></data>
+  <data name="Set width" xml:space="preserve"><value>设置宽度</value></data>
+  <data name="Nt profile" xml:space="preserve"><value>NT能量分布</value></data>
+  <data name="Erase all drawing" xml:space="preserve"><value>删除所有画线</value></data>
+  <data name="Filter 1" xml:space="preserve"><value>过滤 1</value></data>
+  <data name="Filter 2" xml:space="preserve"><value>过滤 2</value></data>
+  <data name="Auto group factory" xml:space="preserve"><value>自动群组设置</value></data>
+  <data name="Zig zag mode" xml:space="preserve"><value>zig zag 模式</value></data>
+  <data name="Show historical orders" xml:space="preserve"><value>显示历史成交订单</value></data>
+  <data name="Last back color" xml:space="preserve"><value>Last back color</value></data>
+  <data name="Filled column" xml:space="preserve"><value>成交栏</value></data>
+  <data name="Till interaction" xml:space="preserve"><value>Till interaction</value></data>
+  <data name="Auction color" xml:space="preserve"><value>拍卖颜色</value></data>
+  <data name="Selected category" xml:space="preserve"><value>已选的类别</value></data>
+  <data name="Add symbol" xml:space="preserve"><value>添加产品代码</value></data>
+  <data name="Symbol already inserted" xml:space="preserve"><value>交易产品已经添加</value></data>
+  <data name="Minimum delta value difference" xml:space="preserve"><value>最小 Delta 值差异</value></data>
+  <data name="Min. absorption vol." xml:space="preserve"><value>Min. absorption vol</value></data>
+  <data name="General settings" xml:space="preserve"><value>通用设置</value></data>
+  <data name="Minimum sum volume" xml:space="preserve"><value>最小成交量之和</value></data>
+  <data name="Delta ask color" xml:space="preserve"><value>达美询问颜色</value></data>
+  <data name="Symbol not selected" xml:space="preserve"><value>交易标的未选择</value></data>
+  <data name="30 seconds" xml:space="preserve"><value>30 秒</value></data>
+  <data name="Daily profile" xml:space="preserve"><value>日能量分布图</value></data>
+  <data name="Show outside border" xml:space="preserve"><value>显示外部边界线</value></data>
+  <data name="Insert a valid param" xml:space="preserve"><value>输入有效的参数</value></data>
+  <data name="Daily Runup" xml:space="preserve"><value>每日助跑</value></data>
+  <data name="Show text for zero values" xml:space="preserve"><value>显示 文字0</value></data>
+  <data name="Indicator list" xml:space="preserve"><value>指标列表</value></data>
+  <data name="Format auto number" xml:space="preserve"><value>Format auto number</value></data>
+  <data name="Custom Time Session (Exch Time)" xml:space="preserve"><value>自定义时间会话（Exch Time）</value></data>
+  <data name="Include on auto center" xml:space="preserve"><value>包含自动居中</value></data>
+  <data name="Show bubbles" xml:space="preserve"><value>显示Bubbles</value></data>
+  <data name="Asian start time" xml:space="preserve"><value>亚洲开始时间</value></data>
+  <data name="File is not in the correct folder. Please put alert in AlertSound Folder" xml:space="preserve"><value>文件不在正确的位置。请设置警告在AlertSound文件夹中。</value></data>
+  <data name="Third envelope" xml:space="preserve"><value>第三 信封</value></data>
+  <data name="Summary text size" xml:space="preserve"><value>总览文字大小</value></data>
+  <data name="Low session color" xml:space="preserve"><value>低会话颜色</value></data>
+  <data name="Day begin" xml:space="preserve"><value>起始日</value></data>
+  <data name="Use commission" xml:space="preserve"><value>使用计算手续费</value></data>
+  <data name="Buy market" xml:space="preserve"><value>市价多单</value></data>
+  <data name="Volswing settings" xml:space="preserve"><value>VolSwing设置</value></data>
+  <data name="Delta imblanace max. vol" xml:space="preserve"><value>Delta失衡最大成交量</value></data>
+  <data name="Refresh calendar" xml:space="preserve"><value>刷新财经日历</value></data>
+  <data name="Include all symbols" xml:space="preserve"><value>包含所有标的</value></data>
+  <data name="Time sales" xml:space="preserve"><value>Time sales</value></data>
+  <data name="End date/time" xml:space="preserve"><value>结束 日期/时间</value></data>
+  <data name="Impossible to add two alerts with the same name" xml:space="preserve"><value>Impossible to add two alerts with the same name</value></data>
+  <data name="Minimum imbalance" xml:space="preserve"><value>最小不均衡</value></data>
+  <data name="Background inferior side" xml:space="preserve"><value>Background inferior side</value></data>
+  <data name="Alert message" xml:space="preserve"><value>警报讯息</value></data>
+  <data name="Nome background" xml:space="preserve"><value>名称背景</value></data>
+  <data name="Filter ask color" xml:space="preserve"><value>ask过滤颜色</value></data>
+  <data name="Offers column" xml:space="preserve"><value>Offers column</value></data>
+  <data name="Trade list" xml:space="preserve"><value>交易列表</value></data>
+  <data name="Trade mode" xml:space="preserve"><value>交易模式</value></data>
+  <data name="Trade type" xml:space="preserve"><value>订单类型</value></data>
+  <data name="Market Scanner" xml:space="preserve"><value>市场扫描仪</value></data>
+  <data name="Diamond width" xml:space="preserve"><value>菱形宽</value></data>
+  <data name="Range length" xml:space="preserve"><value>range周期</value></data>
+  <data name="Save changes" xml:space="preserve"><value>保存更改</value></data>
+  <data name="Num bar std dev" xml:space="preserve"><value>Num bar std dev</value></data>
+  <data name="Upper color" xml:space="preserve"><value>上方颜色</value></data>
+  <data name="Border based on open/close" xml:space="preserve"><value>Border based on open/close</value></data>
+  <data name="Atr multiplier value" xml:space="preserve"><value>Atr multiplier value</value></data>
+  <data name="Add exchange" xml:space="preserve"><value>添加交易所</value></data>
+  <data name="Export CSV" xml:space="preserve"><value>导出 CSV</value></data>
+  <data name="Scanner symbols" xml:space="preserve"><value>筛选器交易标的</value></data>
+  <data name="Fresh zone" xml:space="preserve"><value>Fresh Zone</value></data>
+  <data name="% value area" xml:space="preserve"><value>% 价值区域</value></data>
+  <data name="Take profit" xml:space="preserve"><value>止盈</value></data>
+  <data name="Delta mode" xml:space="preserve"><value>Delta 模式</value></data>
+  <data name="Maximum" xml:space="preserve"><value>最大</value></data>
+  <data name="Max qty" xml:space="preserve"><value>最大数量</value></data>
+  <data name="Max vol" xml:space="preserve"><value>最大成交量</value></data>
+  <data name="Max m s" xml:space="preserve"><value>Max MS</value></data>
+  <data name="Fixed/positive color" xml:space="preserve"><value>固定/positive color</value></data>
+  <data name="Imbalance range color" xml:space="preserve"><value>不平衡范围颜色</value></data>
+  <data name="Sell calculator" xml:space="preserve"><value>卖计算器</value></data>
+  <data name="Account balance:" xml:space="preserve"><value>账户损益</value></data>
+  <data name="Trading panel" xml:space="preserve"><value>交易面板</value></data>
+  <data name="Trading sound" xml:space="preserve"><value>交易声音</value></data>
+  <data name="Show connection log" xml:space="preserve"><value>显示连接log</value></data>
+  <data name="Level type" xml:space="preserve"><value>点位类型</value></data>
+  <data name="Back color" xml:space="preserve"><value>背景颜色</value></data>
+  <data name="Developing" xml:space="preserve"><value>发展中</value></data>
+  <data name="Foot type" xml:space="preserve"><value>Footprint类型</value></data>
+  <data name="Buy Stop Limit" xml:space="preserve"><value>限价买入</value></data>
+  <data name="Custom name" xml:space="preserve"><value>自定义名称</value></data>
+  <data name="Dynamic line" xml:space="preserve"><value>动感线</value></data>
+  <data name="Ticks diff." xml:space="preserve"><value>蜱虫差异。</value></data>
+  <data name="Volume marker" xml:space="preserve"><value>成交量标注</value></data>
+  <data name="Marker ask absorption" xml:space="preserve"><value>标注订单在Ask消耗</value></data>
+  <data name="Bid filter 2" xml:space="preserve"><value>Bid filter 2</value></data>
+  <data name="Bid filter 1" xml:space="preserve"><value>Bid filter 1</value></data>
+  <data name="Labels on line" xml:space="preserve"><value>Labels on line</value></data>
+  <data name="Economic calendar" xml:space="preserve"><value>财经日历</value></data>
+  <data name="Imbalance val" xml:space="preserve"><value>非均衡 VAL</value></data>
+  <data name="Acc index" xml:space="preserve"><value>指数账户</value></data>
+  <data name="Iceberg settings" xml:space="preserve"><value>iceberg冰山单设置</value></data>
+  <data name="Primary color:" xml:space="preserve"><value>初始颜色:</value></data>
+  <data name="Loading" xml:space="preserve"><value>加载中</value></data>
+  <data name="Up/Down Tick" xml:space="preserve"><value>向上/向下刻度线</value></data>
+  <data name="Retracement line width" xml:space="preserve"><value>回撤线线宽度</value></data>
+  <data name="Resistance for min number +3" xml:space="preserve"><value>阻力线最小值 +3</value></data>
+  <data name="Resistance for min number +2" xml:space="preserve"><value>阻力线最小值 +2</value></data>
+  <data name="Resistance for min number +1" xml:space="preserve"><value>阻力线最小值 +1</value></data>
+  <data name="Mid point color" xml:space="preserve"><value>中间点颜色</value></data>
+  <data name="Enable bid/ask" xml:space="preserve"><value>启动 bid/ask</value></data>
+  <data name="Trend retracement enables" xml:space="preserve"><value>趋势回撤线开启</value></data>
+  <data name="Symbol not found" xml:space="preserve"><value>未找到交易标的</value></data>
+  <data name="Stacked in seconds" xml:space="preserve"><value>数秒内即可堆叠</value></data>
+  <data name="Up color" xml:space="preserve"><value>上方颜色</value></data>
+  <data name="Use fixed margin" xml:space="preserve"><value>使用固定保证金</value></data>
+  <data name="Bid-Ask Volume" xml:space="preserve"><value>买卖量</value></data>
+  <data name="Enable shortcut reset" xml:space="preserve"><value>启动快捷方式重置</value></data>
+  <data name="Fill. price" xml:space="preserve"><value>成交价格</value></data>
+  <data name="Your license is expired or check your internet connection" xml:space="preserve"><value>你的激活码已经过期或者请检查你的本地网络</value></data>
+  <data name="End retracement color" xml:space="preserve"><value>结束回撤线</value></data>
+  <data name="Manage rollover" xml:space="preserve"><value>管理展期</value></data>
+  <data name="Time settings" xml:space="preserve"><value>时间设置</value></data>
+  <data name="Low color" xml:space="preserve"><value>Low color</value></data>
+  <data name="Up ticks" xml:space="preserve"><value>上涨报价</value></data>
+  <data name="Fixed bars" xml:space="preserve"><value>Fixed bars</value></data>
+  <data name="Multiple area" xml:space="preserve"><value>多个区域</value></data>
+  <data name="Checking updates" xml:space="preserve"><value>检查更新</value></data>
+  <data name="Pend. price" xml:space="preserve"><value>待定价格</value></data>
+  <data name="Pos. delta trade" xml:space="preserve"><value>持仓delta交易</value></data>
+  <data name="Right length" xml:space="preserve"><value>右长度</value></data>
+  <data name="Min ratio diff" xml:space="preserve"><value>Min ratio diff</value></data>
+  <data name="Bid profile color" xml:space="preserve"><value>多方分布颜色</value></data>
+  <data name="Ini time session" xml:space="preserve"><value>Ini time session</value></data>
+  <data name="Convert symbol to SwissQuote" xml:space="preserve"><value>转换标的到SwissQuote</value></data>
+  <data name="Flat symbol" xml:space="preserve"><value>全清产品</value></data>
+  <data name="Use oco order" xml:space="preserve"><value>使用OCO订单</value></data>
+  <data name="Buy order" xml:space="preserve"><value>买多</value></data>
+  <data name="Vbp period" xml:space="preserve"><value>能量K线周期</value></data>
+  <data name="Buy color" xml:space="preserve"><value>Buy color</value></data>
+  <data name="Sell filter 2" xml:space="preserve"><value>卖出 筛选 2</value></data>
+  <data name="Sell filter 1" xml:space="preserve"><value>卖出 筛选 1</value></data>
+  <data name="Buy limit" xml:space="preserve"><value>限价多单</value></data>
+  <data name="Volumetrica trading" xml:space="preserve"><value>Insightrader 微观交易</value></data>
+  <data name="Far right" xml:space="preserve"><value>右侧远端</value></data>
+  <data name="Download from volserver" xml:space="preserve"><value>从Insightrader服务器下载数据</value></data>
+  <data name="Dev. poc start time" xml:space="preserve"><value>Dev POC 开始时间</value></data>
+  <data name="You can' t disconnect a feed while it is connecting" xml:space="preserve"><value>你不能断开数据当连接过程中</value></data>
+  <data name="Maximum tick of poc distance" xml:space="preserve"><value>poc距离的最大刻度</value></data>
+  <data name="Ranking" xml:space="preserve"><value>排行</value></data>
+  <data name="Range 2" xml:space="preserve"><value>Range 2</value></data>
+  <data name="Range 3" xml:space="preserve"><value>Range 3</value></data>
+  <data name="Range 1" xml:space="preserve"><value>Range 1</value></data>
+  <data name="Range 4" xml:space="preserve"><value>Range 4</value></data>
+  <data name="Message" xml:space="preserve"><value>信息</value></data>
+  <data name="Zero line" xml:space="preserve"><value>零线</value></data>
+  <data name="TF param" xml:space="preserve"><value>TF参数</value></data>
+  <data name="Trading panel shown" xml:space="preserve"><value>显示交易控制台</value></data>
+  <data name="Days of week" xml:space="preserve"><value>星期几</value></data>
+  <data name="Bid/ask line" xml:space="preserve"><value>多/空 线</value></data>
+  <data name="Properties" xml:space="preserve"><value>属性</value></data>
+  <data name="Sell filled color" xml:space="preserve"><value>卖出 筛选 颜色</value></data>
+  <data name="Minimum lateral number bar" xml:space="preserve"><value>最小lateral number bar</value></data>
+  <data name="Level line width" xml:space="preserve"><value>点位线宽度</value></data>
+  <data name="Volume profile" xml:space="preserve"><value>能量分布</value></data>
+  <data name="Level line style" xml:space="preserve"><value>点位线类型</value></data>
+  <data name="Convert symbol to Activtrades" xml:space="preserve"><value>转换标的到ActivTrades</value></data>
+  <data name="Enable volswing" xml:space="preserve"><value>启动 VolSwing</value></data>
+  <data name="Envelope style" xml:space="preserve"><value>信封风格</value></data>
+  <data name="Envelope width" xml:space="preserve"><value>信封宽度</value></data>
+  <data name="Volume filter" xml:space="preserve"><value>成交量筛选</value></data>
+  <data name="Level line color" xml:space="preserve"><value>点位线颜色</value></data>
+  <data name="colore" xml:space="preserve"><value>Colore % media ctvl. </value></data>
+  <data name="Outside bar style" xml:space="preserve"><value>外围柱状图风格</value></data>
+  <data name="%k period" xml:space="preserve"><value>%k 周期</value></data>
+  <data name="Sell stp" xml:space="preserve"><value>突破卖出</value></data>
+  <data name="Sell ask" xml:space="preserve"><value>卖出ask</value></data>
+  <data name="Sell lmt" xml:space="preserve"><value>限价卖出</value></data>
+  <data name="Sell mkt" xml:space="preserve"><value>市价卖出</value></data>
+  <data name="Min sum vol" xml:space="preserve"><value>Min sum vol</value></data>
+  <data name="Minimum body tick" xml:space="preserve"><value>最小 body tick</value></data>
+  <data name="Alert list" xml:space="preserve"><value>警报列表</value></data>
+  <data name="Alert name" xml:space="preserve"><value>警报名称</value></data>
+  <data name="Alert stop" xml:space="preserve"><value>停止警报</value></data>
+  <data name="Delta and total volume" xml:space="preserve"><value>Delta量与总成交量</value></data>
+  <data name="Day of week" xml:space="preserve"><value>每周的第几天</value></data>
+  <data name="Bid ask volumi" xml:space="preserve"><value>Bid ask volumi</value></data>
+  <data name="Stop&amp;iceberg settings" xml:space="preserve"><value>Iceberg&amp;冰山突破单设置</value></data>
+  <data name="Num epochs" xml:space="preserve"><value>Num epoche</value></data>
+  <data name="connections" xml:space="preserve"><value>连接</value></data>
+  <data name="2 minutes" xml:space="preserve"><value>2 分钟</value></data>
+  <data name="Zig zag tick rev" xml:space="preserve"><value>Zig zag tick rev.</value></data>
+  <data name="Sell Stop Limit" xml:space="preserve"><value>止损卖出限价</value></data>
+  <data name="Neg. text color" xml:space="preserve"><value>Neg. text color</value></data>
+  <data name="Qty increment" xml:space="preserve"><value>手数增量</value></data>
+  <data name="Chart id" xml:space="preserve"><value>图表 ID</value></data>
+  <data name="Show fund column" xml:space="preserve"><value>显示资金栏</value></data>
+  <data name="Support for min number +3" xml:space="preserve"><value>支撑最小值 +3</value></data>
+  <data name="Support for min number +2" xml:space="preserve"><value>支撑最小值 +2</value></data>
+  <data name="Support for min number +1" xml:space="preserve"><value>支撑最小值+1</value></data>
+  <data name="Settings profile" xml:space="preserve"><value>能量分布设置</value></data>
+  <data name="Price chart" xml:space="preserve"><value>价格图表</value></data>
+  <data name="Min price ticks increase" xml:space="preserve"><value>最低价格变动增加</value></data>
+  <data name="Bid offer back color" xml:space="preserve"><value>Bid offer back color</value></data>
+  <data name="Rank worst" xml:space="preserve"><value>排名最差</value></data>
+  <data name="Time&amp;sales" xml:space="preserve"><value>逐笔订单TAPE</value></data>
+  <data name="Delta std dev min" xml:space="preserve"><value>Delta 最小标准差</value></data>
+  <data name="Description" xml:space="preserve"><value>详细介绍</value></data>
+  <data name="Total volume" xml:space="preserve"><value>总成交量</value></data>
+  <data name="Price slope" xml:space="preserve"><value>价格斜率</value></data>
+  <data name="Price scale" xml:space="preserve"><value>价格比例</value></data>
+  <data name="Show percent" xml:space="preserve"><value>显示百分比</value></data>
+  <data name="Input data" xml:space="preserve"><value>输入数据</value></data>
+  <data name="Minimum tick vol" xml:space="preserve"><value>最小Tick成交量</value></data>
+  <data name="Manual configuration" xml:space="preserve"><value>手动配置</value></data>
+  <data name="Vol down color" xml:space="preserve"><value>成交量减少颜色</value></data>
+  <data name="Current to right" xml:space="preserve"><value>当前向右</value></data>
+  <data name="Building options" xml:space="preserve"><value>建立期权</value></data>
+  <data name="Increase width" xml:space="preserve"><value>Increase width</value></data>
+  <data name="Summary to view" xml:space="preserve"><value>浏览总览</value></data>
+  <data name="Add bracket" xml:space="preserve"><value>添加支架</value></data>
+  <data name="Min. stop run vol." xml:space="preserve"><value>Min. stop run vol.</value></data>
+  <data name="Left length" xml:space="preserve"><value>Left length</value></data>
+  <data name="Chart - default crosshair" xml:space="preserve"><value>图表 - 初始十字准线</value></data>
+  <data name="Flat account" xml:space="preserve"><value>全清账户</value></data>
+  <data name="Alert file name:" xml:space="preserve"><value>警报文件名称:</value></data>
+  <data name="Generate report" xml:space="preserve"><value>生成报告</value></data>
+  <data name="Color only dominant side" xml:space="preserve"><value>占主导的一次颜色</value></data>
+  <data name="Ticks offset" xml:space="preserve"><value>点数抵消</value></data>
+  <data name="Stop run settings" xml:space="preserve"><value>StopHunting止损捕捉设置</value></data>
+  <data name="Bid stack color" xml:space="preserve"><value>投标栈颜色</value></data>
+  <data name="All in one" xml:space="preserve"><value>一体化</value></data>
+  <data name="Rank top" xml:space="preserve"><value>排名靠前</value></data>
+  <data name="30 minutes" xml:space="preserve"><value>30 分钟</value></data>
+  <data name="Please stop replay before" xml:space="preserve"><value>请停止回放前</value></data>
+  <data name="Between bid/ask backround" xml:space="preserve"><value>Between bid/ask 背景色</value></data>
+  <data name="Negative color" xml:space="preserve"><value>负的颜色</value></data>
+  <data name="Loading database" xml:space="preserve"><value>加载数据库</value></data>
+  <data name="Strategy name" xml:space="preserve"><value>策略名称</value></data>
+  <data name="New strategy" xml:space="preserve"><value>新战略</value></data>
+  <data name="Ini filter" xml:space="preserve"><value>Ini filter</value></data>
+  <data name="Name show b g" xml:space="preserve"><value>名称展示BG</value></data>
+  <data name="Group mode" xml:space="preserve"><value>群组模式</value></data>
+  <data name="Extend poc" xml:space="preserve"><value>延长poc</value></data>
+  <data name="Price back color" xml:space="preserve"><value>价格 Back颜色</value></data>
+  <data name="One click trading" xml:space="preserve"><value>一键交易</value></data>
+  <data name="Abbreviation" xml:space="preserve"><value>缩写</value></data>
+  <data name="Last file" xml:space="preserve"><value>Last file</value></data>
+  <data name="Maximum loss" xml:space="preserve"><value>最大损失</value></data>
+  <data name="Maximum size" xml:space="preserve"><value>最大 Size</value></data>
+  <data name="Cvd settings" xml:space="preserve"><value>Cvd设置</value></data>
+  <data name="Settings dom" xml:space="preserve"><value>市场深度Dom设置</value></data>
+  <data name="United states" xml:space="preserve"><value>美国</value></data>
+  <data name="Vol std dev min" xml:space="preserve"><value>Vol std dev min</value></data>
+  <data name="Vol std dev max" xml:space="preserve"><value>Vol std dev max</value></data>
+  <data name="Max draw down" xml:space="preserve"><value>最大回撤</value></data>
+  <data name="Plot offset" xml:space="preserve"><value>Offset plot</value></data>
+  <data name="Enabled extended" xml:space="preserve"><value>开启延长线</value></data>
+  <data name="Show rectangle" xml:space="preserve"><value>显示矩形</value></data>
+  <data name="Enable book imbalance" xml:space="preserve"><value>启用书籍不平衡</value></data>
+  <data name="Auto color:" xml:space="preserve"><value>自动颜色:</value></data>
+  <data name="Strategy report" xml:space="preserve"><value>策略报告 </value></data>
+  <data name="Data feed source" xml:space="preserve"><value>数据源库</value></data>
+  <data name="Delta imbalance num tick" xml:space="preserve"><value>Delta失衡点数</value></data>
+  <data name="Auto center" xml:space="preserve"><value>自动居中</value></data>
+  <data name="Ask bid split" xml:space="preserve"><value>Ask bid 拆分</value></data>
+  <data name="Daily enabled" xml:space="preserve"><value>启动日线</value></data>
+  <data name="Cell back color" xml:space="preserve"><value>Cell back color</value></data>
+  <data name="Manual min. vol." xml:space="preserve"><value>Manual min. vol.</value></data>
+  <data name="Decrease width" xml:space="preserve"><value>调低宽度</value></data>
+  <data name="Exclude previous retracements" xml:space="preserve"><value>剔除过去的回撤线</value></data>
+  <data name="License error" xml:space="preserve"><value>软件激活码错误</value></data>
+  <data name="Overbought color" xml:space="preserve"><value>超买颜色</value></data>
+  <data name="Trading enabled" xml:space="preserve"><value>交易功能开启</value></data>
+  <data name="Zero color" xml:space="preserve"><value>Zero颜色</value></data>
+  <data name="Adjust rollover drawing" xml:space="preserve"><value>调整换月画图</value></data>
+  <data name="Symb name" xml:space="preserve"><value>交易标的名称</value></data>
+  <data name="Headers text color" xml:space="preserve"><value>标题文字颜色</value></data>
+  <data name="Bubble settings" xml:space="preserve"><value>泡泡设置</value></data>
+  <data name="Month expire" xml:space="preserve"><value>到期月</value></data>
+  <data name="Support color" xml:space="preserve"><value>支撑颜色</value></data>
+  <data name="Trade marker enabled" xml:space="preserve"><value>交易标注开启</value></data>
+  <data name="Candle width" xml:space="preserve"><value>K线宽度</value></data>
+  <data name="Show lbl background" xml:space="preserve"><value>显示lbl背景色</value></data>
+  <data name="Lock fill space" xml:space="preserve"><value>锁定区域</value></data>
+  <data name="Daily analysis" xml:space="preserve"><value>日线分析</value></data>
+  <data name="Log list" xml:space="preserve"><value>日志列表</value></data>
+  <data name="Enable tick nearness" xml:space="preserve"><value>启动tick nearness</value></data>
+  <data name="Show line" xml:space="preserve"><value>显示线</value></data>
+  <data name="Show text" xml:space="preserve"><value>显示文字</value></data>
+  <data name="Show vwap" xml:space="preserve"><value>显示 VWAP</value></data>
+  <data name="Color first letter" xml:space="preserve"><value>第一个字母的颜色</value></data>
+  <data name="Loading scanner" xml:space="preserve"><value>加载扫描器</value></data>
+  <data name="Enable last level line" xml:space="preserve"><value>启动最新的点位水平线</value></data>
+  <data name="Trade summary" xml:space="preserve"><value>交易总览</value></data>
+  <data name="Allign label to right" xml:space="preserve"><value>显示注释靠右</value></data>
+  <data name="Neutral color" xml:space="preserve"><value>中性色</value></data>
+  <data name="Profit loss" xml:space="preserve"><value>盈亏</value></data>
+  <data name="Bar zoomed" xml:space="preserve"><value>柱状放大</value></data>
+  <data name="Extend past zone" xml:space="preserve"><value>延伸至区域之外</value></data>
+  <data name="Exponential" xml:space="preserve"><value>指数</value></data>
+  <data name="Close color" xml:space="preserve"><value>关闭颜色</value></data>
+  <data name="Column settings" xml:space="preserve"><value>栏设置</value></data>
+  <data name="Profit/Loss" xml:space="preserve"><value>利润损失</value></data>
+  <data name="Window type" xml:space="preserve"><value>窗口类别</value></data>
+  <data name="You can not move this indicator" xml:space="preserve"><value>你不能移动这个指标</value></data>
+  <data name="Equity curve" xml:space="preserve"><value>权益曲线</value></data>
+  <data name="Save workspace" xml:space="preserve"><value>保存图表夹</value></data>
+  <data name="Support for min number" xml:space="preserve"><value>支撑最小值</value></data>
+  <data name="Composite" xml:space="preserve"><value>混合</value></data>
+  <data name="All trades" xml:space="preserve"><value>所有交易</value></data>
+  <data name="Reset start day" xml:space="preserve"><value>重置起始日</value></data>
+  <data name="Dom levels color" xml:space="preserve"><value>Dom 点位 颜色</value></data>
+  <data name="Trend up color line" xml:space="preserve"><value>多头趋势线颜色</value></data>
+  <data name="Bold font" xml:space="preserve"><value>Bold font</value></data>
+  <data name="Highlight seconds" xml:space="preserve"><value>突出显示秒数</value></data>
+  <data name="Negative" xml:space="preserve"><value>负的</value></data>
+  <data name="Filter min." xml:space="preserve"><value>最小阈值</value></data>
+  <data name="Filter max." xml:space="preserve"><value>最大阈值</value></data>
+  <data name="Filter mode" xml:space="preserve"><value>筛选模式</value></data>
+  <data name="Filter time" xml:space="preserve"><value>Filter time</value></data>
+  <data name="Zone throw back" xml:space="preserve"><value>区域 throw back</value></data>
+  <data name="Bad high color" xml:space="preserve"><value>Bad high color</value></data>
+  <data name="Offset length" xml:space="preserve"><value>Length offset</value></data>
+  <data name="Min volume" xml:space="preserve"><value>最小成交量</value></data>
+  <data name="Retracements" xml:space="preserve"><value>回撤</value></data>
+  <data name="Delete data" xml:space="preserve"><value>删除数据</value></data>
+  <data name="Header back color" xml:space="preserve"><value>标题背景色</value></data>
+  <data name="Iceberg on bid color" xml:space="preserve"><value>iceberg冰山单在买价颜色</value></data>
+  <data name="Countdown" xml:space="preserve"><value>倒计时</value></data>
+  <data name="Calc. mode" xml:space="preserve"><value>计算模式</value></data>
+  <data name="Update symbols" xml:space="preserve"><value>更新产品代码</value></data>
+  <data name="Are you sure to close the workspace?" xml:space="preserve"><value>你确定要关闭图表夹吗?</value></data>
+  <data name="Value area" xml:space="preserve"><value>价值区域</value></data>
+  <data name="Up fill color" xml:space="preserve"><value>上方填充颜色</value></data>
+  <data name="Show as profile" xml:space="preserve"><value>显示为能量分布</value></data>
+  <data name="Tick sensitivity" xml:space="preserve"><value>点数敏感度</value></data>
+  <data name="Indicators Toolbar" xml:space="preserve"><value>指标工具栏</value></data>
+  <data name="Ask text color" xml:space="preserve"><value>Ask text color</value></data>
+  <data name="Max ratio" xml:space="preserve"><value>最大比率</value></data>
+  <data name="Auto flat position" xml:space="preserve"><value>自动全清仓位</value></data>
+  <data name="Exclude symbol not listed" xml:space="preserve"><value>排除未列出的符号</value></data>
+  <data name="Are you sure to remove the resolution?" xml:space="preserve"><value>你确定概要移除resolution?</value></data>
+  <data name="Heatmap" xml:space="preserve"><value>流动性分布图</value></data>
+  <data name="Europe session" xml:space="preserve"><value>欧洲时段</value></data>
+  <data name="Max delta" xml:space="preserve"><value>最大Delta</value></data>
+  <data name="Perform rollover" xml:space="preserve"><value>履行展期</value></data>
+  <data name="Windows width" xml:space="preserve"><value>窗口宽度</value></data>
+  <data name="Line start day" xml:space="preserve"><value>线开始日期</value></data>
+  <data name="Warning" xml:space="preserve"><value>警示</value></data>
+  <data name="Text msg" xml:space="preserve"><value>文字弹窗</value></data>
+  <data name="Order enable settings" xml:space="preserve"><value>订单开启设置</value></data>
+  <data name="Write a name for the strategy" xml:space="preserve"><value>为策略写一个名称</value></data>
+  <data name="Multiplier" xml:space="preserve"><value>乘数</value></data>
+  <data name="Buy calculator" xml:space="preserve"><value>购买计算器</value></data>
+  <data name="Max quantity" xml:space="preserve"><value>最大数量</value></data>
+  <data name="Ask profile color" xml:space="preserve"><value>空单分布颜色</value></data>
+  <data name="Insert a name for the new configuration" xml:space="preserve"><value>插入新配置的名称</value></data>
+  <data name="Filtered cvd" xml:space="preserve"><value>Filtered cvd</value></data>
+  <data name="Adv. time and sales" xml:space="preserve"><value>逐笔订单 TS</value></data>
+  <data name="Max std dev" xml:space="preserve"><value>Max std dev</value></data>
+  <data name="Buy stop color" xml:space="preserve"><value>市价突破多单颜色</value></data>
+  <data name="Money Managment" xml:space="preserve"><value>资金管理</value></data>
+  <data name="Exclude auction(tick data)" xml:space="preserve"><value>剔除拍卖（tick数据）</value></data>
+  <data name="Horizontal ray" xml:space="preserve"><value>水平射线</value></data>
+  <data name="Horizontal dom" xml:space="preserve"><value>水平dom</value></data>
+  <data name="Zone tick range" xml:space="preserve"><value>区域 Tick Range</value></data>
+  <data name="Acc broker" xml:space="preserve"><value>交易账户</value></data>
+  <data name="Exit" xml:space="preserve"><value>出口</value></data>
+  <data name="Acc." xml:space="preserve"><value>账户</value></data>
+  <data name="Algo" xml:space="preserve"><value>程序化Algo</value></data>
+  <data name="Fast" xml:space="preserve"><value>快速</value></data>
+  <data name="Feed" xml:space="preserve"><value>数据</value></data>
+  <data name="Flat" xml:space="preserve"><value>平坦的</value></data>
+  <data name="Gain" xml:space="preserve"><value>Gain</value></data>
+  <data name="Grid" xml:space="preserve"><value>Grid</value></data>
+  <data name="Dash" xml:space="preserve"><value>虚线</value></data>
+  <data name="Date" xml:space="preserve"><value>日期</value></data>
+  <data name="Days" xml:space="preserve"><value>日</value></data>
+  <data name="Desc" xml:space="preserve"><value>Desc.</value></data>
+  <data name="Down" xml:space="preserve"><value>下跌</value></data>
+  <data name="Mode" xml:space="preserve"><value>模式</value></data>
+  <data name="Main" xml:space="preserve"><value>主要</value></data>
+  <data name="Bars" xml:space="preserve"><value>酒吧</value></data>
+  <data name="Body" xml:space="preserve"><value>Body</value></data>
+  <data name="Code" xml:space="preserve"><value>代码</value></data>
+  <data name="Copy" xml:space="preserve"><value>复制</value></data>
+  <data name="Isin" xml:space="preserve"><value>伊辛</value></data>
+  <data name="None" xml:space="preserve"><value>无</value></data>
+  <data name="Name" xml:space="preserve"><value>名称</value></data>
+  <data name="Next" xml:space="preserve"><value>下一个</value></data>
+  <data name="Open" xml:space="preserve"><value>打开</value></data>
+  <data name="Link" xml:space="preserve"><value>联动</value></data>
+  <data name="Line" xml:space="preserve"><value>线</value></data>
+  <data name="List" xml:space="preserve"><value>列表</value></data>
+  <data name="Last" xml:space="preserve"><value>最后的</value></data>
+  <data name="Long" xml:space="preserve"><value>Long</value></data>
+  <data name="Load" xml:space="preserve"><value>加载</value></data>
+  <data name="Loss" xml:space="preserve"><value>Loss</value></data>
+  <data name="Left" xml:space="preserve"><value>左</value></data>
+  <data name="Unit" xml:space="preserve"><value>单元</value></data>
+  <data name="July" xml:space="preserve"><value>7月</value></data>
+  <data name="June" xml:space="preserve"><value>6月</value></data>
+  <data name="High" xml:space="preserve"><value>高</value></data>
+  <data name="Hand" xml:space="preserve"><value>手</value></data>
+  <data name="Vwap" xml:space="preserve"><value>VWAP</value></data>
+  <data name="Week" xml:space="preserve"><value>周</value></data>
+  <data name="Weak" xml:space="preserve"><value>弱</value></data>
+  <data name="Type" xml:space="preserve"><value>种类</value></data>
+  <data name="Text" xml:space="preserve"><value>文字</value></data>
+  <data name="Time" xml:space="preserve"><value>时间</value></data>
+  <data name="Stop" xml:space="preserve"><value>突破</value></data>
+  <data name="Send" xml:space="preserve"><value>发送</value></data>
+  <data name="Sell" xml:space="preserve"><value>卖</value></data>
+  <data name="Save" xml:space="preserve"><value>保存</value></data>
+  <data name="Slow" xml:space="preserve"><value>慢</value></data>
+  <data name="Show" xml:space="preserve"><value>显示</value></data>
+  <data name="Peak" xml:space="preserve"><value>波峰</value></data>
+  <data name="Path" xml:space="preserve"><value>路径</value></data>
+  <data name="Play" xml:space="preserve"><value>播放</value></data>
+  <data name="Plot" xml:space="preserve"><value>绘图</value></data>
+  <data name="Year" xml:space="preserve"><value>年</value></data>
+  <data name="Dash dot dot" xml:space="preserve"><value>虚点点</value></data>
+  <data name="Ask alert" xml:space="preserve"><value>空单警报</value></data>
+  <data name="Align right" xml:space="preserve"><value>靠右</value></data>
+  <data name="Custom message" xml:space="preserve"><value>自定义留言</value></data>
+  <data name="Enable chart dom" xml:space="preserve"><value>启动图表Dom</value></data>
+  <data name="Ask color" xml:space="preserve"><value>空单颜色</value></data>
+  <data name="Number row" xml:space="preserve"><value>数行</value></data>
+  <data name="Bad low color" xml:space="preserve"><value>Bad low color</value></data>
+  <data name="Number of seconds" xml:space="preserve"><value>秒</value></data>
+  <data name="Auto grouping" xml:space="preserve"><value>自动群组</value></data>
+  <data name="Sell market color" xml:space="preserve"><value>市价卖出颜色</value></data>
+  <data name="Please select a trading account" xml:space="preserve"><value>请选择一个交易账户</value></data>
+  <data name="Neg. delta volume" xml:space="preserve"><value>负delta volume</value></data>
+  <data name="Sensitivity" xml:space="preserve"><value>敏感性</value></data>
+  <data name="TF type" xml:space="preserve"><value>TF 类别</value></data>
+  <data name="Clear fills" xml:space="preserve"><value>清除填充</value></data>
+  <data name="Success" xml:space="preserve"><value>成功</value></data>
+  <data name="Grouping mode" xml:space="preserve"><value>群组模式</value></data>
+  <data name="Minutes period" xml:space="preserve"><value>分钟时段</value></data>
+  </root>
